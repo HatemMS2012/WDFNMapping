@@ -1,0 +1,272 @@
+Prop ID 	 Frame ID 	 ARG1 Role 	 ARG2 Role 	 simMethod 	 rank
+P710	FN_SemanticPredicate_281	[Event, Institution, Participant_1]	[Participant_1, Event, Institution]	WN	 1
+P710	FN_SemanticPredicate_647	[Individuals, Aggregate]	[Aggregate, Individuals]	WN	 2
+P710	FN_SemanticPredicate_529	[Person]	[Person]	WN	 3
+P710	FN_SemanticPredicate_245	[Competition, Participants, Participant_2]	[Participant_1, Participant_2, Competition]	WN	 4
+P710	FN_SemanticPredicate_517	[Agent]	[Agent]	WN	 5
+P710	FN_SemanticPredicate_949	[Gizmo]	[Gizmo]	WN	 6
+P710	FN_SemanticPredicate_394	[Person]	[Person]	WN	 7
+P710	FN_SemanticPredicate_144	[Substance, Effect]	[Substance, Effect]	WN	 8
+P710	FN_SemanticPredicate_673	[Attendee]	[Attendee]	WN	 9
+P710	FN_SemanticPredicate_751	[Representation, Creator]	[Representation, Creator]	WN	 10
+P1110	FN_SemanticPredicate_509	[Event, Agent]	[Event, Agent]	WN	 1
+P1346	FN_SemanticPredicate_291	[Competition, Competitor, Opponent]	[Competitor, Competition, Opponent]	WN	 1
+P276	FN_SemanticPredicate_48	[Locale]	[Locale]	WN	 1
+P276	FN_SemanticPredicate_138	[Defining_event, Locale]	[Defining_event, Locale]	WN	 2
+P527	FN_SemanticPredicate_721	[New_member, Group, Cause]	[New_member, Group, Existing_member]	WN	 1
+P527	FN_SemanticPredicate_705	[Group, Member]	[Group, Member]	WN	 2
+P527	FN_SemanticPredicate_164	[Product, Material, Use]	[Product, Material, Use]	WN	 3
+P527	FN_SemanticPredicate_770	[Body_part, Possessor]	[Possessor, Body_part]	WN	 4
+P527	FN_SemanticPredicate_663	[Total, Part]	[Total, Part]	WN	 5
+P138	FN_SemanticPredicate_573	[Namesake, Entity]	[Entity, Namesake]	WN	 1
+P138	FN_SemanticPredicate_644	[Entity, Name]	[Entity, Name]	WN	 2
+P127	FN_SemanticPredicate_695	[Possession, Owner]	[Owner, Possession]	WN	 1
+P301	FN_SemanticPredicate_809	[Topic, Text, Communicator]	[Communicator, Topic, Text]	WN	 1
+P61	FN_SemanticPredicate_99	[New_idea, Cognizer]	[Cognizer, New_idea]	WN	 1
+P461	FN_SemanticPredicate_363	[Sign_2, Sign_1, Signs]	[Sign_2, Sign_1, Signs]	WN	 1
+P462	FN_SemanticPredicate_153	[Entity, Color, Attribute]	[Color, Attribute, Entity]	WN	 1
+P462	FN_SemanticPredicate_518	[Stimulus]	[Stimulus]	WN	 2
+P462	FN_SemanticPredicate_936	[Person]	[Person]	WN	 3
+P366	FN_SemanticPredicate_531	[Goal, Means, Agent]	[Goal, Agent, Means]	WN	 1
+P366	FN_SemanticPredicate_504	[Instrument, Agent, Purpose]	[Instrument, Purpose, Agent]	WN	 2
+P366	FN_SemanticPredicate_258	[Ingestor, Substance, Delivery_device]	[Ingestor, Substance, Delivery_device]	WN	 3
+P366	FN_SemanticPredicate_1017	[Outcome, Determinant]	[Outcome, Determinant]	WN	 4
+P366	FN_SemanticPredicate_817	[Performance, Performer, Performer2]	[Performance, Role, Performer1]	WN	 5
+P366	FN_SemanticPredicate_120	[Duty, Responsible_party]	[Duty, Responsible_party]	WN	 6
+P366	FN_SemanticPredicate_232	[Event, Salient_entity, Agent]	[Event, Salient_entity, Agent]	WN	 7
+P1419	FN_SemanticPredicate_549	[Undergoer, Deformer, Cause]	[Undergoer, Cause, Deformer]	WN	 1
+P1419	FN_SemanticPredicate_507	[Substance, Shape]	[Shape, Substance]	WN	 2
+P646	FN_SemanticPredicate_706	[Time_period, Sub_part]	[]	WN	 1
+P1053	FN_SemanticPredicate_960	[Source, Theme, Agent]	[Source, Theme, Agent]	WN	 1
+P1400	FN_SemanticPredicate_770	[Possessor, Body_part]	[Possessor, Body_part]	WN	 1
+P18	FN_SemanticPredicate_161	[Artifact]	[Artifact]	WN	 1
+P18	FN_SemanticPredicate_679	[Instance, Type]	[Instance, Type]	WN	 2
+P18	FN_SemanticPredicate_845	[Image, Source]	[Image, Source]	WN	 3
+P18	FN_SemanticPredicate_30	[Entity_2, Entities, Entity_1]	[Entity_1, Entity_2, Entities]	WN	 4
+P18	FN_SemanticPredicate_672	[Percept, Source, Body_part]	[Source, Percept, Body_part]	WN	 5
+P18	FN_SemanticPredicate_300	[Figure, Audience, Impression]	[Impression, Figure, Audience]	WN	 6
+P51	FN_SemanticPredicate_1007	[Text]	[Text]	WN	 1
+P51	FN_SemanticPredicate_628	[Phenomenon, Agent, Attribute]	[Phenomenon, Agent, Attribute]	WN	 2
+P580	FN_SemanticPredicate_662	[Landmark_event, Event, Distance]	[Event, Landmark_event, Distance]	WN	 1
+P580	FN_SemanticPredicate_632	[Proposition, Support]	[Proposition, Support]	WN	 2
+P580	FN_SemanticPredicate_956	[Affected, Cause, Actor]	[Cause, Affected, Actor]	WN	 3
+P580	FN_SemanticPredicate_706	[Time_period, Sub_part]	[Time_period, Sub_part]	WN	 4
+P580	FN_SemanticPredicate_895	[Entity, Origin]	[Entity, Origin]	WN	 5
+P582	FN_SemanticPredicate_753	[Trajector, Landmark]	[Trajector, Landmark]	WN	 1
+P582	FN_SemanticPredicate_304	[Partner_2, Partner_1, Partners]	[Partner_1, Partner_2, Partners]	WN	 2
+P582	FN_SemanticPredicate_110	[Figure, Ground]	[Ground, Figure]	WN	 3
+P582	FN_SemanticPredicate_662	[Landmark_event, Event, Distance]	[Event, Landmark_event, Distance]	WN	 4
+P582	FN_SemanticPredicate_410	[Useful_location, Barrier, Theme]	[Useful_location, Barrier, Theme]	WN	 5
+P585	FN_SemanticPredicate_596	[Unit, Process, Count]	[Process, Unit, Count]	WN	 1
+P585	FN_SemanticPredicate_124	[Unit, Relative_time, Whole]	[Whole, Unit, Relative_time]	WN	 2
+P585	FN_SemanticPredicate_304	[Partner_2, Partner_1, Partners]	[Partner_2, Partner_1, Partners]	WN	 3
+P585	FN_SemanticPredicate_954	[Pattern, Process, Subevent]	[Pattern, Process, Subevent]	WN	 4
+P585	FN_SemanticPredicate_614	[Duration, State]	[Duration]	WN	 5
+P585	FN_SemanticPredicate_170	[Food]	[]	WN	 6
+P585	FN_SemanticPredicate_187	[Whole, Unit, Relative_time]	[Unit, Relative_time, Whole]	WN	 7
+P585	FN_SemanticPredicate_466	[]	[]	WN	 8
+P585	FN_SemanticPredicate_554	[Landmark_entity, Trajector_entity, Trajector_event]	[Trajector_event, Landmark_period, Landmark_event]	WN	 9
+P585	FN_SemanticPredicate_213	[Instance, Event]	[Event, Instance]	WN	 10
+P625	FN_SemanticPredicate_48	[Locale]	[Locale]	WN	 1
+P625	FN_SemanticPredicate_979	[Location, Agent, Point_of_contact]	[Location, Agent, Point_of_contact]	WN	 2
+P625	FN_SemanticPredicate_264	[Goal, Theme, Agent]	[Theme, Goal, Agent]	WN	 3
+P94	FN_SemanticPredicate_358	[Weapon]	[Weapon]	WN	 1
+P452	FN_SemanticPredicate_418	[Activity, Work, Salient_entity]	[Activity, Work, Salient_entity]	WN	 1
+P1056	FN_SemanticPredicate_539	[Substance]	[Substance]	WN	 1
+P18	FN_SemanticPredicate_161	[Artifact]	[Artifact]	WN	 1
+P18	FN_SemanticPredicate_679	[Instance, Type]	[Instance, Type]	WN	 2
+P18	FN_SemanticPredicate_845	[Image, Source]	[Image, Source]	WN	 3
+P18	FN_SemanticPredicate_30	[Entity_2, Entities, Entity_1]	[Entity_1, Entity_2, Entities]	WN	 4
+P18	FN_SemanticPredicate_672	[Percept, Source, Body_part]	[Source, Percept, Body_part]	WN	 5
+P18	FN_SemanticPredicate_300	[Figure, Audience, Impression]	[Impression, Figure, Audience]	WN	 6
+P571	FN_SemanticPredicate_955	[Decoration]	[Decoration]	WN	 1
+P571	FN_SemanticPredicate_703	[Whole, Part]	[Part, Whole]	WN	 2
+P112	FN_SemanticPredicate_948	[Agent, Action, Patient]	[Agent, Action, Patient]	WN	 1
+P740	FN_SemanticPredicate_66	[Focal_feature]	[Focal_feature]	WN	 1
+P740	FN_SemanticPredicate_398	[Proposition, Speaker, Text]	[Speaker, Proposition, Text]	WN	 2
+P740	FN_SemanticPredicate_12	[Theme, Source, Goal]	[Source, Theme, Goal]	WN	 3
+P121	FN_SemanticPredicate_100	[Supply, Possessor, Resource]	[Possessor, Resource, Supply]	WN	 1
+P115	FN_SemanticPredicate_584	[Building]	[Building]	WN	 1
+P115	FN_SemanticPredicate_522	[Undergoer]	[Undergoer]	WN	 2
+P118	FN_SemanticPredicate_440	[Organization, Members]	[Organization, Members]	WN	 1
+P118	FN_SemanticPredicate_620	[]	[]	WN	 2
+P286	FN_SemanticPredicate_394	[Person]	[Person]	WN	 1
+P634	FN_SemanticPredicate_887	[Title, Name]	[Title, Name]	WN	 1
+P634	FN_SemanticPredicate_768	[Activity, Governed, Leader]	[Leader, Governed, Role]	WN	 2
+P241	FN_SemanticPredicate_94	[Entities]	[Entities]	WN	 1
+P241	FN_SemanticPredicate_593	[Created_entity, Creator]	[Created_entity, Creator]	WN	 2
+P169	FN_SemanticPredicate_768	[Governed, Activity, Leader]	[Leader, Governed, Role]	WN	 1
+P488	FN_SemanticPredicate_768	[Governed, Activity, Leader]	[Leader, Role, Governed]	WN	 1
+P488	FN_SemanticPredicate_544	[Item, Limits_of_consideration, Contrast_set]	[Item, Contrast_set, Limits_of_consideration]	WN	 2
+P1308	FN_SemanticPredicate_330	[Duty, Responsible_party]	[Duty, Responsible_party]	WN	 1
+P248	FN_SemanticPredicate_66	[Focal_feature]	[Focal_feature]	WN	 1
+P248	FN_SemanticPredicate_398	[Speaker, Proposition, Text]	[Speaker, Proposition, Text]	WN	 2
+P248	FN_SemanticPredicate_12	[Theme, Source, Goal]	[Theme, Source, Goal]	WN	 3
+P304	FN_SemanticPredicate_380	[Addressee, Communicator, Address]	[Communication, Addressee, Communicator]	WN	 1
+P792	FN_SemanticPredicate_667	[Whole, Part, Ordinality]	[Ordinality, Whole, Part]	WN	 1
+P433	FN_SemanticPredicate_736	[Source, Emission]	[Source, Emission]	WN	 1
+P433	FN_SemanticPredicate_1007	[Text]	[Text]	WN	 2
+P433	FN_SemanticPredicate_150	[Question]	[Question]	WN	 3
+P433	FN_SemanticPredicate_0	[Theme, Supplier, Recipient]	[Theme, Recipient, Supplier]	WN	 4
+P433	FN_SemanticPredicate_593	[Created_entity, Creator]	[Created_entity]	WN	 5
+P478	FN_SemanticPredicate_1007	[Text]	[Text]	WN	 1
+P708	FN_SemanticPredicate_732	[Locale]	[Locale]	WN	 1
+P403	FN_SemanticPredicate_1006	[Theme, Source, Agent]	[Source, Theme, Agent]	WN	 1
+P403	FN_SemanticPredicate_960	[Source, Theme, Agent]	[Source, Theme, Agent]	WN	 2
+P21	FN_SemanticPredicate_361	[Person]	[Person]	WN	 1
+P569	FN_SemanticPredicate_709	[Honored_entity, Dedicated_entity, Dedicated_type]	[Honored_entity, Dedicated_type, Dedicated_entity]	WN	 1
+P1477	FN_SemanticPredicate_644	[Entity, Name]	[Name, Entity]	WN	 1
+P570	FN_SemanticPredicate_847	[Protagonist, Figure]	[Figure]	WN	 1
+P570	FN_SemanticPredicate_796	[Protagonist]	[Protagonist]	WN	 2
+P157	FN_SemanticPredicate_348	[Victim, Killer, Instrument]	[Killer, Victim, Cause]	WN	 1
+P157	FN_SemanticPredicate_400	[Executioner, Executed]	[Executioner, Executed]	WN	 2
+P69	FN_SemanticPredicate_479	[Teacher, Institution, Role]	[Institution, Subject, Teacher]	WN	 1
+P106	FN_SemanticPredicate_27	[Field, Employer, Employee]	[Position, Employer, Task]	WN	 1
+P106	FN_SemanticPredicate_859	[Salient_entity, Goal, Agent]	[Agent, Goal, Salient_entity]	WN	 2
+P106	FN_SemanticPredicate_1005	[Object, Measurement, Dimension]	[Dimension, Measurement, Object]	WN	 3
+P106	FN_SemanticPredicate_504	[Instrument, Purpose, Agent]	[Instrument, Purpose, Agent]	WN	 4
+P106	FN_SemanticPredicate_958	[Entity, Purpose]	[Purpose, Entity]	WN	 5
+P106	FN_SemanticPredicate_61	[Locale]	[Locale]	WN	 6
+P106	FN_SemanticPredicate_120	[Responsible_party, Duty]	[Duty, Responsible_party]	WN	 7
+P106	FN_SemanticPredicate_761	[Agent, Output, Input]	[Output, Agent, Input]	WN	 8
+P106	FN_SemanticPredicate_530	[Artifact]	[Artifact]	WN	 9
+P106	FN_SemanticPredicate_376	[Task, Employee, Position]	[Position, Employee, Task]	WN	 10
+P101	FN_SemanticPredicate_418	[Work, Practitioner, Activity]	[Activity, Work, Practitioner]	WN	 1
+P101	FN_SemanticPredicate_48	[Locale]	[Locale]	WN	 2
+P101	FN_SemanticPredicate_1005	[Dimension, Object, Measurement]	[Object, Measurement, Dimension]	WN	 3
+P101	FN_SemanticPredicate_758	[Person]	[Person]	WN	 4
+P101	FN_SemanticPredicate_183	[Reason, Agent, Evaluee]	[Reason, Evaluee, Agent]	WN	 5
+P101	FN_SemanticPredicate_272	[Predicate, Domain]	[Predicate, Domain]	WN	 6
+P101	FN_SemanticPredicate_809	[Text, Topic, Communicator]	[Topic, Text, Communicator]	WN	 7
+P800	FN_SemanticPredicate_27	[Field, Employee, Employer]	[Employer, Employee, Field]	WN	 1
+P800	FN_SemanticPredicate_859	[Goal, Salient_entity, Agent]	[Salient_entity, Agent, Goal]	WN	 2
+P800	FN_SemanticPredicate_1005	[Object, Measurement]	[Dimension, Measurement, Object]	WN	 3
+P800	FN_SemanticPredicate_958	[Entity, Purpose]	[Entity, Purpose]	WN	 4
+P800	FN_SemanticPredicate_61	[Locale]	[Locale]	WN	 5
+P800	FN_SemanticPredicate_761	[Agent, Output, Cause]	[Output, Agent, Input]	WN	 6
+P800	FN_SemanticPredicate_530	[Artifact]	[Artifact]	WN	 7
+P108	FN_SemanticPredicate_27	[Field, Employee, Employer]	[Employer, Employee, Field]	WN	 1
+P108	FN_SemanticPredicate_376	[Task, Field, Employer]	[Employer, Task, Employee]	WN	 2
+P102	FN_SemanticPredicate_647	[Aggregate, Individuals]	[Aggregate, Individuals]	WN	 1
+P102	FN_SemanticPredicate_281	[Participant_1, Institution, Event]	[Participant_1, Institution, Event]	WN	 2
+P102	FN_SemanticPredicate_673	[Attendee]	[Attendee]	WN	 3
+P140	FN_SemanticPredicate_139	[Expressor, Source, Information]	[Cognizer, Information, Expressor]	WN	 1
+P94	FN_SemanticPredicate_358	[Weapon]	[Weapon]	WN	 1
+P109	FN_SemanticPredicate_386	[Entity, Feature]	[Feature, Entity]	WN	 1
+P109	FN_SemanticPredicate_984	[Signature, Agreement, Signatory]	[Signature, Agreement, Signatory]	WN	 2
+P1066	FN_SemanticPredicate_479	[Fact, Student, Teacher]	[Teacher, Subject, Fact]	WN	 1
+P1066	FN_SemanticPredicate_394	[Person]	[Person]	WN	 2
+P802	FN_SemanticPredicate_479	[Teacher, Subject, Fact]	[Fact, Student, Teacher]	WN	 1
+P53	FN_SemanticPredicate_924	[Residence, Lodger, Host]	[Residence, Lodger, Host]	WN	 1
+P53	FN_SemanticPredicate_85	[Contents, Container]	[Container, Contents]	WN	 2
+P53	FN_SemanticPredicate_584	[Building]	[Building]	WN	 3
+P97	FN_SemanticPredicate_221	[Issuer, Bearer, Right]	[Issuer, Bearer, Document]	WN	 1
+P512	FN_SemanticPredicate_436	[Item, Rank]	[Rank, Item]	WN	 1
+P512	FN_SemanticPredicate_1000	[Mass, Individuals, Quantity]	[Quantity, Mass, Individuals]	WN	 2
+P512	FN_SemanticPredicate_53	[Gradable_attribute]	[Gradable_attribute]	WN	 3
+P512	FN_SemanticPredicate_221	[Issuer, Bearer, Obligation]	[Issuer, Right, Document]	WN	 4
+P734	FN_SemanticPredicate_644	[Entity, Name]	[Name, Entity]	WN	 1
+P735	FN_SemanticPredicate_644	[Entity, Name]	[Name, Entity]	WN	 1
+P742	FN_SemanticPredicate_644	[Entity, Name]	[Name, Entity]	WN	 1
+P1303	FN_SemanticPredicate_949	[Gizmo]	[Gizmo]	WN	 1
+P54	FN_SemanticPredicate_647	[Aggregate, Individuals]	[Individuals, Aggregate]	WN	 1
+P241	FN_SemanticPredicate_94	[Entities]	[Entities]	WN	 1
+P241	FN_SemanticPredicate_593	[Created_entity, Creator]	[Created_entity, Creator]	WN	 2
+P410	FN_SemanticPredicate_436	[Item, Rank]	[Rank, Item]	WN	 1
+P410	FN_SemanticPredicate_940	[Assessor, Phenomenon, Feature]	[Feature, Phenomenon, Assessor]	WN	 2
+P410	FN_SemanticPredicate_314	[Item, Rank, Dimension]	[Rank, Item, Dimension]	WN	 3
+P607	FN_SemanticPredicate_185	[Issue, Purpose, Side_2]	[Purpose, Issue, Side_2]	WN	 1
+P607	FN_SemanticPredicate_552	[Item_2, Items, Item_1]	[Item_2, Items, Item_1]	WN	 2
+P22	FN_SemanticPredicate_22	[Ego, Alter, Relatives]	[Alter, Ego, Relatives]	WN	 1
+P22	FN_SemanticPredicate_689	[Child, Mother, Father]	[Child, Mother, Father]	WN	 2
+P25	FN_SemanticPredicate_22	[Ego, Alter, Relatives]	[Ego, Alter, Relatives]	WN	 1
+P25	FN_SemanticPredicate_689	[Child, Mother, Father]	[Child, Mother, Father]	WN	 2
+P25	FN_SemanticPredicate_200	[Speaker, Text, Topic]	[Speaker, Text, Topic]	WN	 3
+P7	FN_SemanticPredicate_22	[Ego, Alter, Relatives]	[Ego, Alter, Relatives]	WN	 1
+P7	FN_SemanticPredicate_738	[Address_term, Interjection]	[Address_term, Interjection]	WN	 2
+P9	FN_SemanticPredicate_22	[Alter, Ego, Relatives]	[Ego, Alter, Relatives]	WN	 1
+P26	FN_SemanticPredicate_304	[Partner_2, Partner_1, Partners]	[Partner_2, Partner_1, Partners]	WN	 1
+P26	FN_SemanticPredicate_733	[Undertaking, Partner_1, Partner_2]	[Partners, Partner_1, Undertaking]	WN	 2
+P26	FN_SemanticPredicate_519	[Resource_controller, Resource, Behavior]	[Resource_controller, Resource, Behavior]	WN	 3
+P451	FN_SemanticPredicate_304	[Partner_2, Partner_1, Partners]	[Partner_2, Partner_1, Partners]	WN	 1
+P451	FN_SemanticPredicate_733	[Undertaking, Partner_2, Partner_1]	[Undertaking, Partner_1, Partner_2]	WN	 2
+P40	FN_SemanticPredicate_22	[Ego, Alter, Relatives]	[Ego, Alter, Relatives]	WN	 1
+P40	FN_SemanticPredicate_875	[Age, Person]	[Age, Person]	WN	 2
+P40	FN_SemanticPredicate_689	[Child, Mother, Father]	[Child, Mother, Father]	WN	 3
+P40	FN_SemanticPredicate_911	[Speaker, Topic, Addressee]	[Speaker, Topic, Addressee]	WN	 4
+P40	FN_SemanticPredicate_738	[Address_term, Interjection]	[Address_term, Interjection]	WN	 5
+P43	FN_SemanticPredicate_22	[Alter, Ego, Relatives]	[Ego, Alter, Relatives]	WN	 1
+P44	FN_SemanticPredicate_22	[Ego, Alter, Relatives]	[Ego, Alter, Relatives]	WN	 1
+P1038	FN_SemanticPredicate_22	[Ego, Alter, Relatives]	[Alter, Ego, Relatives]	WN	 1
+P105	FN_SemanticPredicate_436	[Item, Rank]	[Rank, Item]	WN	 1
+P105	FN_SemanticPredicate_940	[Assessor, Phenomenon, Feature]	[Phenomenon, Feature, Assessor]	WN	 2
+P105	FN_SemanticPredicate_314	[Item, Rank, Dimension]	[Rank, Item, Dimension]	WN	 3
+P459	FN_SemanticPredicate_125	[Purpose, Means, Agent]	[Purpose, Means, Agent]	WN	 1
+P176	FN_SemanticPredicate_441	[Product, Manufacturer, Factory]	[Manufacturer, Product, Factory]	WN	 1
+P348	FN_SemanticPredicate_228	[Category, Subtype]	[Category, Subtype]	WN	 1
+P94	FN_SemanticPredicate_358	[Weapon]	[Weapon]	WN	 1
+P522	FN_SemanticPredicate_737	[Path, Theme]	[Path, Theme]	WN	 1
+P516	FN_SemanticPredicate_61	[Locale]	[Locale]	WN	 1
+P520	FN_SemanticPredicate_358	[Weapon]	[Weapon]	WN	 1
+P828	FN_SemanticPredicate_956	[Cause, Affected, Actor]	[Cause, Actor, Affected]	WN	 1
+P828	FN_SemanticPredicate_754	[Action, State_of_Affairs, Agent]	[Action, State_of_Affairs, Agent]	WN	 2
+P828	FN_SemanticPredicate_1008	[Content, Arguer]	[Content, Arguer]	WN	 3
+P924	FN_SemanticPredicate_468	[Affliction, Treatment, Patient]	[Treatment, Affliction, Patient]	WN	 1
+P924	FN_SemanticPredicate_904	[Specialty]	[Specialty]	WN	 2
+P1050	FN_SemanticPredicate_322	[Patient, Ailment]	[Ailment, Patient]	WN	 1
+P135	FN_SemanticPredicate_479	[Teacher, Institution, Role]	[Institution, Subject, Teacher]	WN	 1
+P135	FN_SemanticPredicate_647	[Individuals, Aggregate]	[Aggregate, Individuals]	WN	 2
+P135	FN_SemanticPredicate_61	[Locale]	[Locale]	WN	 3
+P179	FN_SemanticPredicate_574	[Entity1, Entity2]	[Entity1, Entity2]	WN	 1
+P275	FN_SemanticPredicate_221	[Issuer, Right, Bearer]	[Issuer, Right, Document]	WN	 1
+P1476	FN_SemanticPredicate_221	[Issuer, Bearer, Right]	[Document, Right, Issuer]	WN	 1
+P371	FN_SemanticPredicate_647	[Individuals, Aggregate]	[Aggregate, Individuals]	WN	 1
+P371	FN_SemanticPredicate_93	[Guest, Host, Host_location]	[Host, Guest, Host_location]	WN	 2
+P371	FN_SemanticPredicate_924	[Residence, Lodger, Host]	[Host, Residence, Lodger]	WN	 3
+P371	FN_SemanticPredicate_673	[Attendee]	[Attendee]	WN	 4
+P437	FN_SemanticPredicate_23	[Individuals, Agent, Cause]	[Individuals, Agent, Cause]	WN	 1
+P447	FN_SemanticPredicate_110	[Figure, Ground]	[Figure, Ground]	WN	 1
+P447	FN_SemanticPredicate_125	[Purpose, Means, Agent]	[Purpose, Agent, Means]	WN	 2
+P449	FN_SemanticPredicate_218	[Nodes, Network]	[Nodes, Network]	WN	 1
+P449	FN_SemanticPredicate_420	[Locale]	[Locale]	WN	 2
+P453	FN_SemanticPredicate_817	[Performance, Role, Performer]	[Role, Performance, Performer1]	WN	 1
+P528	FN_SemanticPredicate_798	[Phenomenon, Cognizer, Instrument]	[Phenomenon, Cognizer, Topic]	WN	 1
+P528	FN_SemanticPredicate_628	[Agent, Phenomenon, Attribute]	[Agent, Phenomenon, Attribute]	WN	 2
+P1476	FN_SemanticPredicate_221	[Issuer, Bearer, Right]	[Document, Right, Issuer]	WN	 1
+P170	FN_SemanticPredicate_99	[New_idea, Cognizer]	[Cognizer, New_idea]	WN	 1
+P84	FN_SemanticPredicate_394	[Person]	[Person]	WN	 1
+P466	FN_SemanticPredicate_288	[Location, Resident, Co_resident]	[Resident, Location, Co_resident]	WN	 1
+P186	FN_SemanticPredicate_826	[Variable, Item]	[Variable, Item]	WN	 1
+P186	FN_SemanticPredicate_164	[Material, Use, Product]	[Material, Use, Product]	WN	 2
+P186	FN_SemanticPredicate_114	[Text, Item]	[Text, Item]	WN	 3
+P195	FN_SemanticPredicate_647	[Aggregate, Individuals]	[Aggregate, Individuals]	WN	 1
+P276	FN_SemanticPredicate_48	[Locale]	[Locale]	WN	 1
+P276	FN_SemanticPredicate_138	[Defining_event, Locale]	[Defining_event, Locale]	WN	 2
+P50	FN_SemanticPredicate_67	[Text, Author]	[Author, Text]	WN	 1
+P175	FN_SemanticPredicate_647	[Individuals, Aggregate]	[Aggregate, Individuals]	WN	 1
+P175	FN_SemanticPredicate_529	[Person]	[Person]	WN	 2
+P175	FN_SemanticPredicate_440	[Organization, Members]	[Organization, Members]	WN	 3
+P162	FN_SemanticPredicate_735	[Production, Artist, Performer]	[Artist, Production, Performer]	WN	 1
+P162	FN_SemanticPredicate_441	[Product, Manufacturer, Factory]	[Manufacturer, Product, Factory]	WN	 2
+P264	FN_SemanticPredicate_115	[Label, Entity, Speaker]	[Label, Medium, Entity]	WN	 1
+P57	FN_SemanticPredicate_768	[Governed, Leader, Activity]	[Leader, Role, Governed]	WN	 1
+P57	FN_SemanticPredicate_735	[Production, Artist, Performer]	[Artist, Production, Performer]	WN	 2
+P162	FN_SemanticPredicate_735	[Production, Artist, Performer]	[Artist, Production, Performer]	WN	 1
+P162	FN_SemanticPredicate_441	[Product, Manufacturer, Factory]	[Manufacturer, Product, Factory]	WN	 2
+P161	FN_SemanticPredicate_529	[Person]	[Person]	WN	 1
+P161	FN_SemanticPredicate_517	[Agent]	[Agent]	WN	 2
+P161	FN_SemanticPredicate_394	[Person]	[Person]	WN	 3
+P272	FN_SemanticPredicate_335	[Building_part]	[Building_part]	WN	 1
+P1620	FN_SemanticPredicate_274	[Goal, Cotheme, Theme]	[Cotheme, Theme, Path]	WN	 1
+P1595	FN_SemanticPredicate_997	[Accused, Charges, Arraign_authority]	[Charges, Accused, Arraign_authority]	WN	 1
+P1595	FN_SemanticPredicate_934	[Evaluee, Communicator, Reason]	[Reason, Evaluee, Communicator]	WN	 2
+P1595	FN_SemanticPredicate_96	[Duty, Situation, Principle]	[Duty, Principle, Situation]	WN	 3
+P1595	FN_SemanticPredicate_543	[Victim, Assailant]	[Victim, Assailant]	WN	 4
+P1595	FN_SemanticPredicate_768	[Activity, Leader, Governed]	[Governed, Activity, Leader]	WN	 5
+P1595	FN_SemanticPredicate_112	[Buyer, Seller, Rate]	[Buyer, Seller, Rate]	WN	 6
+P1437	FN_SemanticPredicate_910	[Plea]	[Court, Plea, Accused]	WN	 1
+P1437	FN_SemanticPredicate_927	[]	[Message, Addressee, Speaker]	WN	 2
+P1596	FN_SemanticPredicate_183	[Reason, Evaluee, Agent]	[Reason, Evaluee, Agent]	WN	 1
+P1594	FN_SemanticPredicate_940	[Phenomenon, Feature, Assessor]	[Assessor, Phenomenon, Feature]	WN	 1
+P1594	FN_SemanticPredicate_394	[Person]	[Person]	WN	 2
+P1593	FN_SemanticPredicate_169	[Assailant, Defender, Victim]	[Defender, Victim, Assailant]	WN	 1

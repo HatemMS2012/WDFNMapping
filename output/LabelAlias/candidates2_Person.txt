@@ -1,0 +1,100 @@
+Property ID 	 Property Label 	 Frame ID 	 Frame Label 	 Score 	 Matching SourceP21	sex or gender	FN_SemanticPredicate_361	People	2.0	 ALIAS-lus
+P569	date of birth	FN_SemanticPredicate_709	Commemorative	1.0	 ALIAS-lus
+P1477	birth name	FN_SemanticPredicate_644	Being_named	2.0	 ALIAS-lus
+P570	date of death	FN_SemanticPredicate_847	Dead_or_alive	2.0	 ALIAS-lus
+P570	date of death	FN_SemanticPredicate_796	Death	1.0	 ALIAS-lus
+P570	date of death	FN_SemanticPredicate_796	Death	1.0	 ALIAS-FrameLabel
+P157	killed by	FN_SemanticPredicate_348	Killing	3.0	 ALIAS-lus
+P157	killed by	FN_SemanticPredicate_400	Execution	1.0	 ALIAS-lus
+P69	educated at	FN_SemanticPredicate_479	Education_teaching	1.0	 ALIAS-lus
+P106	occupation	FN_SemanticPredicate_27	Being_employed	4.0	 ALIAS-lus
+P106	occupation	FN_SemanticPredicate_859	Working_on	2.0	 ALIAS-lus
+P106	occupation	FN_SemanticPredicate_504	Using	1.0	 ALIAS-lus
+P106	occupation	FN_SemanticPredicate_1005	Dimension	1.0	 ALIAS-lus
+P106	occupation	FN_SemanticPredicate_958	Usefulness	1.0	 ALIAS-lus
+P106	occupation	FN_SemanticPredicate_61	Locale_by_use	1.0	 ALIAS-lus
+P106	occupation	FN_SemanticPredicate_120	Being_obligated	1.0	 ALIAS-lus
+P106	occupation	FN_SemanticPredicate_376	Employing	1.0	 ALIAS-lus
+P106	occupation	FN_SemanticPredicate_530	Being_operational	1.0	 ALIAS-lus
+P106	occupation	FN_SemanticPredicate_761	Labor_product	1.0	 ALIAS-lus
+P106	occupation	FN_SemanticPredicate_455	Unemployment_rate	1.0	 ALIAS-lus
+P101	field of work	FN_SemanticPredicate_48	Locale	1.0	 ALIAS-lus
+P101	field of work	FN_SemanticPredicate_1005	Dimension	1.0	 ALIAS-lus
+P101	field of work	FN_SemanticPredicate_758	People_by_jurisdiction	1.0	 ALIAS-lus
+P101	field of work	FN_SemanticPredicate_418	Fields	1.0	 ALIAS-lus
+P101	field of work	FN_SemanticPredicate_183	Rewards_and_punishments	1.0	 ALIAS-lus
+P101	field of work	FN_SemanticPredicate_809	Topic	1.0	 ALIAS-lus
+P101	field of work	FN_SemanticPredicate_272	Domain	1.0	 ALIAS-FrameLabel
+P101	field of work	FN_SemanticPredicate_418	Fields	1.0	 ALIAS-FrameLabel
+P800	notable works	FN_SemanticPredicate_27	Being_employed	2.0	 ALIAS-lus
+P800	notable works	FN_SemanticPredicate_859	Working_on	2.0	 ALIAS-lus
+P800	notable works	FN_SemanticPredicate_1005	Dimension	1.0	 ALIAS-lus
+P800	notable works	FN_SemanticPredicate_958	Usefulness	1.0	 ALIAS-lus
+P800	notable works	FN_SemanticPredicate_61	Locale_by_use	1.0	 ALIAS-lus
+P800	notable works	FN_SemanticPredicate_530	Being_operational	1.0	 ALIAS-lus
+P800	notable works	FN_SemanticPredicate_761	Labor_product	1.0	 ALIAS-lus
+P108	employer	FN_SemanticPredicate_376	Employing	1.0	 label-lus
+P108	employer	FN_SemanticPredicate_27	Being_employed	1.0	 ALIAS-lus
+P102	member of political party	FN_SemanticPredicate_647	Aggregate	1.0	 ALIAS-lus
+P102	member of political party	FN_SemanticPredicate_281	Participation	1.0	 ALIAS-lus
+P102	member of political party	FN_SemanticPredicate_673	Social_event	1.0	 ALIAS-lus
+P140	religion	FN_SemanticPredicate_139	Trust	1.0	 ALIAS-lus
+P94	coat of arms image	FN_SemanticPredicate_358	Weapon	1.0	 ALIAS-lus
+P109	signature	FN_SemanticPredicate_386	Distinctiveness	2.0	 label-lus
+P109	signature	FN_SemanticPredicate_984	Sign_agreement	1.0	 label-lus
+P1066	student of	FN_SemanticPredicate_479	Education_teaching	2.0	 ALIAS-lus
+P1066	student of	FN_SemanticPredicate_394	People_by_vocation	1.0	 ALIAS-lus
+P802	student	FN_SemanticPredicate_479	Education_teaching	1.0	 label-lus
+P53	noble family	FN_SemanticPredicate_924	Provide_lodging	1.0	 ALIAS-lus
+P53	noble family	FN_SemanticPredicate_85	Containing	1.0	 ALIAS-lus
+P53	noble family	FN_SemanticPredicate_584	Buildings	1.0	 ALIAS-lus
+P97	noble title	FN_SemanticPredicate_221	Documents	1.0	 ALIAS-lus
+P512	academic degree	FN_SemanticPredicate_436	Rank	1.0	 ALIAS-lus
+P512	academic degree	FN_SemanticPredicate_1000	Quantity	1.0	 ALIAS-lus
+P512	academic degree	FN_SemanticPredicate_221	Documents	1.0	 ALIAS-lus
+P512	academic degree	FN_SemanticPredicate_53	Degree	1.0	 ALIAS-FrameLabel
+P734	surname	FN_SemanticPredicate_644	Being_named	1.0	 label-lus
+P734	surname	FN_SemanticPredicate_644	Being_named	2.0	 ALIAS-lus
+P735	given name	FN_SemanticPredicate_644	Being_named	1.0	 label-lus
+P735	given name	FN_SemanticPredicate_644	Being_named	4.0	 ALIAS-lus
+P742	pseudonym	FN_SemanticPredicate_644	Being_named	1.0	 label-lus
+P742	pseudonym	FN_SemanticPredicate_644	Being_named	3.0	 ALIAS-lus
+P1303	instrument	FN_SemanticPredicate_949	Gizmo	1.0	 label-lus
+P54	member of sports team	FN_SemanticPredicate_647	Aggregate	1.0	 ALIAS-lus
+P241	military branch	FN_SemanticPredicate_94	Pattern	1.0	 ALIAS-lus
+P241	military branch	FN_SemanticPredicate_593	Creating	1.0	 ALIAS-lus
+P410	military rank	FN_SemanticPredicate_940	Assessing	1.0	 ALIAS-lus
+P410	military rank	FN_SemanticPredicate_314	Occupy_rank	1.0	 ALIAS-lus
+P410	military rank	FN_SemanticPredicate_436	Rank	1.0	 ALIAS-lus
+P410	military rank	FN_SemanticPredicate_436	Rank	1.0	 ALIAS-FrameLabel
+P607	conflict	FN_SemanticPredicate_185	Hostile_encounter	1.0	 label-lus
+P607	conflict	FN_SemanticPredicate_552	Compatibility	1.0	 label-lus
+P607	conflict	FN_SemanticPredicate_185	Hostile_encounter	4.0	 ALIAS-lus
+P22	father	FN_SemanticPredicate_689	Birth	1.0	 label-lus
+P22	father	FN_SemanticPredicate_22	Kinship	1.0	 label-lus
+P22	father	FN_SemanticPredicate_22	Kinship	1.0	 ALIAS-lus
+P25	mother	FN_SemanticPredicate_689	Birth	1.0	 label-lus
+P25	mother	FN_SemanticPredicate_22	Kinship	1.0	 label-lus
+P25	mother	FN_SemanticPredicate_22	Kinship	2.0	 ALIAS-lus
+P25	mother	FN_SemanticPredicate_200	Volubility	1.0	 ALIAS-lus
+P7	brother	FN_SemanticPredicate_22	Kinship	1.0	 label-lus
+P7	brother	FN_SemanticPredicate_738	Attention_getting	1.0	 ALIAS-lus
+P7	brother	FN_SemanticPredicate_22	Kinship	1.0	 ALIAS-lus
+P9	sister	FN_SemanticPredicate_22	Kinship	1.0	 label-lus
+P9	sister	FN_SemanticPredicate_22	Kinship	1.0	 ALIAS-lus
+P26	spouse	FN_SemanticPredicate_304	Personal_relationship	1.0	 label-lus
+P26	spouse	FN_SemanticPredicate_304	Personal_relationship	3.0	 ALIAS-lus
+P26	spouse	FN_SemanticPredicate_733	Collaboration	2.0	 ALIAS-lus
+P26	spouse	FN_SemanticPredicate_519	Frugality	1.0	 ALIAS-lus
+P451	cohabitant	FN_SemanticPredicate_304	Personal_relationship	6.0	 ALIAS-lus
+P451	cohabitant	FN_SemanticPredicate_733	Collaboration	2.0	 ALIAS-lus
+P40	child	FN_SemanticPredicate_875	People_by_age	1.0	 label-lus
+P40	child	FN_SemanticPredicate_22	Kinship	1.0	 label-lus
+P40	child	FN_SemanticPredicate_22	Kinship	3.0	 ALIAS-lus
+P40	child	FN_SemanticPredicate_875	People_by_age	1.0	 ALIAS-lus
+P40	child	FN_SemanticPredicate_689	Birth	1.0	 ALIAS-lus
+P40	child	FN_SemanticPredicate_911	Prevarication	1.0	 ALIAS-lus
+P40	child	FN_SemanticPredicate_738	Attention_getting	1.0	 ALIAS-lus
+P43	stepfather	FN_SemanticPredicate_22	Kinship	1.0	 label-lus
+P44	stepmother	FN_SemanticPredicate_22	Kinship	1.0	 label-lus
+P1038	relative	FN_SemanticPredicate_22	Kinship	1.0	 label-lus

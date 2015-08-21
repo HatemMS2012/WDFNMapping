@@ -1,0 +1,14 @@
+Property ID 	 Property Label 	 Frame ID 	 Frame Label 	 Score 	 Matching SourceP248	stated in	FN_SemanticPredicate_66	Relational_natural_features	1.0	 ALIAS
+P248	stated in	FN_SemanticPredicate_398	Attributed_information	1.0	 ALIAS
+P248	stated in	FN_SemanticPredicate_12	Source_of_getting	1.0	 ALIAS
+P304	page	FN_SemanticPredicate_380	Contacting	1.0	 ALIAS
+P792	chapter	FN_SemanticPredicate_667	Part_ordered_segments	1.0	 ALIAS
+P433	issue	FN_SemanticPredicate_736	Emanating	1.0	 ALIAS
+P433	issue	FN_SemanticPredicate_1007	Text	1.0	 ALIAS
+P433	issue	FN_SemanticPredicate_0	Supply	1.0	 ALIAS
+P433	issue	FN_SemanticPredicate_150	Point_of_dispute	1.0	 ALIAS
+P433	issue	FN_SemanticPredicate_593	Creating	1.0	 ALIAS
+P478	volume	FN_SemanticPredicate_1007	Text	1.0	 ALIAS
+P708	diocese	FN_SemanticPredicate_732	Political_locales	1.0	 ALIAS
+P403	mouth of the watercourse	FN_SemanticPredicate_1006	Removing	1.0	 ALIAS
+P403	mouth of the watercourse	FN_SemanticPredicate_960	Emptying	1.0	 ALIAS

@@ -1,0 +1,32 @@
+Property ID 	 Property Label 	 Frame ID 	 Frame Label 	 Score 	 Matching SourceP94	coat of arms image	FN_SemanticPredicate_358	Weapon	1.0	 ALIAS-lus
+P452	industry	FN_SemanticPredicate_418	Fields	1.0	 label-lus
+P1056	produces	FN_SemanticPredicate_539	Substance	1.0	 ALIAS-lus
+P18	image	FN_SemanticPredicate_679	Exemplar	1.0	 label-lus
+P18	image	FN_SemanticPredicate_845	Optical_image	1.0	 label-lus
+P18	image	FN_SemanticPredicate_161	Physical_artworks	1.0	 label-lus
+P18	image	FN_SemanticPredicate_30	Similarity	1.0	 label-lus
+P18	image	FN_SemanticPredicate_672	Sensation	1.0	 label-lus
+P18	image	FN_SemanticPredicate_300	Impression	1.0	 label-lus
+P18	image	FN_SemanticPredicate_161	Physical_artworks	2.0	 ALIAS-lus
+P571	inception	FN_SemanticPredicate_955	Body_decoration	1.0	 ALIAS-lus
+P571	inception	FN_SemanticPredicate_703	Architectural_part	1.0	 ALIAS-lus
+P112	founder	FN_SemanticPredicate_948	Bungling	1.0	 label-lus
+P740	location of formation	FN_SemanticPredicate_66	Relational_natural_features	1.0	 ALIAS-lus
+P740	location of formation	FN_SemanticPredicate_398	Attributed_information	1.0	 ALIAS-lus
+P740	location of formation	FN_SemanticPredicate_12	Source_of_getting	1.0	 ALIAS-lus
+P121	equipment operated	FN_SemanticPredicate_100	Store	1.0	 ALIAS-lus
+P115	home venue	FN_SemanticPredicate_584	Buildings	2.0	 ALIAS-lus
+P115	home venue	FN_SemanticPredicate_522	Ground_up	1.0	 ALIAS-lus
+P118	league	FN_SemanticPredicate_440	Organization	1.0	 label-lus
+P118	league	FN_SemanticPredicate_620	Non-commutative_process	1.0	 ALIAS-lus
+P286	team manager	FN_SemanticPredicate_394	People_by_vocation	1.0	 ALIAS-lus
+P634	captain	FN_SemanticPredicate_887	Appellations	1.0	 label-lus
+P634	captain	FN_SemanticPredicate_768	Leadership	1.0	 label-lus
+P241	military branch	FN_SemanticPredicate_94	Pattern	1.0	 ALIAS-lus
+P241	military branch	FN_SemanticPredicate_593	Creating	1.0	 ALIAS-lus
+P169	chief executive officer	FN_SemanticPredicate_768	Leadership	1.0	 label-lus
+P169	chief executive officer	FN_SemanticPredicate_768	Leadership	2.0	 ALIAS-lus
+P488	chairperson	FN_SemanticPredicate_768	Leadership	1.0	 label-lus
+P488	chairperson	FN_SemanticPredicate_768	Leadership	3.0	 ALIAS-lus
+P488	chairperson	FN_SemanticPredicate_544	First_rank	1.0	 ALIAS-lus
+P1308	officeholder	FN_SemanticPredicate_330	Being_obligatory	1.0	 ALIAS-lus

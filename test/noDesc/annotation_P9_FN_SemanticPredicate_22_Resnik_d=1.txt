@@ -1,0 +1,106 @@
+Obj: null	{Ego=0.05, Alter=0.04, Relatives=8.292468132726057E-308, Degree=1.439743792775589E-308, Descriptor=1.0509395561971734E-308}
+Sub: Taish?	{Ego=0.14090909090909093, Alter=0.10250000000000001, Relatives=3.790981154608039E-308, Degree=2.400235843398598E-308, Descriptor=1.910280568869852E-308}
+Obj: Toshiko Higashikuni	{Ego=0.05, Alter=0.04, Relatives=9.190976331697518E-308, Degree=1.439743792775589E-308, Descriptor=1.3435125680777843E-308}
+Obj: Nobuko Asaka	{Ego=0.05, Alter=0.04, Relatives=9.242983808986293E-308, Degree=1.439743792775589E-308, Descriptor=1.201159903822454E-308}
+Obj: Fusako Kitashirakawa	{Ego=0.05, Alter=0.04, Relatives=8.747619912912368E-308, Degree=1.439743792775589E-308, Descriptor=1.148582782153606E-308}
+Obj: Masako Takeda	{Ego=0.05, Alter=0.04, Relatives=9.292400126210196E-308, Degree=1.439743792775589E-308, Descriptor=1.2055413306281914E-308}
+...................
+Obj: Rothilde	{Ego=0.05, Alter=0.04, Relatives=8.292468132726057E-308, Degree=1.439743792775589E-308, Descriptor=1.0509395561971734E-308}
+Obj: Judith of Flanders	{Ego=0.05, Alter=0.04, Relatives=8.520044022819212E-308, Degree=1.439743792775589E-308, Descriptor=1.0997611691753896E-308}
+Sub: Louis the Stammerer	{Ego=0.14090909090909093, Alter=0.10250000000000001, Relatives=3.4772939518803125E-308, Degree=2.400235843398598E-308, Descriptor=1.6427152274167337E-308}
+...................
+Obj: Princess Louise of Orléans	{Ego=0.05, Alter=0.04, Relatives=9.114213005171445E-308, Degree=1.745789677498703E-308, Descriptor=1.476312223170799E-308}
+Obj: Princess Isabelle of Orléans	{Ego=0.05, Alter=0.04, Relatives=8.784730832925462E-308, Degree=1.439743792775589E-308, Descriptor=1.0997611691753896E-308}
+Sub: Princess Hélène of Orléans	{Ego=0.14090909090909093, Alter=0.10250000000000001, Relatives=3.6166409052713857E-308, Degree=2.400235843398598E-308, Descriptor=1.69153684039495E-308}
+Obj: Amélie of Orléans	{Ego=0.05, Alter=0.04, Relatives=8.98279859218734E-308, Degree=1.8170769707418245E-308, Descriptor=1.4434207751358996E-308}
+...................
+Obj: Helen of the Palatinate	{Ego=0.05, Alter=0.04, Relatives=8.520044022819212E-308, Degree=1.439743792775589E-308, Descriptor=1.0997611691753896E-308}
+Obj: Catherine of the Palatinate	{Ego=0.05, Alter=0.04, Relatives=8.494757812808862E-308, Degree=1.439743792775589E-308, Descriptor=1.0936584675531124E-308}
+Obj: Elisabeth of the Palatinate, Landgravine of Hesse	{Ego=0.05, Alter=0.04, Relatives=8.747619912912368E-308, Degree=1.439743792775589E-308, Descriptor=1.148582782153606E-308}
+Sub: Amalie of the Palatinate	{Ego=0.14090909090909093, Alter=0.10250000000000001, Relatives=3.343123788592191E-308, Degree=2.9132050115762163E-308, Descriptor=1.911148293516338E-308}
+...................
+Sub: Anne of Kiev	{Ego=0.14090909090909093, Alter=0.10250000000000001, Relatives=3.4482802353880797E-308, Degree=2.706281728121712E-308, Descriptor=2.019266281412143E-308}
+Obj: Agatha, wife of Edward the Exile	{Ego=0.05, Alter=0.04, Relatives=9.120546389061667E-308, Degree=1.439743792775589E-308, Descriptor=1.136377378909052E-308}
+Obj: Elisiv of Kiev	{Ego=0.05, Alter=0.04, Relatives=9.11778650557737E-308, Degree=1.528033635169994E-308, Descriptor=1.3777484356524024E-308}
+Obj: Anastasia of Kiev	{Ego=0.05, Alter=0.04, Relatives=8.742039770982486E-308, Degree=1.439743792775589E-308, Descriptor=1.148582782153606E-308}
+...................
+Obj: Maria Francesca Rossetti	{Ego=0.05, Alter=0.04, Relatives=8.791032562329207E-308, Degree=1.958761362982159E-308, Descriptor=1.2236368844204595E-308}
+Obj: Christina Rossetti	{Ego=0.05, Alter=0.04, Relatives=8.62843527365865E-308, Degree=1.745789677498703E-308, Descriptor=1.2236368844204595E-308}
+Sub: Dante Gabriel Rossetti	{Ego=0.14090909090909093, Alter=0.10250000000000001, Relatives=3.6376712685875957E-308, Degree=2.7687660962526814E-308, Descriptor=1.9256983822885076E-308}
+...................
+Obj: Carlota Joaquina of Spain	{Ego=0.05, Alter=0.04, Relatives=8.514463880889328E-308, Degree=1.439743792775589E-308, Descriptor=1.0997611691753896E-308}
+Obj: Maria Luisa of Spain, Duchess of Lucca	{Ego=0.05, Alter=0.04, Relatives=8.913291339509853E-308, Degree=1.745789677498703E-308, Descriptor=1.2236368844204595E-308}
+Obj: Maria Isabella of Spain	{Ego=0.05, Alter=0.04, Relatives=9.012648456581881E-308, Degree=2.572174487621824E-308, Descriptor=1.4026372950910476E-308}
+Sub: Maria Christina of the Two Sicilies	{Ego=0.14090909090909093, Alter=0.10250000000000001, Relatives=3.4820319261015816E-308, Degree=2.4869488440701473E-308, Descriptor=1.778249841066499E-308}
+Obj: Infanta María Amalia of Spain	{Ego=0.05, Alter=0.04, Relatives=8.400859383565492E-308, Degree=1.745789677498703E-308, Descriptor=1.174815271442243E-308}
+...................
+Obj: Lynn Ferguson	{Ego=0.05, Alter=0.04, Relatives=8.773953038855738E-308, Degree=1.745789677498703E-308, Descriptor=1.2236368844204595E-308}
+Sub: Craig Ferguson	{Ego=0.14090909090909093, Alter=0.10250000000000001, Relatives=4.0626987492589504E-308, Degree=3.0915064115400447E-308, Descriptor=2.0140643684631383E-308}
+...................
+Sub: Ivan V of Russia	{Ego=0.14090909090909093, Alter=0.10250000000000001, Relatives=3.12437820507198E-308, Degree=2.400235843398598E-308, Descriptor=1.6427152274167337E-308}
+Obj: Tsarevna Yevdokia Alekseyevna of Russia	{Ego=0.05, Alter=0.04, Relatives=8.520044022819212E-308, Degree=1.439743792775589E-308, Descriptor=1.0997611691753896E-308}
+Obj: Tsarevna Maria Alekseyevna of Russia	{Ego=0.05, Alter=0.04, Relatives=8.422545963662502E-308, Degree=1.439743792775589E-308, Descriptor=1.0509395561971734E-308}
+Obj: Tsarevna Marfa Alekseyevna of Russia	{Ego=0.05, Alter=0.04, Relatives=8.292468132726057E-308, Degree=1.439743792775589E-308, Descriptor=1.0509395561971734E-308}
+Obj: Tsarevna Catherine Alekseyevna of Russia	{Ego=0.05, Alter=0.04, Relatives=8.520044022819212E-308, Degree=1.439743792775589E-308, Descriptor=1.0997611691753896E-308}
+Obj: Tsarevna Natalya Alexeevna of Russia	{Ego=0.05, Alter=0.04, Relatives=8.520044022819212E-308, Degree=1.439743792775589E-308, Descriptor=1.0997611691753896E-308}
+Obj: Sophia Alekseyevna of Russia	{Ego=0.05, Alter=0.04, Relatives=8.520044022819212E-308, Degree=1.439743792775589E-308, Descriptor=1.0997611691753896E-308}
+Obj: Tsarevna Feodosia Alekseyevna of Russia	{Ego=0.05, Alter=0.04, Relatives=8.292468132726057E-308, Degree=1.439743792775589E-308, Descriptor=1.0509395561971734E-308}
+...................
+Obj: Archduchess Adelheid of Austria	{Ego=0.05, Alter=0.04, Relatives=9.012306723018618E-308, Degree=1.439743792775589E-308, Descriptor=1.148582782153606E-308}
+Obj: Archduchess Elisabeth of Austria	{Ego=0.05, Alter=0.04, Relatives=8.784730832925462E-308, Degree=1.439743792775589E-308, Descriptor=1.0997611691753896E-308}
+Obj: Archduchess Charlotte of Austria	{Ego=0.05, Alter=0.04, Relatives=9.012306723018618E-308, Degree=1.439743792775589E-308, Descriptor=1.148582782153606E-308}
+Sub: Archduke Rudolf of Austria	{Ego=0.14090909090909093, Alter=0.10250000000000001, Relatives=3.3890650151782294E-308, Degree=2.400235843398598E-308, Descriptor=1.6427152274167337E-308}
+...................
+Sub: Eugene Chaplin	{Ego=0.14090909090909093, Alter=0.10250000000000001, Relatives=3.42113667672915E-308, Degree=3.080151615443804E-308, Descriptor=1.853395027473329E-308}
+Obj: Josephine Chaplin	{Ego=0.05, Alter=0.04, Relatives=8.747619912912368E-308, Degree=1.439743792775589E-308, Descriptor=1.148582782153606E-308}
+Obj: Geraldine Chaplin	{Ego=0.05, Alter=0.04, Relatives=8.773953038855738E-308, Degree=1.745789677498703E-308, Descriptor=1.2236368844204595E-308}
+Obj: Victoria Chaplin	{Ego=0.05, Alter=0.04, Relatives=8.773953038855738E-308, Degree=1.745789677498703E-308, Descriptor=1.2236368844204595E-308}
+...................
+Sub: Phil Neville	{Alter=0.14597826086956522, Ego=0.14090909090909093, Relatives=0.06666666666666667, Degree=4.169477032064702E-308, Descriptor=2.451615241932411E-308}
+Obj: Tracey Neville	{Alter=0.08347826086956522, Relatives=0.06666666666666667, Ego=0.05, Degree=3.874386737437548E-308, Descriptor=2.18076543964778E-308}
+...................
+Obj: Isabella of Valois, Duchess of Bourbon	{Ego=0.05, Alter=0.04, Relatives=9.273025091235196E-308, Degree=1.832502678170252E-308, Descriptor=1.563025223842348E-308}
+Obj: Isabelle of Valois, Duchess of Brittany	{Ego=0.05, Alter=0.04, Relatives=8.504217580811056E-308, Degree=1.5264567934471383E-308, Descriptor=1.1376525568687226E-308}
+Obj: Joan of Valois, Countess of Hainaut	{Ego=0.05, Alter=0.04, Relatives=9.061275643150196E-308, Degree=1.832502678170252E-308, Descriptor=1.563025223842348E-308}
+Obj: Margaret of Valois, Countess of Blois	{Ego=0.05, Alter=0.04, Relatives=9.061275643150196E-308, Degree=1.832502678170252E-308, Descriptor=1.563025223842348E-308}
+Obj: Joan of Valois, Countess of Beaumont	{Ego=0.05, Alter=0.04, Relatives=9.061275643150196E-308, Degree=1.832502678170252E-308, Descriptor=1.563025223842348E-308}
+Obj: Marie of Valois, Duchess of Calabria	{Ego=0.05, Alter=0.04, Relatives=9.061275643150196E-308, Degree=1.832502678170252E-308, Descriptor=1.563025223842348E-308}
+Sub: Blanche of Valois	{Ego=0.14090909090909093, Alter=0.10250000000000001, Relatives=3.346373953235253E-308, Degree=2.5447575111845133E-308, Descriptor=1.836058508180865E-308}
+Obj: Catherine of Valois	{Ego=0.05, Alter=0.04, Relatives=8.520044022819212E-308, Degree=1.584265460561504E-308, Descriptor=1.244282836961305E-308}
+...................
+Obj: Caroline Herschel	{Ego=0.05, Alter=0.04, Relatives=8.922744396035245E-308, Degree=1.728787128347419E-308, Descriptor=1.244768629748488E-308}
+Sub: William Herschel	{Ego=0.14090909090909093, Alter=0.10250000000000001, Relatives=3.7785370402632783E-308, Degree=2.6367258452300956E-308, Descriptor=1.8085508195179385E-308}
+...................
+Obj: Landgravine Caroline of Hesse-Darmstadt	{Ego=0.05, Alter=0.04, Relatives=8.977862321935134E-308, Degree=1.5192046509305535E-308, Descriptor=1.3123866597613567E-308}
+Obj: Frederika Louisa of Hesse-Darmstadt	{Ego=0.05, Alter=0.04, Relatives=8.591105591332806E-308, Degree=1.728787128347419E-308, Descriptor=1.202049718392549E-308}
+Obj: Natalia Alexeievna of Russia	{Ego=0.05, Alter=0.04, Relatives=8.793395271415611E-308, Degree=1.862923921076755E-308, Descriptor=1.244768629748488E-308}
+Sub: Prince Christian of Hesse-Darmstadt	{Ego=0.14090909090909093, Alter=0.10250000000000001, Relatives=3.775452991335135E-308, Degree=2.400235843398598E-308, Descriptor=1.69153684039495E-308}
+Obj: Landgravine Amalie of Hesse-Darmstadt	{Ego=0.05, Alter=0.04, Relatives=8.649455947039046E-308, Degree=1.5233868013597623E-308, Descriptor=1.265491606635707E-308}
+Obj: Landgravine Louise of Hesse-Darmstadt	{Ego=0.05, Alter=0.04, Relatives=8.747619912912368E-308, Degree=1.439743792775589E-308, Descriptor=1.148582782153606E-308}
+...................
+Obj: Margaret of Bohemia, Duchess of Bavaria	{Ego=0.05, Alter=0.04, Relatives=8.95936936099737E-308, Degree=1.439743792775589E-308, Descriptor=1.148582782153606E-308}
+Sub: Charles IV, Holy Roman Emperor	{Ego=0.14090909090909093, Alter=0.10250000000000001, Relatives=3.907226537662522E-308, Degree=2.4724966772915557E-308, Descriptor=1.7943111823992924E-308}
+Obj: Bonne of Bohemia	{Alter=0.10451612903225807, Relatives=0.08695652173913043, Ego=0.05, Degree=2.6554986275733758E-308, Descriptor=1.477585980725772E-308}
+Obj: Anne of Bohemia, Duchess of Austria	{Alter=0.08347826086956522, Relatives=0.06666666666666667, Ego=0.05, Degree=3.208984981441693E-308, Descriptor=1.949345861172914E-308}
+...................
+Obj: Princess Maria Immaculata of Bourbon-Two Sicilies	{Ego=0.05, Alter=0.04, Relatives=9.143031860845543E-308, Degree=1.501681650398124E-308, Descriptor=1.210520639776141E-308}
+Sub: Princess Maria Annunciata of Bourbon-Two Sicilies	{Ego=0.14090909090909093, Alter=0.10250000000000001, Relatives=3.7473660430983104E-308, Degree=2.4621737010211333E-308, Descriptor=1.753474698017485E-308}
+Obj: Princess Maria Immacolata of Bourbon-Two Sicilies	{Ego=0.05, Alter=0.04, Relatives=9.143031860845543E-308, Degree=1.501681650398124E-308, Descriptor=1.210520639776141E-308}
+Obj: Princess Maria Pia of Bourbon-Two Sicilies	{Ego=0.05, Alter=0.04, Relatives=9.287904161557818E-308, Degree=1.501681650398124E-308, Descriptor=1.210520639776141E-308}
+...................
+Obj: Joan of Portugal	{Ego=0.05, Alter=0.04, Relatives=8.400859383565492E-308, Degree=1.745789677498703E-308, Descriptor=1.174815271442243E-308}
+Sub: Eleanor of Portugal, Holy Roman Empress	{Ego=0.14090909090909093, Alter=0.10250000000000001, Relatives=3.580112002397466E-308, Degree=2.400235843398598E-308, Descriptor=1.6427152274167337E-308}
+Obj: Catherine of Portugal	{Ego=0.05, Alter=0.04, Relatives=8.400859383565492E-308, Degree=1.745789677498703E-308, Descriptor=1.174815271442243E-308}
+...................
+Sub: Anne of Kiev	{Ego=0.14090909090909093, Alter=0.10250000000000001, Relatives=3.4482802353880797E-308, Degree=2.706281728121712E-308, Descriptor=2.019266281412143E-308}
+Obj: Agatha, wife of Edward the Exile	{Ego=0.05, Alter=0.04, Relatives=9.120546389061667E-308, Degree=1.439743792775589E-308, Descriptor=1.136377378909052E-308}
+Obj: Elisiv of Kiev	{Ego=0.05, Alter=0.04, Relatives=9.11778650557737E-308, Degree=1.528033635169994E-308, Descriptor=1.3777484356524024E-308}
+Obj: Anastasia of Kiev	{Ego=0.05, Alter=0.04, Relatives=8.742039770982486E-308, Degree=1.439743792775589E-308, Descriptor=1.148582782153606E-308}
+...................
+Obj: Teresa Cristina of the Two Sicilies	{Ego=0.05, Alter=0.04, Relatives=8.908268801906479E-308, Degree=2.29239712692978E-308, Descriptor=1.4783750586214796E-308}
+Obj: Princess Maria Carolina of Bourbon-Two Sicilies	{Ego=0.05, Alter=0.04, Relatives=9.143031860845543E-308, Degree=1.501681650398124E-308, Descriptor=1.210520639776141E-308}
+Sub: Princess Luisa Carlotta of Naples and Sicily	{Ego=0.14090909090909093, Alter=0.10250000000000001, Relatives=3.2755498684657954E-308, Degree=2.400235843398598E-308, Descriptor=1.6366125257944564E-308}
+Obj: Princess Maria Amalia of Bourbon-Two Sicilies	{Ego=0.05, Alter=0.04, Relatives=9.143031860845543E-308, Degree=1.501681650398124E-308, Descriptor=1.210520639776141E-308}
+Obj: Princess Caroline of Naples and Sicily	{Ego=0.05, Alter=0.04, Relatives=8.95936936099737E-308, Degree=1.439743792775589E-308, Descriptor=1.148582782153606E-308}
+Obj: Princess Maria Antonia of the Two Sicilies	{Ego=0.05, Alter=0.04, Relatives=9.032475978763573E-308, Degree=1.5120046266685466E-308, Descriptor=1.2208436160465634E-308}
+...................

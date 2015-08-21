@@ -1,0 +1,20 @@
+Property ID 	 Property Label 	 Frame ID 	 Frame Label 	 Score 	 Matching SourceP105	taxon rank	FN_SemanticPredicate_940	Assessing	1.0	 ALIAS-lus
+P105	taxon rank	FN_SemanticPredicate_314	Occupy_rank	1.0	 ALIAS-lus
+P105	taxon rank	FN_SemanticPredicate_436	Rank	1.0	 ALIAS-lus
+P105	taxon rank	FN_SemanticPredicate_436	Rank	1.0	 ALIAS-FrameLabel
+P459	determination method	FN_SemanticPredicate_125	Means	1.0	 ALIAS-lus
+P176	manufacturer	FN_SemanticPredicate_441	Manufacturing	1.0	 label-lus
+P176	manufacturer	FN_SemanticPredicate_441	Manufacturing	1.0	 ALIAS-lus
+P348	version	FN_SemanticPredicate_228	Type	1.0	 label-lus
+P94	coat of arms image	FN_SemanticPredicate_358	Weapon	1.0	 ALIAS-lus
+P522	type of orbit	FN_SemanticPredicate_737	Path_traveled	1.0	 ALIAS-lus
+P516	powerplant	FN_SemanticPredicate_61	Locale_by_use	1.0	 ALIAS-lus
+P520	armament	FN_SemanticPredicate_358	Weapon	1.0	 ALIAS-lus
+P520	armament	FN_SemanticPredicate_358	Weapon	1.0	 ALIAS-FrameLabel
+P828	has cause	FN_SemanticPredicate_956	Causation	3.0	 ALIAS-lus
+P828	has cause	FN_SemanticPredicate_1008	Reasoning	1.0	 ALIAS-lus
+P828	has cause	FN_SemanticPredicate_754	Reason	1.0	 ALIAS-lus
+P828	has cause	FN_SemanticPredicate_754	Reason	1.0	 ALIAS-FrameLabel
+P924	medical treatment	FN_SemanticPredicate_468	Cure	2.0	 ALIAS-lus
+P924	medical treatment	FN_SemanticPredicate_904	Medical_specialties	1.0	 ALIAS-lus
+P1050	medical condition	FN_SemanticPredicate_322	Medical_conditions	4.0	 ALIAS-lus

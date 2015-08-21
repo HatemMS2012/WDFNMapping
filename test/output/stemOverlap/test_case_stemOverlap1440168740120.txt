@@ -1,0 +1,40 @@
+FN_SemanticPredicate_348	P157	Sub:{Victim=3.0, Cause=2.0, Killer=1.0, Instrument=1.0, Means=1.0}	 Obj:{Killer=2.0}
+FN_SemanticPredicate_400	P157	Sub:{Executed=1.0, Executioner=1.0}	 Obj:{Executed=3.0, Executioner=3.0}
+FN_SemanticPredicate_27	P106	Sub:{Employer=2.0, Position=2.0, Employee=2.0, Field=2.0, Place_of_employment=2.0, Task=1.0}	 Obj:{Field=3.0, Position=2.0, Employer=1.0, Employee=1.0, Task=1.0, Place_of_employment=1.0}
+FN_SemanticPredicate_27	P800	Sub:{}	 Obj:{Field=4.0, Employer=2.0, Position=2.0, Employee=2.0, Task=2.0, Place_of_employment=2.0}
+FN_SemanticPredicate_376	P108	Sub:{}	 Obj:{Employer=3.0, Employee=1.0, Task=1.0}
+FN_SemanticPredicate_27	P108	Sub:{}	 Obj:{Employer=3.0, Position=1.0, Task=1.0}
+FN_SemanticPredicate_644	P735	Sub:{Entity=2.0}	 Obj:{Name=8.0, Entity=4.0}
+FN_SemanticPredicate_689	P22	Sub:{}	 Obj:{Child=6.0, Father=5.0, Mother=4.0, Parents=2.0}
+FN_SemanticPredicate_22	P22	Sub:{}	 Obj:{Alter=5.0, Ego=3.0}
+FN_SemanticPredicate_768	P634	Sub:{Activity=4.0, Governed=1.0}	 Obj:{Leader=4.0, Activity=2.0, Governed=1.0, Role=1.0}
+FN_SemanticPredicate_768	P169	Sub:{Governed=2.0, Activity=1.0, Leader=1.0}	 Obj:{Leader=6.0, Role=3.0, Governed=2.0}
+FN_SemanticPredicate_768	P488	Sub:{Governed=12.0, Activity=2.0, Leader=1.0}	 Obj:{Leader=5.0, Activity=1.0, Role=1.0}
+FN_SemanticPredicate_281	P710	Sub:{Event=1.0}	 Obj:{Participant_1=2.0, Institution=2.0, Participant_2=2.0, Participants=1.0, Event=1.0}
+FN_SemanticPredicate_245	P710	Sub:{Competition=1.0}	 Obj:{Participant_1=1.0, Participants=1.0, Participant_2=1.0}
+FN_SemanticPredicate_529	P175	Sub:{Person=4.0}	 Obj:{Person=2.0}
+FN_SemanticPredicate_768	P57	Sub:{Activity=2.0, Governed=2.0}	 Obj:{Leader=4.0, Role=2.0}
+FN_SemanticPredicate_529	P161	Sub:{}	 Obj:{Person=2.0}
+FN_SemanticPredicate_27	P106	Sub:{Employer=2.0, Position=2.0, Employee=2.0, Field=2.0, Place_of_employment=2.0, Task=1.0}	 Obj:{Field=3.0, Position=2.0, Employer=1.0, Employee=1.0, Task=1.0, Place_of_employment=1.0}
+FN_SemanticPredicate_27	P108	Sub:{}	 Obj:{Employer=3.0, Position=1.0, Task=1.0}
+FN_SemanticPredicate_27	P108	Sub:{}	 Obj:{Employer=3.0, Position=1.0, Task=1.0}
+FN_SemanticPredicate_479	P1066	Sub:{Qualification=2.0, Subject=1.0, Fact=1.0, Student=1.0, Material=1.0, Teacher=1.0, Skill=1.0, Role=1.0}	 Obj:{Subject=2.0, Teacher=2.0, Fact=1.0, Student=1.0, Material=1.0}
+FN_SemanticPredicate_436	P512	Sub:{Item=1.0}	 Obj:{Rank=1.0}
+FN_SemanticPredicate_644	P734	Sub:{Entity=5.0}	 Obj:{Name=6.0, Entity=4.0}
+FN_SemanticPredicate_644	P735	Sub:{Entity=2.0}	 Obj:{Name=8.0, Entity=4.0}
+FN_SemanticPredicate_644	P742	Sub:{Entity=3.0}	 Obj:{}
+FN_SemanticPredicate_436	P410	Sub:{}	 Obj:{Rank=4.0, Item=2.0}
+FN_SemanticPredicate_689	P22	Sub:{}	 Obj:{Child=6.0, Father=5.0, Mother=4.0, Parents=2.0}
+FN_SemanticPredicate_22	P22	Sub:{}	 Obj:{Alter=5.0, Ego=3.0}
+FN_SemanticPredicate_689	P25	Sub:{}	 Obj:{Child=6.0, Mother=5.0, Father=4.0, Parents=2.0, Egg=1.0}
+FN_SemanticPredicate_689	P25	Sub:{}	 Obj:{Child=6.0, Mother=5.0, Father=4.0, Parents=2.0, Egg=1.0}
+FN_SemanticPredicate_22	P7	Sub:{Alter=4.0, Ego=3.0, Relatives=1.0}	 Obj:{Ego=7.0, Alter=4.0, Relatives=2.0}
+FN_SemanticPredicate_22	P9	Sub:{Alter=2.0, Ego=1.0}	 Obj:{Alter=3.0, Ego=2.0}
+FN_SemanticPredicate_22	P40	Sub:{Ego=2.0, Alter=1.0}	 Obj:{Alter=11.0, Ego=10.0, Relatives=2.0}
+FN_SemanticPredicate_22	P43	Sub:{Alter=5.0, Ego=3.0}	 Obj:{Ego=3.0, Alter=2.0}
+FN_SemanticPredicate_22	P44	Sub:{Ego=2.0, Alter=2.0}	 Obj:{Ego=5.0, Alter=3.0}
+FN_SemanticPredicate_22	P1038	Sub:{Ego=2.0}	 Obj:{Alter=7.0, Ego=5.0, Relatives=1.0}
+FN_SemanticPredicate_644	P1477	Sub:{Entity=1.0}	 Obj:{Name=4.0, Entity=2.0}
+FN_SemanticPredicate_348	P157	Sub:{Victim=3.0, Cause=2.0, Killer=1.0, Instrument=1.0, Means=1.0}	 Obj:{Killer=2.0}
+FN_SemanticPredicate_400	P157	Sub:{Executed=1.0, Executioner=1.0}	 Obj:{Executed=3.0, Executioner=3.0}
+FN_SemanticPredicate_479	P69	Sub:{Subject=1.0}	 Obj:{Institution=11.0, Subject=1.0, Material=1.0}

@@ -1,0 +1,54 @@
+Property ID 	 Property Label 	 Frame ID 	 Frame Label 	 Score 	 Matching SourceP135	movement	FN_SemanticPredicate_479	Education_teaching	1.0	 ALIAS
+P135	movement	FN_SemanticPredicate_647	Aggregate	1.0	 ALIAS
+P135	movement	FN_SemanticPredicate_61	Locale_by_use	1.0	 ALIAS
+P179	series	FN_SemanticPredicate_574	Sequence	1.0	 ALIAS
+P275	license	FN_SemanticPredicate_221	Documents	1.0	 ALIAS
+P1476	title	FN_SemanticPredicate_221	Documents	1.0	 ALIAS
+P371	presenter	FN_SemanticPredicate_647	Aggregate	1.0	 ALIAS
+P371	presenter	FN_SemanticPredicate_924	Provide_lodging	1.0	 ALIAS
+P371	presenter	FN_SemanticPredicate_93	Guest_and_host	1.0	 ALIAS
+P371	presenter	FN_SemanticPredicate_673	Social_event	1.0	 ALIAS
+P437	distribution	FN_SemanticPredicate_23	Dispersal	1.0	 ALIAS
+P447	score by	FN_SemanticPredicate_110	Locative_relation	1.0	 ALIAS
+P447	score by	FN_SemanticPredicate_125	Means	1.0	 ALIAS
+P449	original network	FN_SemanticPredicate_218	Network	1.0	 ALIAS
+P449	original network	FN_SemanticPredicate_420	Natural_features	1.0	 ALIAS
+P453	character role	FN_SemanticPredicate_817	Performers_and_roles	1.0	 ALIAS
+P528	catalog code	FN_SemanticPredicate_798	Becoming_aware	1.0	 ALIAS
+P528	catalog code	FN_SemanticPredicate_628	Recording	1.0	 ALIAS
+P1476	title	FN_SemanticPredicate_221	Documents	1.0	 ALIAS
+P170	creator	FN_SemanticPredicate_99	Achieving_first	1.0	 ALIAS
+P84	architect	FN_SemanticPredicate_394	People_by_vocation	1.0	 ALIAS
+P466	occupant	FN_SemanticPredicate_288	Residence	1.0	 ALIAS
+P186	material used	FN_SemanticPredicate_826	Position_on_a_scale	1.0	 ALIAS
+P195	collection	FN_SemanticPredicate_647	Aggregate	1.0	 ALIAS
+P276	location	FN_SemanticPredicate_48	Locale	1.0	 ALIAS
+P276	location	FN_SemanticPredicate_138	Locale_by_event	1.0	 ALIAS
+P50	author	FN_SemanticPredicate_67	Text_creation	1.0	 ALIAS
+P175	performer	FN_SemanticPredicate_647	Aggregate	2.0	 ALIAS
+P175	performer	FN_SemanticPredicate_529	Performers	1.0	 ALIAS
+P175	performer	FN_SemanticPredicate_440	Organization	1.0	 ALIAS
+P162	producer	FN_SemanticPredicate_735	Behind_the_scenes	1.0	 ALIAS
+P162	producer	FN_SemanticPredicate_441	Manufacturing	1.0	 ALIAS
+P264	record label	FN_SemanticPredicate_115	Labeling	1.0	 ALIAS
+P57	director	FN_SemanticPredicate_735	Behind_the_scenes	1.0	 ALIAS
+P57	director	FN_SemanticPredicate_768	Leadership	1.0	 ALIAS
+P162	producer	FN_SemanticPredicate_735	Behind_the_scenes	1.0	 ALIAS
+P162	producer	FN_SemanticPredicate_441	Manufacturing	1.0	 ALIAS
+P161	cast member	FN_SemanticPredicate_529	Performers	2.0	 ALIAS
+P161	cast member	FN_SemanticPredicate_517	Intentionally_act	1.0	 ALIAS
+P161	cast member	FN_SemanticPredicate_394	People_by_vocation	1.0	 ALIAS
+P272	production company	FN_SemanticPredicate_335	Building_subparts	1.0	 ALIAS
+P1620	plaintiff	FN_SemanticPredicate_274	Cotheme	1.0	 ALIAS
+P1595	charge	FN_SemanticPredicate_997	Notification_of_charges	2.0	 ALIAS
+P1595	charge	FN_SemanticPredicate_934	Judgment_communication	2.0	 ALIAS
+P1595	charge	FN_SemanticPredicate_96	Imposing_obligation	2.0	 ALIAS
+P1595	charge	FN_SemanticPredicate_543	Attack	2.0	 ALIAS
+P1595	charge	FN_SemanticPredicate_768	Leadership	1.0	 ALIAS
+P1595	charge	FN_SemanticPredicate_112	Commerce_collect	1.0	 ALIAS
+P1437	plea	FN_SemanticPredicate_910	Entering_of_plea	1.0	 ALIAS
+P1437	plea	FN_SemanticPredicate_927	Request	1.0	 ALIAS
+P1596	penalty	FN_SemanticPredicate_183	Rewards_and_punishments	1.0	 ALIAS
+P1594	judge	FN_SemanticPredicate_940	Assessing	1.0	 ALIAS
+P1594	judge	FN_SemanticPredicate_394	People_by_vocation	1.0	 ALIAS
+P1593	defender	FN_SemanticPredicate_169	Defend	1.0	 ALIAS

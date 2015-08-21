@@ -1,0 +1,15 @@
+Property ID 	 Property Label 	 Frame ID 	 Frame Label 	 Score 	 Matching SourceP710	participant	FN_SemanticPredicate_281	Participation	1.0	 ALIAS
+P710	participant	FN_SemanticPredicate_647	Aggregate	2.0	 ALIAS
+P710	participant	FN_SemanticPredicate_281	Participation	2.0	 ALIAS
+P710	participant	FN_SemanticPredicate_245	Competition	2.0	 ALIAS
+P710	participant	FN_SemanticPredicate_517	Intentionally_act	1.0	 ALIAS
+P710	participant	FN_SemanticPredicate_529	Performers	1.0	 ALIAS
+P710	participant	FN_SemanticPredicate_394	People_by_vocation	1.0	 ALIAS
+P710	participant	FN_SemanticPredicate_949	Gizmo	1.0	 ALIAS
+P710	participant	FN_SemanticPredicate_144	Active_substance	1.0	 ALIAS
+P710	participant	FN_SemanticPredicate_673	Social_event	1.0	 ALIAS
+P710	participant	FN_SemanticPredicate_751	Create_physical_artwork	1.0	 ALIAS
+P1110	attendance	FN_SemanticPredicate_509	Attending	1.0	 ALIAS
+P1346	winner	FN_SemanticPredicate_291	Finish_competition	1.0	 ALIAS
+P276	location	FN_SemanticPredicate_48	Locale	1.0	 ALIAS
+P276	location	FN_SemanticPredicate_138	Locale_by_event	1.0	 ALIAS

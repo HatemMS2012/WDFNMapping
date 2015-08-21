@@ -1,0 +1,24 @@
+Property ID , Property Label , Frame ID , Frame Label ,P Subject,P Object
+P106,occupation,FN_SemanticPredicate_27,Being_employed,Employee,Position
+P108,employer,FN_SemanticPredicate_27,Being_employed,Employee,Employer
+P108,employer,FN_SemanticPredicate_27,Employing,Employee,Employer
+P1066,student of,FN_SemanticPredicate_479,Education_teaching,Student,Teacher
+P512,academic degree,FN_SemanticPredicate_436,Rank,Item,Rank
+P734,surname,FN_SemanticPredicate_644,Being_named,Entity,Name
+P735,given name,FN_SemanticPredicate_644,Being_named,Entity,Name 
+P742,pseudonym,FN_SemanticPredicate_644,Being_named,Entity,Name 
+P410,military rank,FN_SemanticPredicate_436,Rank,Item,Rank
+P22,father,FN_SemanticPredicate_689,Birth,Offspring,Father
+P22,father,FN_SemanticPredicate_22,Kinship,Ego,Alter
+P25,mother,FN_SemanticPredicate_689,Birth,Offspring,Mother
+P25,mother,FN_SemanticPredicate_689,Kinship,Ego,Alter
+P7,brother,FN_SemanticPredicate_22,Kinship,Ego,Alter
+P9,sister,FN_SemanticPredicate_22,Kinship,Ego,Alter
+P40,child,FN_SemanticPredicate_22,Kinship,Ego,Alter
+P43,stepfather,FN_SemanticPredicate_22,Kinship,Ego,Alter
+P44,stepmother,FN_SemanticPredicate_22,Kinship,Ego,Alter
+P1038,relative,FN_SemanticPredicate_22,Kinship,Ego,Alter
+P1477,birth name,FN_SemanticPredicate_644,Being_named,Entity,Name
+P157,killed by,FN_SemanticPredicate_348,Killing,Victim,Killer
+P157,killed by,FN_SemanticPredicate_400,Execution,Executed,Executioner
+P69,educated at,FN_SemanticPredicate_479,Education_teaching,Student,Institution

@@ -1,0 +1,58 @@
+Property ID 	 Property Label 	 Frame ID 	 Frame Label 	 Score 	 Matching SourceP527	has part	FN_SemanticPredicate_721	Cause_to_be_included	1.0	 ALIAS
+P527	has part	FN_SemanticPredicate_705	Membership	1.0	 ALIAS
+P527	has part	FN_SemanticPredicate_164	Ingredients	1.0	 ALIAS
+P527	has part	FN_SemanticPredicate_770	Observable_body_parts	1.0	 ALIAS
+P527	has part	FN_SemanticPredicate_663	Inclusion	1.0	 ALIAS
+P138	named after	FN_SemanticPredicate_644	Being_named	1.0	 ALIAS
+P138	named after	FN_SemanticPredicate_573	Namesake	1.0	 ALIAS
+P127	owned by	FN_SemanticPredicate_695	Possession	1.0	 ALIAS
+P301	category's main topic	FN_SemanticPredicate_809	Topic	1.0	 ALIAS
+P61	discoverer or inventor	FN_SemanticPredicate_99	Achieving_first	2.0	 ALIAS
+P461	opposite of	FN_SemanticPredicate_363	Word_relations	1.0	 ALIAS
+P462	color	FN_SemanticPredicate_936	Race_descriptor	1.0	 ALIAS
+P462	color	FN_SemanticPredicate_518	Stimulus_focus	1.0	 ALIAS
+P462	color	FN_SemanticPredicate_153	Color	1.0	 ALIAS
+P366	use	FN_SemanticPredicate_504	Using	2.0	 ALIAS
+P366	use	FN_SemanticPredicate_258	Ingest_substance	1.0	 ALIAS
+P366	use	FN_SemanticPredicate_232	Possibilities	1.0	 ALIAS
+P366	use	FN_SemanticPredicate_531	Purpose	1.0	 ALIAS
+P366	use	FN_SemanticPredicate_1017	Contingency	1.0	 ALIAS
+P366	use	FN_SemanticPredicate_817	Performers_and_roles	1.0	 ALIAS
+P366	use	FN_SemanticPredicate_120	Being_obligated	1.0	 ALIAS
+P366	use	FN_SemanticPredicate_531	Purpose	1.0	 ALIAS
+P1419	shape	FN_SemanticPredicate_549	Reshaping	1.0	 ALIAS
+P1419	shape	FN_SemanticPredicate_507	Shapes	1.0	 ALIAS
+P646	Freebase identifier	FN_SemanticPredicate_706	Temporal_subregion	1.0	 ALIAS
+P1053	ResearcherID	FN_SemanticPredicate_960	Emptying	1.0	 ALIAS
+P1400	FCC Facility ID	FN_SemanticPredicate_770	Observable_body_parts	1.0	 ALIAS
+P18	image	FN_SemanticPredicate_679	Exemplar	1.0	 ALIAS
+P18	image	FN_SemanticPredicate_845	Optical_image	1.0	 ALIAS
+P18	image	FN_SemanticPredicate_161	Physical_artworks	1.0	 ALIAS
+P18	image	FN_SemanticPredicate_30	Similarity	1.0	 ALIAS
+P18	image	FN_SemanticPredicate_672	Sensation	1.0	 ALIAS
+P18	image	FN_SemanticPredicate_300	Impression	1.0	 ALIAS
+P18	image	FN_SemanticPredicate_161	Physical_artworks	2.0	 ALIAS
+P51	audio	FN_SemanticPredicate_1007	Text	1.0	 ALIAS
+P580	start time	FN_SemanticPredicate_662	Time_vector	2.0	 ALIAS
+P580	start time	FN_SemanticPredicate_632	Evidence	1.0	 ALIAS
+P580	start time	FN_SemanticPredicate_956	Causation	1.0	 ALIAS
+P580	start time	FN_SemanticPredicate_706	Temporal_subregion	1.0	 ALIAS
+P580	start time	FN_SemanticPredicate_895	Origin	1.0	 ALIAS
+P582	end time	FN_SemanticPredicate_753	Goal	1.0	 ALIAS
+P582	end time	FN_SemanticPredicate_304	Personal_relationship	1.0	 ALIAS
+P582	end time	FN_SemanticPredicate_110	Locative_relation	1.0	 ALIAS
+P582	end time	FN_SemanticPredicate_662	Time_vector	1.0	 ALIAS
+P582	end time	FN_SemanticPredicate_410	Openness	1.0	 ALIAS
+P585	point in time	FN_SemanticPredicate_596	Measure_duration	2.0	 ALIAS
+P585	point in time	FN_SemanticPredicate_124	Location_in_time	2.0	 ALIAS
+P585	point in time	FN_SemanticPredicate_304	Personal_relationship	1.0	 ALIAS
+P585	point in time	FN_SemanticPredicate_954	Temporal_pattern	1.0	 ALIAS
+P585	point in time	FN_SemanticPredicate_614	Timespan	1.0	 ALIAS
+P585	point in time	FN_SemanticPredicate_170	Food	1.0	 ALIAS
+P585	point in time	FN_SemanticPredicate_187	Calendric_unit	1.0	 ALIAS
+P585	point in time	FN_SemanticPredicate_213	Event_instance	1.0	 ALIAS
+P585	point in time	FN_SemanticPredicate_554	Temporal_collocation	1.0	 ALIAS
+P585	point in time	FN_SemanticPredicate_466	Social_event_collective	1.0	 ALIAS
+P625	coordinate location	FN_SemanticPredicate_48	Locale	1.0	 ALIAS
+P625	coordinate location	FN_SemanticPredicate_979	Posture	1.0	 ALIAS
+P625	coordinate location	FN_SemanticPredicate_264	Placing	1.0	 ALIAS

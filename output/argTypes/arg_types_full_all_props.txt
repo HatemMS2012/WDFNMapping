@@ -1,0 +1,1490 @@
+ID 	 arg1 	 arg2
+P10	{}	{SRC-PROP-DESC=[video, relevant], SRC-PROP-LABEL=[video], SUB-ITEM=[video]}
+P1000	{SRC-PROP-DESC=[person, entity]}	{SRC-PROP-DESC=[record, notable], SRC-PROP-LABEL=[record]}
+P1001	{SRC-PROP-DESC=[value]}	{SRC-PROP-DESC=[item], SRC-PROP-LABEL=[jurisdiction]}
+P1002	{SRC-PROP-DESC=[cylinders]}	{SRC-PROP-DESC=[configuration], SRC-PROP-LABEL=[engine, configuration]}
+P1003	{SRC-PROP-DESC=[National, Library], INST-FACET=[authority control]}	{SRC-PROP-DESC=[authority, control, identifier], SRC-PROP-LABEL=[NLR, identifier]}
+P1004	{SRC-PROP-DESC=[encyclopedia, MusicBrainz, open, music], INST-FACET=[authority control], SRC-PROP-LABEL=[ID, place]}	{SRC-PROP-DESC=[place, identifier], SRC-PROP-LABEL=[MusicBrainz]}
+P1005	{SRC-PROP-DESC=[Library, National], INST-FACET=[authority control]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[TBN, identifier]}
+P1006	{SRC-PROP-DESC=[names, Author], INST-FACET=[authority control], SRC-PROP-LABEL=[identifier]}	{SRC-PROP-DESC=[National, Thesaurus], SRC-PROP-LABEL=[NTA]}
+P1007	{SRC-PROP-DESC=[group, person], SRC-PROP-LABEL=[number, latform]}	{SRC-PROP-DESC=[number], SRC-PROP-LABEL=[Lattes]}
+P101	{SRC-PROP-DESC=[item], SRC-PROP-LABEL=[work]}	{SRC-PROP-DESC=[fields], SRC-PROP-LABEL=[field]}
+P1010	{SRC-PROP-DESC=[Iran], SRC-PROP-LABEL=[ID]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[Iran]}
+P1011	{INST-FACET=[qualifier]}	{}
+P1012	{INST-FACET=[qualifier]}	{}
+P1013	{INST-FACET=[qualifier]}	{SRC-PROP-LABEL=[criterion]}
+P1014	{SRC-PROP-DESC=[Institute, Getty, Research], INST-FACET=[authority control]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[AAT, identifier]}
+P1015	{SRC-PROP-DESC=[BIBSYS], INST-FACET=[authority control]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[identifier, BIBSYS]}
+P1016	{SRC-PROP-DESC=[classification, asteroid]}	{SRC-PROP-DESC=[type], SRC-PROP-LABEL=[asteroid, taxonomy], SUB-ITEM=[asteroid spectral type]}
+P1017	{SRC-PROP-DESC=[Vatican, Library], INST-FACET=[authority control], SRC-PROP-LABEL=[identifier]}	{SRC-PROP-DESC=[authority, control, identifier], SRC-PROP-LABEL=[BAV]}
+P1018	{SRC-PROP-DESC=[language], SRC-PROP-LABEL=[body, regulatory]}	{SRC-PROP-DESC=[body, regulatory], SRC-PROP-LABEL=[language]}
+P1019	{SRC-PROP-DESC=[person/organisation/project]}	{SRC-PROP-DESC=[newsfeed], SRC-PROP-LABEL=[feed, URL]}
+P102	{SRC-PROP-DESC=[politician, member, been], SUB-PROP=[human], INST-FACET=[human], SRC-PROP-LABEL=[party, political]}	{SRC-PROP-DESC=[party, political], SRC-PROP-LABEL=[member], SUB-ITEM=[political party]}
+P1021	{SRC-PROP-DESC=[occupations]}	{SRC-PROP-DESC=[classification, German], SRC-PROP-LABEL=[occupation, KldB-2010, code]}
+P1022	{SRC-PROP-LABEL=[code, occupation]}	{SRC-PROP-DESC=[classification, Spanish, occupations], SRC-PROP-LABEL=[CNO-11]}
+P1023	{SRC-PROP-DESC=[version, 2010]}	{SRC-PROP-DESC=[CBS, Dutch], SRC-PROP-LABEL=[occupation, SBC-2010, code]}
+P1024	{SRC-PROP-LABEL=[code, occupation]}	{SRC-PROP-DESC=[classification, Swiss, occupations], SRC-PROP-LABEL=[SBFI]}
+P1025	{SRC-PROP-DESC=[catalog, French, union]}	{SRC-PROP-DESC=[item, number], SRC-PROP-LABEL=[SUDOC, editions]}
+P1026	{SRC-PROP-DESC=[someone, hD, degree, obtain], INST-FACET=[human]}	{SRC-PROP-DESC=[thesis], SRC-PROP-LABEL=[thesis, doctoral]}
+P1027	{SRC-PROP-DESC=[honor], INST-FACET=[qualifier]}	{SRC-PROP-DESC=[person, organization]}
+P1028	{}	{SRC-PROP-DESC=[person, organization]}
+P1029	{SRC-PROP-DESC=[vehicle]}	{SRC-PROP-DESC=[person], SRC-PROP-LABEL=[crew, member]}
+P103	{SRC-PROP-DESC=[person], SUB-PROP=[human], SEE-ALSO=[human], INST-FACET=[human]}	{SRC-PROP-DESC=[language], SRC-PROP-LABEL=[language, native], SUB-ITEM=[first language]}
+P1030	{SRC-PROP-DESC=[chart, nautical]}	{SRC-PROP-DESC=[description], SRC-PROP-LABEL=[lighthouse]}
+P1031	{SRC-PROP-DESC=[decision, court], SRC-PROP-LABEL=[text]}	{SRC-PROP-DESC=[citation, legal], SRC-PROP-LABEL=[citation, legal], SUB-ITEM=[Legal citation]}
+P1032	{SRC-PROP-DESC=[use], SRC-PROP-LABEL=[system]}	{SRC-PROP-DESC=[technologies], SRC-PROP-LABEL=[Digital, Rights, Management]}
+P1033	{SRC-PROP-DESC=[danger], SRC-PROP-LABEL=[word, signal]}	{SRC-PROP-LABEL=[GHS], SUB-ITEM=[GHS signal word]}
+P1034	{SRC-PROP-DESC=[organism, nutrition, depends]}	{SRC-PROP-DESC=[species, genus], SRC-PROP-LABEL=[food, main, source]}
+P1035	{SRC-PROP-DESC=[person], INST-FACET=[human]}	{SRC-PROP-DESC=[word, expression, connotations], SRC-PROP-LABEL=[suffix, honorific]}
+P1036	{SRC-PROP-DESC=[DDC, corresponding, edition], SRC-PROP-LABEL=[Classification]}	{SRC-PROP-LABEL=[Dewey, Decimal], SUB-ITEM=[Dewey Decimal Classification]}
+P1037	{SRC-PROP-DESC=[kind]}	{SRC-PROP-DESC=[person], SRC-PROP-LABEL=[manager/director]}
+P1038	{SEE-ALSO=[qualifier, human], INST-FACET=[human]}	{SRC-PROP-DESC=[family, member], SEE-ALSO=[mother, father, kinship, child], SUB-ITEM=[kinship]}
+P1039	{SRC-PROP-DESC=[family, unusual, relationships], SEE-ALSO=[human], INST-FACET=[qualifier], SRC-PROP-LABEL=[kinship]}	{SRC-PROP-DESC=[qualifier, ``], SEE-ALSO=[kinship], SRC-PROP-LABEL=[type], SUB-ITEM=[kinship]}
+P1040	{}	{SRC-PROP-DESC=[person], SRC-PROP-LABEL=[film, editor]}
+P1041	{SRC-PROP-DESC=[part, electronic]}	{SRC-PROP-DESC=[socket], SRC-PROP-LABEL=[sockets]}
+P1042	{SRC-PROP-DESC=[serials], SRC-PROP-LABEL=[identifier]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[ZDB]}
+P1043	{SRC-PROP-DESC=[IDEO]}	{SRC-PROP-DESC=[occupation, ID], SRC-PROP-LABEL=[IDEO, Job, ID]}
+P1044	{SRC-PROP-DESC=[Network, Library]}	{SRC-PROP-DESC=[union, catalog], SRC-PROP-LABEL=[SWB, editions]}
+P1045	{SRC-PROP-DESC=[Assembly, French, National]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[Sycomore, ID], SUB-ITEM=[Sycomore]}
+P1046	{}	{SRC-PROP-DESC=[exoplanet], SRC-PROP-LABEL=[discovery, method], SUB-ITEM=[Methods of detecting extrasolar planets]}
+P1047	{SRC-PROP-DESC=[catholic-hierarchy]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[Catholic, Hierarchy, ID], SUB-ITEM=[Catholic-Hierarchy.org]}
+P1048	{SRC-PROP-DESC=[Taiwan], INST-FACET=[authority control]}	{SRC-PROP-DESC=[authority, control, number], SRC-PROP-LABEL=[NCL, identifier]}
+P1049	{INST-FACET=[human], SRC-PROP-LABEL=[deity]}	{SRC-PROP-DESC=[religion, group/civilization]}
+P105	{SRC-PROP-DESC=[hierarchy, taxonomic]}	{SRC-PROP-DESC=[level], SRC-PROP-LABEL=[taxon, rank], SUB-ITEM=[taxonomic rank]}
+P1050	{SRC-PROP-DESC=[animal, individual], INST-FACET=[human]}	{SRC-PROP-DESC=[disease, other, health, problem], SRC-PROP-LABEL=[condition, medical]}
+P1051	{SRC-PROP-DESC=[Library, Czech, Technical], INST-FACET=[authority control]}	{SRC-PROP-DESC=[Identifier], SRC-PROP-LABEL=[SH, ID]}
+P1052	{SRC-PROP-LABEL=[C, Job, Code]}	{SRC-PROP-LABEL=[ortuguese]}
+P1053	{SRC-PROP-DESC=[authors, scientific]}	{SRC-PROP-DESC=[system], SRC-PROP-LABEL=[ResearcherID], SUB-ITEM=[ResearcherID]}
+P1054	{SRC-PROP-DESC=[Library, National, Diet]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[NDL, editions]}
+P1055	{SRC-PROP-DESC=[Medicine]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[NLM, ID]}
+P1056	{SRC-PROP-DESC=[mine]}	{SRC-PROP-DESC=[material]}
+P1057	{SRC-PROP-DESC=[entity, localized, is]}	{SRC-PROP-DESC=[chromosome], SRC-PROP-LABEL=[chromosome]}
+P1058	{SRC-PROP-DESC=[journals, academic], SRC-PROP-LABEL=[ID, Journal]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[ERA]}
+P1059	{SRC-PROP-DESC=[identifier]}	{SRC-PROP-DESC=[Central, Business, Register], SRC-PROP-LABEL=[CVR]}
+P106	{SRC-PROP-DESC=[person], INST-FACET=[human]}	{SRC-PROP-DESC=[occupation], SRC-PROP-LABEL=[occupation], SUB-ITEM=[occupation]}
+P1060	{SRC-PROP-DESC=[pathogen], SRC-PROP-LABEL=[process, transmission]}	{SRC-PROP-DESC=[process], SRC-PROP-LABEL=[pathogen]}
+P1064	{SRC-PROP-DESC=[track, railway]}	{SRC-PROP-DESC=[spacing], SRC-PROP-LABEL=[track, gauge], SUB-ITEM=[track gauge]}
+P1065	{}	{SRC-PROP-LABEL=[archive, URL]}
+P1066	{SRC-PROP-DESC=[person], INVS-PROP=[student], INST-FACET=[human], SRC-PROP-LABEL=[student]}	{SRC-PROP-DESC=[person], INVS-PROP=[human], SUB-ITEM=[teacher]}
+P1067	{SRC-PROP-DESC=[units, central, administrative], SRC-PROP-LABEL=[code, central, administrative, unit]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[Thailand], SUB-ITEM=[Thai Industrial Standard 1099-2548]}
+P1068	{SRC-PROP-DESC=[processor, architecture]}	{SRC-PROP-DESC=[instruction, set], SRC-PROP-LABEL=[instruction, set]}
+P1069	{SRC-PROP-DESC=[ISCO]}	{SRC-PROP-DESC=[Danemark, Job, Code, DISCO-08], SRC-PROP-LABEL=[Danemark, Job, Code]}
+P107	{}	{SRC-PROP-LABEL=[type, main]}
+P1070	{SRC-PROP-DESC=[List, lant]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[lantList-ID], SUB-ITEM=[The Plant List]}
+P1071	{SRC-PROP-DESC=[item], SRC-PROP-LABEL=[assembly, final]}	{SRC-PROP-DESC=[place], SEE-ALSO=[manufacturer], SRC-PROP-LABEL=[location]}
+P1072	{SRC-PROP-DESC=[program]}	{SRC-PROP-DESC=[file], SRC-PROP-LABEL=[file, readable, format]}
+P1073	{SRC-PROP-DESC=[program]}	{SRC-PROP-DESC=[file], SRC-PROP-LABEL=[file, writable, format]}
+P1074	{SRC-PROP-DESC=[work, creative], SRC-PROP-LABEL=[analog, fictional]}	{}
+P1075	{SRC-PROP-DESC=[university]}	{SRC-PROP-DESC=[rector], SRC-PROP-LABEL=[rector]}
+P1076	{SRC-PROP-DESC=[database], SRC-PROP-LABEL=[ID, virus]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[ICTV], SUB-ITEM=[International Committee on Taxonomy of Viruses]}
+P1077	{SRC-PROP-DESC=[units, Ukrainian, administrative], SRC-PROP-LABEL=[identifier]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[KOATUU]}
+P1078	{}	{SRC-PROP-DESC=[configuration], SRC-PROP-LABEL=[valvetrain, configuration]}
+P1079	{SRC-PROP-DESC=[rocket]}	{SRC-PROP-DESC=[organization], SRC-PROP-LABEL=[launch, contractor]}
+P108	{INST-FACET=[human]}	{SRC-PROP-DESC=[organization], SRC-PROP-LABEL=[employer], SUB-ITEM=[employer]}
+P1080	{SRC-PROP-DESC=[narrative]}	{SRC-PROP-DESC=[entity, fictional], SRC-PROP-LABEL=[universe, fictional]}
+P1081	{SRC-PROP-DESC=[country]}	{SRC-PROP-DESC=[HDI, value], SRC-PROP-LABEL=[Human, Development, Index], SUB-ITEM=[Human Development Index]}
+P1082	{}	{SRC-PROP-DESC=[number, people], SRC-PROP-LABEL=[population]}
+P1083	{SRC-PROP-DESC=[vehicle, venue]}	{SRC-PROP-DESC=[capacity], SRC-PROP-LABEL=[capacity]}
+P1084	{SRC-PROP-DESC=[catalog, Egyptian, union]}	{SRC-PROP-DESC=[catalogue, number], SRC-PROP-LABEL=[EUL, editions]}
+P1085	{SRC-PROP-LABEL=[identifier, work]}	{SRC-PROP-DESC=[control, number], SRC-PROP-LABEL=[LibraryThing]}
+P1086	{}	{SRC-PROP-DESC=[number, protons], SRC-PROP-LABEL=[number, atomic], SUB-ITEM=[atomic number]}
+P1087	{SRC-PROP-DESC=[chess], SRC-PROP-LABEL=[rating]}	{SRC-PROP-DESC=[measure, quantitative], SRC-PROP-LABEL=[ELO]}
+P1088	{}	{SRC-PROP-LABEL=[hardness], SUB-ITEM=[Mohs scale of mineral hardness]}
+P109	{SRC-PROP-DESC=[signature], INST-FACET=[human]}	{SRC-PROP-DESC=[image], SRC-PROP-LABEL=[signature], SUB-ITEM=[signature]}
+P1090	{SRC-PROP-DESC=[astronomical]}	{SRC-PROP-DESC=[redshift], SRC-PROP-LABEL=[redshift], SUB-ITEM=[red shift]}
+P1092	{}	{SRC-PROP-DESC=[quantity, item], SRC-PROP-LABEL=[total]}
+P1093	{SRC-PROP-DESC=[volume, overall, internal]}	{SRC-PROP-DESC=[index, unitless], SRC-PROP-LABEL=[tonnage, gross]}
+P1096	{SRC-PROP-DESC=[circle, perfect]}	{SRC-PROP-DESC=[amount], SRC-PROP-LABEL=[eccentricity, orbital], SUB-ITEM=[orbital eccentricity]}
+P1097	{SRC-PROP-DESC=[particle, elementary]}	{SRC-PROP-DESC=[property, characteristic], SRC-PROP-LABEL=[g-factor]}
+P1098	{SRC-PROP-DESC=[language], SRC-PROP-LABEL=[speakers]}	{SRC-PROP-DESC=[number, people], SRC-PROP-LABEL=[number]}
+P1099	{SRC-PROP-DESC=[masts], SRC-PROP-LABEL=[masts]}	{SRC-PROP-DESC=[ship], SRC-PROP-LABEL=[number]}
+P110	{SRC-PROP-DESC=[book]}	{SRC-PROP-DESC=[illustrator], SRC-PROP-LABEL=[illustrator]}
+P1100	{SRC-PROP-DESC=[compressor, piston, engine], SRC-PROP-LABEL=[cylinders]}	{SRC-PROP-DESC=[number], SRC-PROP-LABEL=[number]}
+P1101	{SRC-PROP-DESC=[building], SRC-PROP-LABEL=[ground]}	{SRC-PROP-DESC=[ground, floor, count], SRC-PROP-LABEL=[floors]}
+P1102	{SRC-PROP-DESC=[revolution]}	{SRC-PROP-DESC=[measure], SUB-ITEM=[Flattening]}
+P1103	{SRC-PROP-LABEL=[platforms]}	{SRC-PROP-DESC=[number, tracks], SRC-PROP-LABEL=[number]}
+P1104	{SRC-PROP-DESC=[work], SRC-PROP-LABEL=[pages]}	{SRC-PROP-DESC=[number], SRC-PROP-LABEL=[number]}
+P1106	{SRC-PROP-DESC=[quantity, datatype]}	{SRC-PROP-DESC=[property], SRC-PROP-LABEL=[sandbox-quantity]}
+P1107	{INST-FACET=[qualifier]}	{SRC-PROP-LABEL=[proportion]}
+P1108	{}	{SRC-PROP-LABEL=[electronegativity], SUB-ITEM=[Electronegativity]}
+P1109	{SRC-PROP-DESC=[qualifiers]}	{SRC-PROP-DESC=[index, refractive], SRC-PROP-LABEL=[index, refractive]}
+P111	{SRC-PROP-DESC=[unit]}	{SRC-PROP-DESC=[property, physical], SRC-PROP-LABEL=[quantity, physical]}
+P1110	{SRC-PROP-DESC=[exhibition, event]}	{SRC-PROP-DESC=[number], SRC-PROP-LABEL=[attendance]}
+P1111	{SRC-PROP-DESC=[election]}	{SRC-PROP-DESC=[number], SRC-PROP-LABEL=[votes]}
+P1112	{SRC-PROP-DESC=[number]}	{SRC-PROP-DESC=[identification, okémon], SRC-PROP-LABEL=[okédex, number]}
+P1113	{SRC-PROP-DESC=[series]}	{SRC-PROP-DESC=[number], SRC-PROP-LABEL=[series, length]}
+P1114	{}	{SRC-PROP-DESC=[number], SRC-PROP-LABEL=[quantity]}
+P1115	{SRC-PROP-DESC=[jurisdiction, municipality]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[ATVK, ID]}
+P1116	{SRC-PROP-DESC=[Greece], SRC-PROP-LABEL=[code, geographical]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[Kallikratis]}
+P1117	{SRC-PROP-DESC=[constant, dissociation]}	{SRC-PROP-DESC=[acid], SRC-PROP-LABEL=[pKa], SUB-ITEM=[acid dissociation constant]}
+P1118	{SRC-PROP-DESC=[player], INST-FACET=[human]}	{SRC-PROP-DESC=[ranking]}
+P1119	{INST-FACET=[human], SRC-PROP-LABEL=[ranking]}	{SRC-PROP-DESC=[ranking, player], SRC-PROP-LABEL=[tennis]}
+P112	{SRC-PROP-DESC=[place, organization, religion], INST-FACET=[organization]}	{SRC-PROP-DESC=[founder, co-founder], SRC-PROP-LABEL=[founder]}
+P1120	{SRC-PROP-DESC=[result], SRC-PROP-LABEL=[deaths]}	{SRC-PROP-DESC=[number, people], SRC-PROP-LABEL=[number]}
+P1121	{}	{SRC-PROP-LABEL=[oxidation, state]}
+P1122	{}	{SRC-PROP-LABEL=[quantum, number], SUB-ITEM=[spin quantum number]}
+P1123	{SRC-PROP-DESC=[particle, elementary]}	{SRC-PROP-DESC=[property], SRC-PROP-LABEL=[parity]}
+P1124	{SRC-PROP-DESC=[unit, twenty-foot, equivalent]}	{SRC-PROP-DESC=[capacity], SRC-PROP-LABEL=[teu]}
+P1125	{SRC-PROP-LABEL=[coefficient]}	{SRC-PROP-DESC=[measure, statistical], SRC-PROP-LABEL=[Gini], SUB-ITEM=[Gini coefficient]}
+P1126	{SRC-PROP-DESC=[particle, elementary], SRC-PROP-LABEL=[number, quantum]}	{SRC-PROP-DESC=[property, characteristic], SRC-PROP-LABEL=[isospin]}
+P1127	{SRC-PROP-DESC=[particle, elementary]}	{SRC-PROP-DESC=[property, characteristic], SRC-PROP-LABEL=[isospin, z-component]}
+P1128	{SRC-PROP-DESC=[time]}	{SRC-PROP-DESC=[number, total], SRC-PROP-LABEL=[employees]}
+P1129	{}	{SRC-PROP-LABEL=[team, national, caps]}
+P113	{SRC-PROP-DESC=[hub], INST-FACET=[geographic location]}	{SRC-PROP-DESC=[airport], SRC-PROP-LABEL=[airline, hub]}
+P1130	{SRC-PROP-LABEL=[titles]}	{SRC-PROP-DESC=[number, tournament]}
+P1131	{SRC-PROP-DESC=[singles, tennis], SRC-PROP-LABEL=[titles]}	{SRC-PROP-DESC=[number], SRC-PROP-LABEL=[singles]}
+P1132	{SRC-PROP-DESC=[part], SRC-PROP-LABEL=[participants]}	{SRC-PROP-DESC=[number, participants], SRC-PROP-LABEL=[number]}
+P1133	{INST-FACET=[cultural heritage]}	{SRC-PROP-DESC=[Direction, générale, opérationelle, identifier], SRC-PROP-LABEL=[DGO4, identifier]}
+P1134	{SRC-PROP-DESC=[item], SEE-ALSO=[geographic location], INST-FACET=[geographic location]}	{SRC-PROP-DESC=[location], SEE-ALSO=[body of water, administrative territorial entity, landform, geographic location], SRC-PROP-LABEL=[place], SUB-ITEM=[geographic location]}
+P1135	{SRC-PROP-DESC=[nomenclature], INST-FACET=[qualifier]}	{SRC-PROP-DESC=[status], SRC-PROP-LABEL=[status, nomenclatural]}
+P1136	{SRC-PROP-DESC=[question, scientific]}	{SRC-PROP-DESC=[person]}
+P1137	{SRC-PROP-DESC=[unit, stratigraphic], SRC-PROP-LABEL=[unit]}	{SRC-PROP-DESC=[fossils]}
+P1138	{}	{SRC-PROP-LABEL=[Kunstindeks, Danmark]}
+P1139	{SRC-PROP-DESC=[building], SRC-PROP-LABEL=[ground]}	{SRC-PROP-DESC=[number, total], SRC-PROP-LABEL=[floors]}
+P114	{SRC-PROP-DESC=[airline], SUB-PROP=[human]}	{SRC-PROP-DESC=[alliance], SRC-PROP-LABEL=[airline, alliance]}
+P1140	{SRC-PROP-DESC=[Classification, Administrative, Settlement]}	{SRC-PROP-DESC=[Settlement, Administrative, Classification], SRC-PROP-LABEL=[EHAK]}
+P1141	{SRC-PROP-DESC=[units, independent, actual, processing], SRC-PROP-LABEL=[cores, processor]}	{SRC-PROP-DESC=[number], SRC-PROP-LABEL=[number]}
+P1142	{SRC-PROP-DESC=[organization]}	{SRC-PROP-DESC=[ideology, political], SRC-PROP-LABEL=[ideology, political]}
+P1143	{SRC-PROP-DESC=[Republic, Argentine]}	{SRC-PROP-DESC=[catalogue, number], SRC-PROP-LABEL=[BN, editions]}
+P1144	{SRC-PROP-DESC=[records, bibliographic], SEE-ALSO=[authority control]}	{SRC-PROP-DESC=[Library], SEE-ALSO=[Library of Congress Control Number], SRC-PROP-LABEL=[LCOC, LCCN]}
+P1145	{}	{SRC-PROP-DESC=[libration, point], SRC-PROP-LABEL=[point, Lagrangian], SUB-ITEM=[Lagrangian point]}
+P1146	{SRC-PROP-DESC=[website, database]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[IAAF, ID]}
+P1148	{SRC-PROP-DESC=[isotope]}	{SRC-PROP-DESC=[number], SRC-PROP-LABEL=[neutron, number]}
+P1149	{SRC-PROP-DESC=[class], SRC-PROP-LABEL=[Classification, Congress]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[Library]}
+P115	{}	{SRC-PROP-DESC=[home, stadium, venue], SRC-PROP-LABEL=[home, venue]}
+P1150	{SRC-PROP-DESC=[class], SRC-PROP-LABEL=[Classification]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[Regensburg], SUB-ITEM=[Regensburg Classification]}
+P1151	{SRC-PROP-DESC=[topic]}	{SRC-PROP-DESC=[Wikimedia, portal], SRC-PROP-LABEL=[portal, main], SUB-ITEM=[Wikimedia portal]}
+P1152	{SRC-PROP-DESC=[Media, Topics, vocabulary], SRC-PROP-LABEL=[Media, Topic]}	{SRC-PROP-DESC=[topic, classification], SRC-PROP-LABEL=[I]}
+P1153	{SRC-PROP-DESC=[Scopus, bibliographic, database], SRC-PROP-LABEL=[ID, Author]}	{SRC-PROP-DESC=[author, unique, identifier], SRC-PROP-LABEL=[Scopus]}
+P1154	{SRC-PROP-DESC=[Scopus, bibliographic, database]}	{SRC-PROP-DESC=[work, unique, academic, identifier], SRC-PROP-LABEL=[Scopus, EID], SUB-ITEM=[Scopus]}
+P1155	{SRC-PROP-DESC=[identifier, unique]}	{SRC-PROP-DESC=[Scopus], SRC-PROP-LABEL=[Scopus, Affiliation, ID]}
+P1156	{SRC-PROP-DESC=[identifier, unique]}	{SRC-PROP-DESC=[Scopus], SRC-PROP-LABEL=[Scopus, Source, ID]}
+P1157	{SRC-PROP-DESC=[Congress, United, States], INST-FACET=[human], SRC-PROP-LABEL=[identifier]}	{SRC-PROP-DESC=[person, identifier], SRC-PROP-LABEL=[US, Congress, Bio]}
+P1158	{SRC-PROP-DESC=[craft], SRC-PROP-LABEL=[landing]}	{SRC-PROP-DESC=[location], SRC-PROP-LABEL=[location]}
+P1159	{SRC-PROP-DESC=[code, bibliographic]}	{SRC-PROP-DESC=[CODEN], SRC-PROP-LABEL=[CODEN]}
+P1160	{SRC-PROP-DESC=[code/abbreviation, 4, bibliographic], SRC-PROP-LABEL=[abbreviation, 4]}	{SRC-PROP-DESC=[ISO], SRC-PROP-LABEL=[ISO]}
+P1161	{SRC-PROP-DESC=[Z39], SRC-PROP-LABEL=[abbreviation, .5]}	{SRC-PROP-DESC=[code/abbreviation, .5, bibliographic, US, used], SRC-PROP-LABEL=[Z39]}
+P1162	{SRC-PROP-DESC=[abbreviations], SRC-PROP-LABEL=[abbreviation]}	{SRC-PROP-DESC=[Bluebook, citation, style], SRC-PROP-LABEL=[Bluebook]}
+P1163	{SRC-PROP-DESC=[type, file], SRC-PROP-LABEL=[type]}	{SRC-PROP-DESC=[identifier, IANA-registered], SRC-PROP-LABEL=[Internet], SUB-ITEM=[Internet media type]}
+P1164	{SRC-PROP-DESC=[group, finite], SRC-PROP-LABEL=[group]}	{SRC-PROP-DESC=[number], SRC-PROP-LABEL=[cardinality]}
+P1165	{SRC-PROP-DESC=[character, fictional, race]}	{SRC-PROP-DESC=[home, world/planet], SRC-PROP-LABEL=[home, world]}
+P1167	{SRC-PROP-DESC=[devices, USB]}	{SRC-PROP-DESC=[vendor, ID], SRC-PROP-LABEL=[ID, USB]}
+P1168	{SRC-PROP-DESC=[Denmark]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[municipality, code]}
+P117	{SRC-PROP-DESC=[compound, chemical]}	{SRC-PROP-DESC=[representation], SRC-PROP-LABEL=[structure, chemical]}
+P1170	{}	{SRC-PROP-DESC=[type, signal], SRC-PROP-LABEL=[signal, transmitted]}
+P1171	{}	{SRC-PROP-DESC=[method], SRC-PROP-LABEL=[approximation, algorithm], SUB-ITEM=[approximation algorithm]}
+P1172	{SRC-PROP-DESC=[Sweden]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[Geokod]}
+P1174	{SRC-PROP-LABEL=[year]}	{SRC-PROP-DESC=[number, people], SRC-PROP-LABEL=[visitors]}
+P118	{SRC-PROP-DESC=[team]}	{SRC-PROP-DESC=[league], SRC-PROP-LABEL=[league]}
+P1181	{SRC-PROP-DESC=[number]}	{SRC-PROP-DESC=[value, numerical], SRC-PROP-LABEL=[value, numeric]}
+P1182	{SRC-PROP-DESC=[books, specific]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[LIBRIS, editions]}
+P1183	{SRC-PROP-DESC=[rivers, streams]}	{SRC-PROP-DESC=[number], SRC-PROP-LABEL=[Gewässerkennzahl]}
+P1184	{}	{}
+P1185	{SRC-PROP-DESC=[rodovid.org]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[ID, Rodovid]}
+P1186	{SRC-PROP-DESC=[s, past, present, ME], INST-FACET=[human], SRC-PROP-LABEL=[identifier, directory]}	{SRC-PROP-DESC=[directory], SRC-PROP-LABEL=[ME]}
+P1187	{SRC-PROP-LABEL=[ID]}	{SRC-PROP-LABEL=[Dharma, Drum, Buddhist, College]}
+P1188	{}	{SRC-PROP-LABEL=[Dharma, Drum, Buddhist, College, place, ID]}
+P1189	{SRC-PROP-DESC=[class], SRC-PROP-LABEL=[Classification]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[Library, Chinese]}
+P119	{SRC-PROP-DESC=[person], SUB-PROP=[geographic location], INST-FACET=[death, birth, human], SRC-PROP-LABEL=[burial]}	{SRC-PROP-DESC=[location], SUB-PROP=[geographic location], SRC-PROP-LABEL=[location], SUB-ITEM=[burial, grave]}
+P1190	{SRC-PROP-DESC=[classification, library], SRC-PROP-LABEL=[Classification]}	{SRC-PROP-DESC=[type], SRC-PROP-LABEL=[Universal, Decimal], SUB-ITEM=[Universal Decimal Classification]}
+P1191	{SRC-PROP-DESC=[work]}	{SRC-PROP-DESC=[date], SRC-PROP-LABEL=[performance]}
+P1192	{SRC-PROP-DESC=[station]}	{SRC-PROP-DESC=[service], SRC-PROP-LABEL=[service]}
+P1193	{SRC-PROP-DESC=[disease]}	{SRC-PROP-DESC=[portion], SRC-PROP-LABEL=[prevalence]}
+P1194	{SRC-PROP-DESC=[machine]}	{SRC-PROP-DESC=[signals], SRC-PROP-LABEL=[signal]}
+P1195	{SRC-PROP-DESC=[file, format, dot, use]}	{SRC-PROP-DESC=[suffix], SRC-PROP-LABEL=[file, extension], SUB-ITEM=[filename extension]}
+P1196	{SRC-PROP-DESC=[death], SEE-ALSO=[death, birth, human], INST-FACET=[death, birth, human], SRC-PROP-LABEL=[death]}	{SRC-PROP-DESC=[circumstances], SRC-PROP-LABEL=[manner]}
+P1198	{}	{SRC-PROP-DESC=[portion], SRC-PROP-LABEL=[unemployment, rate]}
+P1199	{SRC-PROP-DESC=[trait, particular, genetic, generation, one, passed], SRC-PROP-LABEL=[inheritance]}	{SRC-PROP-DESC=[manner], SRC-PROP-LABEL=[mode], SUB-ITEM=[mode of inheritance]}
+P1200	{SRC-PROP-DESC=[basin], SRC-PROP-LABEL=[category, water, basin]}	{SRC-PROP-DESC=[category], SRC-PROP-LABEL=[bodies]}
+P1201	{SRC-PROP-DESC=[it]}	{SRC-PROP-DESC=[spacecraft, vehicle], SRC-PROP-LABEL=[space, tug]}
+P1202	{SRC-PROP-LABEL=[instrument, scientific]}	{SRC-PROP-DESC=[vessel, satellite, device, instruments, scientific, carried]}
+P1203	{}	{SRC-PROP-LABEL=[municipality, Finnish, number]}
+P1204	{SRC-PROP-DESC=[portal], INVS-PROP=[Wikimedia portal]}	{SRC-PROP-DESC=[topic, primary], SRC-PROP-LABEL=[topic, main]}
+P1207	{SRC-PROP-DESC=[catalog, Warsaw, University, Library], INST-FACET=[authority control]}	{SRC-PROP-DESC=[authority, control, number], SRC-PROP-LABEL=[NUKAT, authorities]}
+P1208	{}	{SRC-PROP-DESC=[International, Standard, Music, Number], SRC-PROP-LABEL=[ISMN]}
+P1209	{SRC-PROP-DESC=[newspaper, magazine], INST-FACET=[work]}	{SRC-PROP-DESC=[number], SRC-PROP-LABEL=[CN]}
+P121	{}	{SRC-PROP-DESC=[equipment], SRC-PROP-LABEL=[equipment]}
+P1210	{SRC-PROP-DESC=[engine]}	{SRC-PROP-DESC=[supercharger, turbocharger], SRC-PROP-LABEL=[supercharger]}
+P1211	{SRC-PROP-DESC=[engine]}	{SRC-PROP-DESC=[fuel, system], SRC-PROP-LABEL=[fuel, system], SUB-ITEM=[engine fuel system]}
+P1212	{SRC-PROP-DESC=[Museum, Louvre]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[Atlas, ID], SUB-ITEM=[Atlas]}
+P1213	{SRC-PROP-DESC=[China], INST-FACET=[authority control]}	{SRC-PROP-DESC=[person, identifier], SRC-PROP-LABEL=[NLC, authorities]}
+P1214	{SRC-PROP-DESC=[data.riksdagen.se]}	{SRC-PROP-DESC=[id-number], SRC-PROP-LABEL=[Riksdagen, person-id]}
+P1215	{SRC-PROP-DESC=[astronomic]}	{SRC-PROP-DESC=[magnitude, apparent], SRC-PROP-LABEL=[magnitude, apparent], SUB-ITEM=[apparent magnitude]}
+P1216	{SRC-PROP-DESC=[buildings], INST-FACET=[cultural heritage]}	{SRC-PROP-DESC=[number], SRC-PROP-LABEL=[English, Heritage, list, number]}
+P1217	{SRC-PROP-DESC=[venue, other], SRC-PROP-LABEL=[ID, Database, venue]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[Internet, Broadway]}
+P1218	{SRC-PROP-DESC=[show], SRC-PROP-LABEL=[ID, Database, production]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[Internet, Broadway]}
+P1219	{SRC-PROP-DESC=[work, other]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[Internet, Broadway, Database, show]}
+P122	{SRC-PROP-LABEL=[government]}	{SRC-PROP-DESC=[government], SRC-PROP-LABEL=[form, basic]}
+P1220	{SRC-PROP-DESC=[Broadway], SRC-PROP-LABEL=[ID]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[Internet, Broadway, Database]}
+P1221	{}	{SRC-PROP-LABEL=[compressor, type]}
+P1222	{SRC-PROP-LABEL=[ID]}	{SRC-PROP-LABEL=[NARA]}
+P1223	{SRC-PROP-LABEL=[ID, organization]}	{SRC-PROP-LABEL=[NARA]}
+P1224	{SRC-PROP-LABEL=[ID, geographic]}	{SRC-PROP-LABEL=[NARA]}
+P1225	{SRC-PROP-LABEL=[ID, topical]}	{SRC-PROP-LABEL=[NARA]}
+P1226	{SRC-PROP-LABEL=[ID, type]}	{SRC-PROP-LABEL=[NARA]}
+P1227	{SRC-PROP-DESC=[sections, particular]}	{SRC-PROP-DESC=[passband], SRC-PROP-LABEL=[filter, astronomical], SUB-ITEM=[optical filter]}
+P1229	{SRC-PROP-DESC=[politicians, Italian]}	{SRC-PROP-DESC=[page], SRC-PROP-LABEL=[Openpolis, ID]}
+P123	{SRC-PROP-DESC=[books, periodicals]}	{SRC-PROP-DESC=[organization], SRC-PROP-LABEL=[publisher]}
+P1230	{SRC-PROP-DESC=[journal], SRC-PROP-LABEL=[code, journal]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[JSTOR]}
+P1231	{SRC-PROP-DESC=[records, catalogue], SRC-PROP-LABEL=[ID, catalogue, record]}	{SRC-PROP-DESC=[identifier, unique], SRC-PROP-LABEL=[NARA], SUB-ITEM=[National Archives and Records Administration]}
+P1232	{SRC-PROP-DESC=[list, Linguist], SRC-PROP-LABEL=[code, list]}	{SRC-PROP-DESC=[language, code], SRC-PROP-LABEL=[Linguist]}
+P1233	{SRC-PROP-DESC=[Database, Speculative, Fiction], INST-FACET=[authority control], SRC-PROP-LABEL=[ID, author]}	{SRC-PROP-DESC=[ID, number], SRC-PROP-LABEL=[ISFDB]}
+P1234	{SRC-PROP-DESC=[Database, Speculative, Fiction], SRC-PROP-LABEL=[ID, publication]}	{SRC-PROP-DESC=[ID, number], SRC-PROP-LABEL=[ISFDB]}
+P1235	{SRC-PROP-DESC=[Database, Internet, Speculative, Fiction], SRC-PROP-LABEL=[ID, series]}	{SRC-PROP-DESC=[ID, number], SRC-PROP-LABEL=[ISFDB]}
+P1236	{SRC-PROP-DESC=[music]}	{SRC-PROP-DESC=[arsons], SRC-PROP-LABEL=[arsons]}
+P1237	{SRC-PROP-DESC=[Mojo, Box, Office], INST-FACET=[work], SRC-PROP-LABEL=[ID, film]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[Box, Office, Mojo]}
+P1238	{SRC-PROP-DESC=[players, Swedish, soccer]}	{SRC-PROP-DESC=[database], SRC-PROP-LABEL=[Football, Swedish, Association, ID]}
+P1239	{SRC-PROP-DESC=[Database, Speculative, Fiction], SRC-PROP-LABEL=[ID]}	{SRC-PROP-DESC=[ID, number], SRC-PROP-LABEL=[ISFDB, publisher]}
+P1240	{SRC-PROP-LABEL=[level]}	{SRC-PROP-LABEL=[Bibliometric, Danish, Research, Indicator]}
+P1241	{}	{SRC-PROP-LABEL=[Football, Swiss, Association, Club, Number]}
+P1242	{SRC-PROP-DESC=[http://theatricalia.com/], SRC-PROP-LABEL=[ID]}	{SRC-PROP-DESC=[Identifier], SRC-PROP-LABEL=[Theatricalia]}
+P1243	{}	{SRC-PROP-LABEL=[International, Standard, Recording, Code], SUB-ITEM=[International Standard Recording Code]}
+P1244	{SRC-PROP-DESC=[entity, specific]}	{SRC-PROP-DESC=[number], SRC-PROP-LABEL=[phone, number], SUB-ITEM=[telephone number]}
+P1245	{}	{SRC-PROP-DESC=[Meaning], SRC-PROP-LABEL=[OmegaWiki, Defined, Meaning]}
+P1246	{SRC-PROP-DESC=[invention, patented]}	{SRC-PROP-DESC=[string], SRC-PROP-LABEL=[patent, number]}
+P1247	{SRC-PROP-DESC=[engine]}	{SRC-PROP-DESC=[compression, ratio], SRC-PROP-LABEL=[compression, ratio]}
+P1248	{SRC-PROP-DESC=[museums, Nordic], INST-FACET=[authority control]}	{SRC-PROP-DESC=[authority, posts], SUB-ITEM=[KulturNav]}
+P1249	{}	{SRC-PROP-DESC=[time], SRC-PROP-LABEL=[time, earliest]}
+P1250	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[SNO/CNO]}	{SRC-PROP-DESC=[conference], SRC-PROP-LABEL=[Bibliometric, Danish, Research, Indicator]}
+P1251	{SRC-PROP-DESC=[languages], SRC-PROP-LABEL=[code, ASCL]}	{SRC-PROP-DESC=[Classification, Australian, Standard], SRC-PROP-LABEL=[ABS]}
+P1252	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[code]}	{SRC-PROP-DESC=[Languages, Australian, Indigenous, Database, language], SRC-PROP-LABEL=[AUSTLANG]}
+P1253	{SRC-PROP-DESC=[Vaud]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[BCU, Ecrivainsvd]}
+P1254	{SRC-PROP-DESC=[project, reference]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[ID]}
+P1255	{SRC-PROP-DESC=[database, archive]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[Helveticarchives, ID]}
+P1256	{SRC-PROP-DESC=[theme, artistic]}	{SRC-PROP-DESC=[code, Iconclass], SRC-PROP-LABEL=[notation, Iconclass]}
+P1257	{SRC-PROP-DESC=[artwork], SRC-PROP-LABEL=[Iconclass, notation]}	{SRC-PROP-DESC=[code, Iconclass]}
+P1258	{INST-FACET=[work], SRC-PROP-LABEL=[identifier]}	{SRC-PROP-DESC=[m], SRC-PROP-LABEL=[Tomatoes, Rotten]}
+P1259	{SRC-PROP-DESC=[scene], INST-FACET=[geographic location]}	{SRC-PROP-DESC=[point], SRC-PROP-LABEL=[point]}
+P126	{}	{SRC-PROP-DESC=[organization, charge]}
+P1260	{INST-FACET=[cultural heritage], SRC-PROP-LABEL=[Sweden]}	{SRC-PROP-LABEL=[heritage, Cultural, database]}
+P1261	{SRC-PROP-DESC=[Sweden]}	{SRC-PROP-DESC=[database], SRC-PROP-LABEL=[Rundata]}
+P1262	{SRC-PROP-DESC=[Sweden]}	{SRC-PROP-DESC=[database], SRC-PROP-LABEL=[RAÄ-nummer]}
+P1263	{SRC-PROP-DESC=[entries], INST-FACET=[authority control]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[NNDB, people]}
+P1264	{SRC-PROP-DESC=[statement, valid, is]}	{SRC-PROP-DESC=[time, period], SRC-PROP-LABEL=[period]}
+P1265	{INST-FACET=[work], SRC-PROP-LABEL=[ID, movie]}	{SRC-PROP-LABEL=[AlloCiné]}
+P1266	{SRC-PROP-LABEL=[ID]}	{SRC-PROP-LABEL=[AlloCiné]}
+P1267	{SRC-PROP-LABEL=[ID, serie]}	{SRC-PROP-LABEL=[AlloCiné]}
+P1268	{SRC-PROP-DESC=[entity], SRC-PROP-LABEL=[organisation]}	{SRC-PROP-DESC=[organization]}
+P1269	{SRC-PROP-DESC=[topic], SRC-PROP-LABEL=[facet]}	{SRC-PROP-DESC=[aspect, main]}
+P127	{INVS-PROP=[property], SEE-ALSO=[organization]}	{SRC-PROP-DESC=[owner], SUB-ITEM=[proprietor]}
+P1270	{SRC-PROP-DESC=[journals, academic], SRC-PROP-LABEL=[ID, periodical]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[Norway, Database]}
+P1271	{SRC-PROP-LABEL=[ID]}	{SRC-PROP-LABEL=[Norway, Database]}
+P1272	{SRC-PROP-LABEL=[code, periodical]}	{SRC-PROP-LABEL=[Norway, Import, Service]}
+P1273	{SRC-PROP-DESC=[National, Library], INST-FACET=[authority control]}	{SRC-PROP-DESC=[authority, Catalan, control, identifier], SRC-PROP-LABEL=[CANTIC]}
+P1274	{SRC-PROP-DESC=[Database, Speculative, Fiction], SRC-PROP-LABEL=[ID, title]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[ISFDB]}
+P1275	{SRC-PROP-LABEL=[code, Registration, Authority, publisher]}	{SRC-PROP-LABEL=[Norway, Import, Service]}
+P1276	{SRC-PROP-DESC=[Jura, Dictionnaire, du]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[Dictionnaire, du, Jura, ID]}
+P1277	{SRC-PROP-DESC=[Forum]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[Jufo, ID]}
+P1278	{SRC-PROP-DESC=[entity], SRC-PROP-LABEL=[Identifier, Entity]}	{SRC-PROP-DESC=[string], SRC-PROP-LABEL=[Entity, Identifier]}
+P1279	{SRC-PROP-DESC=[year, one]}	{SRC-PROP-DESC=[percent, change], SRC-PROP-LABEL=[inflation, rate], SUB-ITEM=[inflation rate]}
+P128	{SRC-PROP-DESC=[protein]}	{SRC-PROP-DESC=[process]}
+P1280	{SRC-PROP-DESC=[database, CONOR.SI], SRC-PROP-LABEL=[identifier]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[CONOR]}
+P1281	{SRC-PROP-DESC=[Flickr, lanet]}	{SRC-PROP-DESC=[location, ID], SRC-PROP-LABEL=[WOEID]}
+P1282	{SRC-PROP-DESC=[schema], SRC-PROP-LABEL=[key]}	{SRC-PROP-DESC=[OpenStreetMap], SRC-PROP-LABEL=[OpenStreetMap]}
+P1283	{SRC-PROP-DESC=[films], INST-FACET=[human]}	{SRC-PROP-DESC=[person], SRC-PROP-LABEL=[filmography], SUB-ITEM=[filmography]}
+P1284	{SRC-PROP-DESC=[Archiv, Munzinger]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[Munzinger, IBA], SUB-ITEM=[Munzinger Archiv]}
+P1285	{SRC-PROP-DESC=[Archiv, Munzinger]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[Munzinger, Sport], SUB-ITEM=[Munzinger Sport]}
+P1286	{SRC-PROP-DESC=[Archiv, Munzinger], SRC-PROP-LABEL=[op]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[Munzinger]}
+P1287	{SRC-PROP-DESC=[Archiv, Munzinger], SRC-PROP-LABEL=[Gegenwart, Komponisten]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[KDG]}
+P1288	{SRC-PROP-DESC=[Archiv, Munzinger], SRC-PROP-LABEL=[Gegenwartsliteratur, Lexikon]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[KLG, Kritisches]}
+P1289	{SRC-PROP-LABEL=[Lexikon]}	{SRC-PROP-LABEL=[KLfG, Kritisches]}
+P129	{}	{SRC-PROP-DESC=[entity, physical]}
+P1290	{SRC-PROP-DESC=[godparent], INST-FACET=[human]}	{SRC-PROP-DESC=[person], SRC-PROP-LABEL=[godparent], SUB-ITEM=[godparent]}
+P1291	{SRC-PROP-DESC=[writers, modern], SRC-PROP-LABEL=[ID, Switzerland]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[Association, Authors]}
+P1292	{SRC-PROP-DESC=[catalogue, German, National, Library], SEE-ALSO=[authority control]}	{SRC-PROP-DESC=[ID], SEE-ALSO=[Integrated Authority File], SRC-PROP-LABEL=[DNB, editions]}
+P1293	{SRC-PROP-LABEL=[ID, Certificate]}	{SRC-PROP-LABEL=[Certificate, ID]}
+P1294	{SRC-PROP-DESC=[ecoregions], SRC-PROP-LABEL=[code, ecoregion]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[WWF]}
+P1295	{}	{SRC-PROP-DESC=[ability], SRC-PROP-LABEL=[emissivity]}
+P1296	{SRC-PROP-DESC=[identifier], INST-FACET=[authority control]}	{SRC-PROP-DESC=[Gran, Enciclopèdia, Catalana], SRC-PROP-LABEL=[Gran, Enciclopèdia, Catalana, ID]}
+P1297	{SRC-PROP-DESC=[Service, United, States, Internal, Revenue]}	{SRC-PROP-DESC=[number], SRC-PROP-LABEL=[IRS, Employer, Identification, Number]}
+P1299	{}	{}
+P1300	{SRC-PROP-DESC=[journal]}	{SRC-PROP-DESC=[bibcode], SRC-PROP-LABEL=[bibcode]}
+P1301	{SRC-PROP-DESC=[building], SRC-PROP-LABEL=[elevators]}	{SRC-PROP-DESC=[number], SRC-PROP-LABEL=[number]}
+P1302	{SRC-PROP-DESC=[road], INST-FACET=[geographic location]}	{SRC-PROP-DESC=[cities, major], SRC-PROP-LABEL=[destinations, primary]}
+P1303	{SRC-PROP-DESC=[person], INST-FACET=[human]}	{SRC-PROP-DESC=[instrument], SRC-PROP-LABEL=[instrument]}
+P1304	{}	{SRC-PROP-DESC=[bank, central], SRC-PROP-LABEL=[bank, central], SUB-ITEM=[central bank]}
+P1305	{}	{SRC-PROP-LABEL=[Skyscraper, Center, ID]}
+P1307	{SRC-PROP-DESC=[arliament, Swiss], INST-FACET=[human]}	{SRC-PROP-DESC=[IDs], SRC-PROP-LABEL=[parliament, Swiss, identifier]}
+P1308	{SRC-PROP-DESC=[office]}	{SRC-PROP-DESC=[person], SRC-PROP-LABEL=[officeholder]}
+P1309	{SRC-PROP-DESC=[Alexandrina, Bibliotheca], INST-FACET=[authority control]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[EGAXA, identifier]}
+P131	{SUB-PROP=[geographic location], SEE-ALSO=[geographic location], INST-FACET=[geographic location]}	{SRC-PROP-DESC=[item], SUB-PROP=[geographic location], SEE-ALSO=[body of water, landform, geographic location], SRC-PROP-LABEL=[entity, administrative, territorial], SUB-ITEM=[administrative territorial entity]}
+P1310	{}	{SRC-PROP-DESC=[entity], SRC-PROP-LABEL=[statement]}
+P1311	{SRC-PROP-DESC=[Canada, United, States]}	{SRC-PROP-DESC=[database], SRC-PROP-LABEL=[lostbridges.org, ID]}
+P1312	{SRC-PROP-DESC=[dimension, next-lower]}	{SRC-PROP-DESC=[facet], SRC-PROP-LABEL=[polytope]}
+P1313	{SRC-PROP-DESC=[head], SRC-PROP-LABEL=[head]}	{SRC-PROP-DESC=[office, political], SRC-PROP-LABEL=[office]}
+P1314	{SRC-PROP-DESC=[spans], SRC-PROP-LABEL=[spans]}	{SRC-PROP-DESC=[bridge], SRC-PROP-LABEL=[number]}
+P1315	{SRC-PROP-DESC=[identifier, Australia, party], INST-FACET=[authority control], SRC-PROP-LABEL=[identifier]}	{SRC-PROP-DESC=[National, Library], SRC-PROP-LABEL=[eople]}
+P1316	{SRC-PROP-DESC=[Database, Swedish, Media]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[SMDB, ID]}
+P1317	{INST-FACET=[death, birth, human]}	{SRC-PROP-DESC=[birth, death], SRC-PROP-LABEL=[floruit]}
+P1318	{SRC-PROP-DESC=[something]}	{SRC-PROP-DESC=[person]}
+P1319	{SRC-PROP-DESC=[event]}	{SRC-PROP-DESC=[date], SRC-PROP-LABEL=[date]}
+P1320	{SRC-PROP-DESC=[database, OpenCorporates]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[OpenCorporates, ID]}
+P1321	{SRC-PROP-DESC=[lieu, d'origine], SRC-PROP-LABEL=[origin]}	{SRC-PROP-DESC=[d'origine, lieu], SRC-PROP-LABEL=[place], SUB-ITEM=[place of origin]}
+P1322	{SRC-PROP-DESC=[curve, polytope, graph]}	{SRC-PROP-DESC=[polytope, graph, curve]}
+P1323	{SRC-PROP-DESC=[identifier, human, anatomical, terminology], SRC-PROP-LABEL=[Anatomica, Terminologia]}	{SRC-PROP-DESC=[Terminologia, Anatomica], SRC-PROP-LABEL=[Terminologia, Anatomica], SUB-ITEM=[Terminologia Anatomica]}
+P1324	{SRC-PROP-DESC=[repository, code], SRC-PROP-LABEL=[repository, code]}	{SRC-PROP-DESC=[source, public], SRC-PROP-LABEL=[source], SUB-ITEM=[source code]}
+P1325	{SRC-PROP-DESC=[data, external]}	{SRC-PROP-DESC=[site], SRC-PROP-LABEL=[data, external]}
+P1326	{SRC-PROP-DESC=[something]}	{SRC-PROP-DESC=[time, possible], SRC-PROP-LABEL=[date]}
+P1327	{SRC-PROP-DESC=[athlete], INST-FACET=[human], SRC-PROP-LABEL=[partner, sports]}	{SRC-PROP-DESC=[person], SRC-PROP-LABEL=[sports, partner]}
+P1329	{SRC-PROP-DESC=[URL, datatype, phone, numbers, support]}	{SRC-PROP-DESC=[property, phone, String], SRC-PROP-LABEL=[phone, number], SUB-ITEM=[telephone number]}
+P1330	{SRC-PROP-DESC=[MusicBrainz], SRC-PROP-LABEL=[ID, instrument]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[MusicBrainz]}
+P1331	{SRC-PROP-DESC=[Europe], INST-FACET=[human], SRC-PROP-LABEL=[ID, member]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[ACE]}
+P1332	{SRC-PROP-DESC=[location], INST-FACET=[geographic location], SRC-PROP-LABEL=[point, northernmost]}	{SRC-PROP-DESC=[point, northernmost], SRC-PROP-LABEL=[coordinate]}
+P1333	{SRC-PROP-DESC=[place], INST-FACET=[geographic location], SRC-PROP-LABEL=[point, southernmost]}	{SRC-PROP-DESC=[point, southernmost], SRC-PROP-LABEL=[coordinate]}
+P1334	{SRC-PROP-DESC=[location], INST-FACET=[geographic location], SRC-PROP-LABEL=[point, easternmost]}	{SRC-PROP-DESC=[point, easternmost], SRC-PROP-LABEL=[coordinate]}
+P1335	{SRC-PROP-DESC=[location], INST-FACET=[geographic location], SRC-PROP-LABEL=[point, westernmost]}	{SRC-PROP-DESC=[point, westernmost], SRC-PROP-LABEL=[coordinate]}
+P1336	{SRC-PROP-DESC=[control]}	{SRC-PROP-DESC=[divisions, administrative], SRC-PROP-LABEL=[territory]}
+P1338	{SRC-PROP-DESC=[datum, geodetic], SRC-PROP-LABEL=[ID, SG]}	{SRC-PROP-DESC=[etroleum, European], SRC-PROP-LABEL=[E]}
+P1339	{SRC-PROP-DESC=[event]}	{SRC-PROP-DESC=[number], SRC-PROP-LABEL=[number]}
+P134	{SRC-PROP-DESC=[language]}	{SRC-PROP-DESC=[dialects], SRC-PROP-LABEL=[dialect]}
+P1340	{SRC-PROP-DESC=[eyes], INST-FACET=[human]}	{SRC-PROP-DESC=[color], SRC-PROP-LABEL=[eye, color], SUB-ITEM=[eye color]}
+P1341	{SRC-PROP-DESC=[deputies, incumbent, former], INST-FACET=[human], SRC-PROP-LABEL=[ID, Deputies]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[Chamber, Italian], SUB-ITEM=[member of the Chamber of Deputies of the Italian Republic]}
+P1342	{SRC-PROP-DESC=[assembly], SRC-PROP-LABEL=[seats]}	{SRC-PROP-DESC=[number], SRC-PROP-LABEL=[number]}
+P1343	{SRC-PROP-DESC=[item]}	{SRC-PROP-DESC=[dictionary, encyclopaedia]}
+P1344	{SRC-PROP-DESC=[person], INST-FACET=[human], SRC-PROP-LABEL=[participant]}	{SRC-PROP-DESC=[event]}
+P1345	{SRC-PROP-DESC=[killer, serial], SRC-PROP-LABEL=[victims]}	{SRC-PROP-DESC=[number], SRC-PROP-LABEL=[number]}
+P1346	{SRC-PROP-DESC=[event]}	{SRC-PROP-DESC=[winner], SRC-PROP-LABEL=[winner]}
+P1347	{}	{SRC-PROP-LABEL=[casualty, military, classification]}
+P1348	{SRC-PROP-DESC=[AlgaeBase, website], SRC-PROP-LABEL=[URL]}	{SRC-PROP-DESC=[URL], SRC-PROP-LABEL=[AlgaeBase], SUB-ITEM=[AlgaeBase]}
+P1349	{SRC-PROP-DESC=[genome]}	{SRC-PROP-DESC=[ploidy], SRC-PROP-LABEL=[ploidy]}
+P135	{SRC-PROP-DESC=[movement, philosophical], INST-FACET=[organization, human, cultural heritage]}	{SRC-PROP-DESC=[person, work], SRC-PROP-LABEL=[movement]}
+P1350	{}	{SRC-PROP-DESC=[matches, games], SRC-PROP-LABEL=[number, matches]}
+P1351	{SRC-PROP-DESC=[qualifier], INST-FACET=[qualifier]}	{SRC-PROP-DESC=[goals], SRC-PROP-LABEL=[number, points/goals]}
+P1352	{SRC-PROP-DESC=[sport]}	{SRC-PROP-DESC=[ranking]}
+P1353	{SRC-PROP-DESC=[name, scientific], INST-FACET=[qualifier]}	{SRC-PROP-DESC=[spelling, original], SRC-PROP-LABEL=[spelling, original]}
+P1354	{SRC-PROP-DESC=[work]}	{SRC-PROP-DESC=[features]}
+P1355	{}	{SRC-PROP-DESC=[number, matches], SRC-PROP-LABEL=[matches, won/games]}
+P1356	{}	{SRC-PROP-DESC=[number, matches], SRC-PROP-LABEL=[matches, lost/games]}
+P1357	{}	{SRC-PROP-DESC=[number, matches], SRC-PROP-LABEL=[matches/games]}
+P1358	{SRC-PROP-DESC=[decathlon, league, table]}	{SRC-PROP-DESC=[number], SRC-PROP-LABEL=[points]}
+P1359	{}	{SRC-PROP-DESC=[points], SRC-PROP-LABEL=[number, points/goals]}
+P136	{SRC-PROP-DESC=[artist]}	{SRC-PROP-DESC=[genre], SRC-PROP-LABEL=[genre], SUB-ITEM=[genre]}
+P1360	{SRC-PROP-DESC=[particle, elementary], SRC-PROP-LABEL=[Number]}	{SRC-PROP-DESC=[number], SRC-PROP-LABEL=[Monte, Carlo]}
+P1361	{}	{SRC-PROP-LABEL=[Anime, News, Network, ID]}
+P1362	{SRC-PROP-DESC=[Switzerland], SRC-PROP-LABEL=[Schweiz]}	{SRC-PROP-DESC=[edition, online, ID], SRC-PROP-LABEL=[Theaterlexikon], SUB-ITEM=[Theaterlexikon der Schweiz]}
+P1363	{SRC-PROP-DESC=[point, goal]}	{SRC-PROP-DESC=[person]}
+P1364	{SRC-PROP-DESC=[identifier, table, tennis, player]}	{SRC-PROP-DESC=[ITTF], SRC-PROP-LABEL=[ITTF, ID]}
+P1365	{SRC-PROP-DESC=[office, position], SEE-ALSO=[qualifier], INST-FACET=[qualifier]}	{SRC-PROP-DESC=[item, erson], INVS-PROP=[qualifier]}
+P1366	{SRC-PROP-DESC=[office, position, etc], SEE-ALSO=[qualifier], INST-FACET=[qualifier]}	{SRC-PROP-DESC=[erson], INVS-PROP=[qualifier]}
+P1367	{SRC-PROP-DESC=[artists], INST-FACET=[authority control], SRC-PROP-LABEL=[identifier, artist]}	{SRC-PROP-DESC=[authority], SRC-PROP-LABEL=[BBC]}
+P1368	{SRC-PROP-DESC=[code, Latvia], INST-FACET=[authority control], SRC-PROP-LABEL=[identifier]}	{SRC-PROP-DESC=[National, Library], SRC-PROP-LABEL=[LNB]}
+P1369	{SRC-PROP-DESC=[database, Iranian, National, Heritage], SRC-PROP-LABEL=[number, registration]}	{SRC-PROP-DESC=[registration, number], SRC-PROP-LABEL=[National, Iranian, Heritage]}
+P137	{SRC-PROP-DESC=[service, facility]}	{SRC-PROP-DESC=[organization], SRC-PROP-LABEL=[operator]}
+P1370	{SRC-PROP-DESC=[units, Haitian, administrative]}	{SRC-PROP-DESC=[code], SRC-PROP-LABEL=[identifier, ihsi]}
+P1371	{SRC-PROP-DESC=[Archaeological, Survey], INST-FACET=[cultural heritage]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[ASI, Monument, ID]}
+P1372	{SRC-PROP-LABEL=[library, software]}	{SRC-PROP-DESC=[software, library], SRC-PROP-LABEL=[binding]}
+P1373	{}	{SRC-PROP-DESC=[number, people], SRC-PROP-LABEL=[ridership]}
+P1375	{SRC-PROP-DESC=[Zagreb], INST-FACET=[authority control], SRC-PROP-LABEL=[identifier]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[NSK]}
+P1376	{SRC-PROP-DESC=[municipality, seat, governmental, is], INVS-PROP=[capital], SRC-PROP-LABEL=[capital]}	{SRC-PROP-DESC=[country, state, department, canton, other, administrative, division], INVS-PROP=[geographic location]}
+P1377	{SRC-PROP-DESC=[MTR], SRC-PROP-LABEL=[code, station]}	{SRC-PROP-DESC=[Hong, Kong, station, codes], SRC-PROP-LABEL=[MTR]}
+P1378	{SRC-PROP-LABEL=[code, station]}	{SRC-PROP-DESC=[digit, five, code, railway], SRC-PROP-LABEL=[China, railway, TMIS]}
+P138	{SRC-PROP-DESC=[name, namesake]}	{SRC-PROP-DESC=[entity, event]}
+P1380	{SRC-PROP-DESC=[Inventory, National, Bridge]}	{SRC-PROP-DESC=[database], SRC-PROP-LABEL=[uglybridges.com, ID]}
+P1381	{SRC-PROP-DESC=[bridges, historic]}	{SRC-PROP-DESC=[database], SRC-PROP-LABEL=[bridgehunter.com, ID]}
+P1382	{SRC-PROP-DESC=[part]}	{}
+P1383	{SRC-PROP-DESC=[division, administrative], SRC-PROP-LABEL=[settlement]}	{SRC-PROP-DESC=[settlement]}
+P1385	{SRC-PROP-DESC=[encyclopedia, Azores-themed]}	{SRC-PROP-DESC=[entry], SRC-PROP-LABEL=[Enciclopédia, Açoriana, ID]}
+P1386	{SRC-PROP-DESC=[schools, Japanese, high], SRC-PROP-LABEL=[Code, High, School]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[School, High, Code]}
+P1387	{SRC-PROP-DESC=[position, political]}	{SRC-PROP-DESC=[spectrum, political], SRC-PROP-LABEL=[alignment, political]}
+P1388	{}	{SRC-PROP-LABEL=[key, German, regional]}
+P1389	{}	{SRC-PROP-DESC=[certification], SRC-PROP-LABEL=[product, certification]}
+P1390	{SRC-PROP-DESC=[goal], SRC-PROP-LABEL=[score]}	{SRC-PROP-DESC=[minutes], SRC-PROP-LABEL=[match, time]}
+P1391	{SRC-PROP-DESC=[Fungorum, Index]}	{SRC-PROP-DESC=[Identifier], SRC-PROP-LABEL=[Index, Fungorum, ID], SUB-ITEM=[Index Fungorum]}
+P1392	{SRC-PROP-DESC=[database, comic, book]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[ComicBookDB, ID]}
+P1393	{}	{SRC-PROP-DESC=[person], SRC-PROP-LABEL=[proxy]}
+P1394	{SRC-PROP-DESC=[database, Glottolog], SRC-PROP-LABEL=[code]}	{SRC-PROP-DESC=[language, code], SRC-PROP-LABEL=[Glottolog], SUB-ITEM=[Glottolog]}
+P1395	{SRC-PROP-DESC=[www.cancer.gov]}	{SRC-PROP-DESC=[id], SRC-PROP-LABEL=[National, Cancer, Institute, ID]}
+P1396	{SRC-PROP-DESC=[Observatory, Linguasphere], SRC-PROP-LABEL=[code]}	{SRC-PROP-DESC=[language, code], SRC-PROP-LABEL=[Linguasphere]}
+P1397	{SRC-PROP-DESC=[Names, Geographical], SRC-PROP-LABEL=[identifier]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[State, Catalogue]}
+P1398	{SRC-PROP-DESC=[building, structure]}	{SRC-PROP-DESC=[building/structure]}
+P1399	{SRC-PROP-DESC=[person], INST-FACET=[human]}	{SRC-PROP-DESC=[crime]}
+P14	{SRC-PROP-DESC=[highway]}	{SUB-PROP=[illustration], SRC-PROP-LABEL=[highway, marker], SUB-ITEM=[highway shield]}
+P140	{SRC-PROP-DESC=[organization, person], INST-FACET=[human]}	{SRC-PROP-DESC=[religion], SRC-PROP-LABEL=[religion]}
+P1400	{SRC-PROP-DESC=[stations, broadcast]}	{SRC-PROP-DESC=[U.S., ID], SRC-PROP-LABEL=[FCC, Facility, ID]}
+P1401	{SRC-PROP-DESC=[bugs, issues, software, particular, filed], SRC-PROP-LABEL=[system, tracking]}	{SRC-PROP-DESC=[bug, report, page], SRC-PROP-LABEL=[bug]}
+P1402	{SRC-PROP-DESC=[terminology, human, anatomical], SRC-PROP-LABEL=[ID, Anatomy]}	{SRC-PROP-DESC=[identifier, unique], SRC-PROP-LABEL=[Model, Foundational]}
+P1403	{SRC-PROP-DESC=[animals]}	{SRC-PROP-DESC=[name, species-group], SRC-PROP-LABEL=[combination, original]}
+P1404	{SRC-PROP-DESC=[database, World, Glacier, Inventory]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[World, Glacier, Inventory, ID]}
+P1406	{SRC-PROP-DESC=[system]}	{SRC-PROP-DESC=[direction], SRC-PROP-LABEL=[script, directionality], SUB-ITEM=[script directionality]}
+P1407	{SRC-PROP-DESC=[encyclopedia, MusicBrainz, open, music], SRC-PROP-LABEL=[ID]}	{SRC-PROP-DESC=[series, identifier], SRC-PROP-LABEL=[MusicBrainz]}
+P1408	{SRC-PROP-DESC=[radio/TV, station]}	{SRC-PROP-DESC=[place]}
+P1409	{SRC-PROP-DESC=[Archives, Cycling], SRC-PROP-LABEL=[ID, Cyclist]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[Cycling, Archives]}
+P141	{SRC-PROP-DESC=[International, Union], SRC-PROP-LABEL=[status, conservation]}	{SRC-PROP-DESC=[conservation, status], SRC-PROP-LABEL=[IUCN]}
+P1410	{SRC-PROP-DESC=[seats], SRC-PROP-LABEL=[legislature]}	{SRC-PROP-DESC=[party], SRC-PROP-LABEL=[number]}
+P1411	{SRC-PROP-DESC=[person, organisation, creative, work], SEE-ALSO=[human], INST-FACET=[human]}	{SRC-PROP-DESC=[award, nomination], SEE-ALSO=[award]}
+P1412	{SRC-PROP-DESC=[person], SEE-ALSO=[human], INST-FACET=[human]}	{SRC-PROP-DESC=[language], SEE-ALSO=[first language], SRC-PROP-LABEL=[languages]}
+P1413	{SRC-PROP-DESC=[database, swedish, film]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[SFDb, ID]}
+P1414	{SRC-PROP-DESC=[program], SRC-PROP-LABEL=[framework]}	{SRC-PROP-DESC=[framework, graphical, interface], SRC-PROP-LABEL=[GUI], SUB-ITEM=[desktop environment]}
+P1415	{SRC-PROP-DESC=[Oxford, University, ress], INST-FACET=[authority control], SRC-PROP-LABEL=[Number, Index]}	{SRC-PROP-DESC=[Authority, control, number], SRC-PROP-LABEL=[Oxford]}
+P1416	{SRC-PROP-DESC=[person], INST-FACET=[human]}	{SRC-PROP-DESC=[organization], SRC-PROP-LABEL=[affiliation]}
+P1417	{SRC-PROP-DESC=[Britannica, Encyclopædia]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[Encyclopædia, Britannica, Online, ID]}
+P1418	{SRC-PROP-DESC=[orbits]}	{SRC-PROP-DESC=[spacecraft], SRC-PROP-LABEL=[orbits]}
+P1419	{}	{SRC-PROP-DESC=[shape, geometric], SRC-PROP-LABEL=[shape]}
+P1420	{SRC-PROP-DESC=[name, taxon]}	{SRC-PROP-DESC=[synonym], SRC-PROP-LABEL=[taxon, synonym]}
+P1421	{SRC-PROP-DESC=[GRIN, website], SRC-PROP-LABEL=[URL]}	{SRC-PROP-DESC=[URL], SRC-PROP-LABEL=[GRIN], SUB-ITEM=[GRIN Taxonomy for Plants]}
+P1422	{SRC-PROP-DESC=[Mahlerey-Künste, und], SRC-PROP-LABEL=[ID]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[Sandrart.net]}
+P1423	{SRC-PROP-DESC=[infobox]}	{SRC-PROP-DESC=[topic, primary], SRC-PROP-LABEL=[topic, main]}
+P1424	{}	{SRC-PROP-DESC=[infobox, primary, navigational, template], SRC-PROP-LABEL=[template, main]}
+P1425	{SRC-PROP-DESC=[item]}	{SRC-PROP-DESC=[ecoregion], SRC-PROP-LABEL=[ecoregion]}
+P1427	{SRC-PROP-DESC=[etc, journey, flight, voyage, trek]}	{SRC-PROP-DESC=[place], SRC-PROP-LABEL=[journey, origin]}
+P1428	{SRC-PROP-DESC=[Database, Lost, Art, Internet], INST-FACET=[cultural heritage]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[Art-ID]}
+P1429	{SRC-PROP-DESC=[person], INST-FACET=[human]}	{SRC-PROP-DESC=[pet], SRC-PROP-LABEL=[pet]}
+P143	{SRC-PROP-DESC=[value]}	{SRC-PROP-DESC=[source]}
+P1430	{SRC-PROP-DESC=[http://openplaques.org/]}	{SRC-PROP-DESC=[Identifier], SRC-PROP-LABEL=[laques, identifier]}
+P1431	{SRC-PROP-DESC=[show, movie, TV], SEE-ALSO=[work], INST-FACET=[work]}	{SRC-PROP-DESC=[executive, producer], SEE-ALSO=[producer], SRC-PROP-LABEL=[executive, producer]}
+P1432	{SRC-PROP-DESC=[b-side]}	{SRC-PROP-DESC=[song/track], SRC-PROP-LABEL=[b-side]}
+P1433	{SRC-PROP-DESC=[work]}	{SRC-PROP-DESC=[work]}
+P1434	{SRC-PROP-DESC=[plot, universe], SRC-PROP-LABEL=[universe, fictional]}	{SRC-PROP-DESC=[universe, fictional, describing]}
+P1435	{SRC-PROP-DESC=[site, historical]}	{SRC-PROP-DESC=[heritage], SRC-PROP-LABEL=[heritage, status]}
+P1436	{SRC-PROP-DESC=[exhibition, collection], SRC-PROP-LABEL=[size, exhibition]}	{SRC-PROP-DESC=[number], SRC-PROP-LABEL=[collection]}
+P1437	{SRC-PROP-DESC=[etc, guilty]}	{SRC-PROP-DESC=[person], SRC-PROP-LABEL=[plea]}
+P1438	{SRC-PROP-DESC=[Encyclopedia, Electronic, Jewish]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[Encyclopedia, Jewish, ID]}
+P1439	{}	{SRC-PROP-DESC=[ID, Norsk], SRC-PROP-LABEL=[Norsk, filmografi, ID]}
+P144	{SRC-PROP-DESC=[basis]}	{SRC-PROP-DESC=[work]}
+P1440	{SRC-PROP-DESC=[players, chess]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[Fide, ID]}
+P1441	{SRC-PROP-DESC=[entity, fictional, present, is], INST-FACET=[work]}	{SRC-PROP-DESC=[work], SRC-PROP-LABEL=[work]}
+P1442	{SRC-PROP-DESC=[tomb, grave, gravestone], INST-FACET=[death, birth]}	{SRC-PROP-DESC=[picture], SRC-PROP-LABEL=[picture, grave]}
+P1443	{INST-FACET=[qualifier]}	{SRC-PROP-DESC=[qualifier, points/goal], SRC-PROP-LABEL=[score, method]}
+P1444	{SRC-PROP-DESC=[etc, journey, flight, sailing, exploration]}	{SRC-PROP-DESC=[destination, intended], SRC-PROP-LABEL=[journey, destination]}
+P1445	{}	{SRC-PROP-LABEL=[universe, fictional]}
+P1446	{}	{SRC-PROP-DESC=[number, people], SRC-PROP-LABEL=[number]}
+P1447	{SRC-PROP-DESC=[sports-reference, website], INST-FACET=[human]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[Sports, Reference, ID], SUB-ITEM=[Sports Reference]}
+P1448	{SRC-PROP-DESC=[name, official]}	{SRC-PROP-DESC=[language, its, official], SRC-PROP-LABEL=[name, official]}
+P1449	{SRC-PROP-DESC=[entity], INST-FACET=[organization, human]}	{SRC-PROP-DESC=[nickname], SRC-PROP-LABEL=[nickname]}
+P1450	{SRC-PROP-LABEL=[text]}	{SRC-PROP-DESC=[sandbox], SRC-PROP-LABEL=[Sandbox, Monolingual]}
+P1451	{SRC-PROP-DESC=[item]}	{SRC-PROP-DESC=[motivation, short, sentence], SRC-PROP-LABEL=[motto, text]}
+P1453	{SRC-PROP-DESC=[catholic.ru, site]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[catholic.ru, identifier]}
+P1454	{SRC-PROP-DESC=[organization]}	{SRC-PROP-DESC=[form, legal], SRC-PROP-LABEL=[form, legal], SUB-ITEM=[type of business entity]}
+P1455	{SRC-PROP-DESC=[person], INST-FACET=[human], SRC-PROP-LABEL=[works]}	{SRC-PROP-DESC=[link], SRC-PROP-LABEL=[list]}
+P1456	{SRC-PROP-DESC=[place/area], SRC-PROP-LABEL=[monuments]}	{SRC-PROP-DESC=[link], SRC-PROP-LABEL=[list]}
+P1457	{SRC-PROP-DESC=[astronomic]}	{SRC-PROP-DESC=[magnitude, absolute], SRC-PROP-LABEL=[magnitude, absolute], SUB-ITEM=[absolute magnitude]}
+P1458	{SRC-PROP-DESC=[astronomical]}	{SRC-PROP-DESC=[color, index], SRC-PROP-LABEL=[color, index], SUB-ITEM=[color index]}
+P1459	{SRC-PROP-DESC=[Wales], INST-FACET=[cultural heritage]}	{SRC-PROP-DESC=[ID, number], SRC-PROP-LABEL=[Cadw, Building, ID]}
+P1460	{SRC-PROP-DESC=[Ireland, Northern], INST-FACET=[cultural heritage], SRC-PROP-LABEL=[ID, building]}	{SRC-PROP-DESC=[ID, number], SRC-PROP-LABEL=[NIEA]}
+P1461	{SRC-PROP-DESC=[UK, atient]}	{SRC-PROP-DESC=[Identifier], SRC-PROP-LABEL=[ID, atientplus]}
+P1462	{SRC-PROP-DESC=[standard], SRC-PROP-LABEL=[body]}	{SRC-PROP-DESC=[body], SRC-PROP-LABEL=[standards], SUB-ITEM=[standards organization]}
+P1463	{SRC-PROP-DESC=[Library, ost-Reformation, Digital], SRC-PROP-LABEL=[ID, Author]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[RDL]}
+P1464	{SRC-PROP-DESC=[groups, people, place, born], SEE-ALSO=[death, birth, human], INST-FACET=[death, birth]}	{SRC-PROP-DESC=[category, item], SEE-ALSO=[place of death, place of birth], SRC-PROP-LABEL=[category, people], SUB-ITEM=[place of birth]}
+P1465	{SRC-PROP-DESC=[location], SEE-ALSO=[death, birth, human], INST-FACET=[death, birth]}	{SRC-PROP-DESC=[category, item, people], SEE-ALSO=[place of death, place of birth], SRC-PROP-LABEL=[category, people], SUB-ITEM=[place of death]}
+P1466	{SRC-PROP-DESC=[language], SRC-PROP-LABEL=[code]}	{SRC-PROP-DESC=[code], SRC-PROP-LABEL=[WALS], SUB-ITEM=[World Atlas of Language Structures]}
+P1467	{SRC-PROP-DESC=[genus, language], SRC-PROP-LABEL=[code]}	{SRC-PROP-DESC=[code], SRC-PROP-LABEL=[WALS], SUB-ITEM=[World Atlas of Language Structures]}
+P1468	{SRC-PROP-DESC=[family, language], SRC-PROP-LABEL=[code, family]}	{SRC-PROP-DESC=[code], SRC-PROP-LABEL=[WALS], SUB-ITEM=[World Atlas of Language Structures]}
+P1469	{SRC-PROP-DESC=[player, soccer], INST-FACET=[authority control], SRC-PROP-LABEL=[code, player]}	{SRC-PROP-DESC=[FIFA, ID], SRC-PROP-LABEL=[FIFA]}
+P1470	{SRC-PROP-DESC=[ratio], SRC-PROP-LABEL=[ratio]}	{SRC-PROP-DESC=[maximum], SRC-PROP-LABEL=[maximum], SUB-ITEM=[lift-to-drag ratio]}
+P1471	{}	{SRC-PROP-DESC=[mark], SRC-PROP-LABEL=[mark], SUB-ITEM=[reporting mark]}
+P1472	{SRC-PROP-DESC=[Commons, Wikimedia], INST-FACET=[human], SRC-PROP-LABEL=[page]}	{SRC-PROP-DESC=[name], SRC-PROP-LABEL=[Commons, Creator]}
+P1473	{SRC-PROP-DESC=[Digital, Nupill, Literatura], SRC-PROP-LABEL=[Author]}	{SRC-PROP-DESC=[author, identifier], SRC-PROP-LABEL=[Nupill, Literatura, Digital], SUB-ITEM=[NUPILL Literatura Digital]}
+P1474	{SRC-PROP-DESC=[Digital, Nupill, Literatura], SRC-PROP-LABEL=[Document]}	{SRC-PROP-DESC=[document, identifier], SRC-PROP-LABEL=[Nupill, Literatura, Digital], SUB-ITEM=[NUPILL Literatura Digital]}
+P1476	{SRC-PROP-DESC=[work], INST-FACET=[work]}	{SRC-PROP-DESC=[title], SRC-PROP-LABEL=[title]}
+P1477	{INST-FACET=[human]}	{SRC-PROP-LABEL=[birth, name]}
+P1478	{SRC-PROP-DESC=[outcome, effect]}	{SRC-PROP-DESC=[thing, proximate], SRC-PROP-LABEL=[cause, immediate]}
+P1479	{}	{SRC-PROP-DESC=[thing]}
+P1480	{SRC-PROP-DESC=[misprint, circa], INST-FACET=[qualifier]}	{SRC-PROP-DESC=[qualifiers], SRC-PROP-LABEL=[circumstances]}
+P1481	{SRC-PROP-DESC=[antiquity]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[vici.org, ID]}
+P1482	{SRC-PROP-DESC=[websites, Stack, Exchange], SRC-PROP-LABEL=[tag]}	{SRC-PROP-DESC=[tag], SRC-PROP-LABEL=[Stack, Exchange], SUB-ITEM=[Stack Exchange Network]}
+P1483	{SRC-PROP-DESC=[identifier, register], INST-FACET=[cultural heritage]}	{SRC-PROP-DESC=[heritage, russian, cultural], SRC-PROP-LABEL=[kulturnoe-nasledie]}
+P149	{SRC-PROP-DESC=[architect, structure]}	{SRC-PROP-DESC=[style, architectural], SRC-PROP-LABEL=[style, architectural]}
+P15	{SRC-PROP-DESC=[road]}	{SRC-PROP-DESC=[map], SUB-PROP=[illustration], SRC-PROP-LABEL=[road, map], SUB-ITEM=[street map]}
+P150	{SRC-PROP-DESC=[entity, administrative]}	{SRC-PROP-DESC=[subdivisions, direct], SRC-PROP-LABEL=[entity, administrative, territorial]}
+P1529	{SRC-PROP-DESC=[property, cultural, identifier], INST-FACET=[cultural heritage]}	{SRC-PROP-DESC=[heritage, French, cultural], SRC-PROP-LABEL=[identifier, Glad], SUB-ITEM=[Glad database]}
+P1531	{SRC-PROP-LABEL=[hybrids]}	{SRC-PROP-LABEL=[parents]}
+P1532	{SRC-PROP-DESC=[sport], SEE-ALSO=[human], SRC-PROP-LABEL=[sport]}	{SRC-PROP-DESC=[person, country, represents], SEE-ALSO=[country, citizenship, constituent country], SRC-PROP-LABEL=[country]}
+P1533	{SRC-PROP-LABEL=[name, first]}	{SRC-PROP-DESC=[name, last], SRC-PROP-LABEL=[family, name]}
+P1534	{SRC-PROP-DESC=[property, end, date], INST-FACET=[qualifier]}	{SRC-PROP-DESC=[qualifier], SRC-PROP-LABEL=[end, cause]}
+P1535	{}	{SRC-PROP-DESC=[person, organization]}
+P1536	{SRC-PROP-DESC=[effect], SRC-PROP-LABEL=[cause, immediate]}	{SRC-PROP-DESC=[cause, immediate]}
+P1537	{SRC-PROP-DESC=[cause], SRC-PROP-LABEL=[factor]}	{SRC-PROP-DESC=[thing]}
+P1538	{SRC-PROP-LABEL=[households]}	{SRC-PROP-LABEL=[number]}
+P1539	{}	{SRC-PROP-LABEL=[population, female]}
+P154	{SRC-PROP-DESC=[emblem]}	{SRC-PROP-DESC=[enterprises, commercial, organizations], SRC-PROP-LABEL=[logo, image], SUB-ITEM=[logo]}
+P1540	{}	{SRC-PROP-LABEL=[population, male]}
+P1541	{SRC-PROP-DESC=[http://www.cqranking.com], SRC-PROP-LABEL=[identifier, uotient]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[Cycling]}
+P1542	{SRC-PROP-DESC=[cause], SRC-PROP-LABEL=[cause]}	{SRC-PROP-DESC=[effect]}
+P1543	{SRC-PROP-DESC=[monogram], INST-FACET=[human]}	{SRC-PROP-DESC=[image], SRC-PROP-LABEL=[monogram]}
+P1544	{SRC-PROP-DESC=[Register, United, States, Federal], INST-FACET=[authority control]}	{SRC-PROP-DESC=[Authority], SRC-PROP-LABEL=[Federal, Register, Document, Number], SUB-ITEM=[Federal Register]}
+P1545	{INST-FACET=[qualifier]}	{SRC-PROP-DESC=[position], SRC-PROP-LABEL=[series, ordinal]}
+P1546	{}	{SRC-PROP-DESC=[description], SRC-PROP-LABEL=[motto]}
+P1547	{SRC-PROP-DESC=[software]}	{SRC-PROP-DESC=[software]}
+P1548	{SRC-PROP-DESC=[river, stream, creek], SRC-PROP-LABEL=[number]}	{SRC-PROP-DESC=[Strahler, number], SRC-PROP-LABEL=[maximum], SUB-ITEM=[Strahler number]}
+P1549	{}	{SRC-PROP-DESC=[demonym, people], SRC-PROP-LABEL=[demonym], SUB-ITEM=[demonym]}
+P155	{SRC-PROP-DESC=[part, is], SEE-ALSO=[qualifier], INST-FACET=[qualifier]}	{SRC-PROP-DESC=[item], INVS-PROP=[qualifier]}
+P1550	{SRC-PROP-DESC=[database, Orpha.net]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[Orphanet, ID]}
+P1551	{SRC-PROP-DESC=[wallonne, Région], INST-FACET=[cultural heritage], SRC-PROP-LABEL=[identifier, Wallonia]}	{SRC-PROP-DESC=[identifier, unique], SRC-PROP-LABEL=[heritage, Exceptional]}
+P1552	{}	{SRC-PROP-DESC=[entity, characteristic, non-material, has], SRC-PROP-LABEL=[quality]}
+P1553	{SRC-PROP-DESC=[music.yandex.ru, site]}	{SRC-PROP-DESC=[id], SRC-PROP-LABEL=[ID, Yandex.Music]}
+P1554	{SRC-PROP-DESC=[ontology, UBERON]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[UBERON, ID]}
+P1555	{SRC-PROP-DESC=[US], SRC-PROP-LABEL=[number]}	{SRC-PROP-DESC=[number], SRC-PROP-LABEL=[Executive, Order]}
+P1556	{SRC-PROP-DESC=[database, Zentralblatt, MATH], INST-FACET=[human], SRC-PROP-LABEL=[ID, author]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[zbMATH]}
+P1557	{SRC-PROP-DESC=[embodiment, physical], SRC-PROP-LABEL=[manifestation]}	{}
+P1558	{SRC-PROP-DESC=[piece, musical]}	{SRC-PROP-DESC=[indication], SRC-PROP-LABEL=[tempo]}
+P1559	{SRC-PROP-DESC=[language, their, native], INST-FACET=[human], SRC-PROP-LABEL=[language, native]}	{SRC-PROP-DESC=[name], SRC-PROP-LABEL=[name]}
+P156	{SEE-ALSO=[qualifier], INST-FACET=[qualifier]}	{INVS-PROP=[qualifier]}
+P1560	{SRC-PROP-LABEL=[gender, other]}	{SRC-PROP-DESC=[name, equivalent], SRC-PROP-LABEL=[name, version]}
+P1561	{SRC-PROP-LABEL=[survivors]}	{SRC-PROP-DESC=[number, people], SRC-PROP-LABEL=[number]}
+P1562	{SRC-PROP-DESC=[allmovie, site], INST-FACET=[work]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[identifier, allmovie], SUB-ITEM=[Allmovie]}
+P1563	{SRC-PROP-DESC=[archive, Mathematics], INST-FACET=[human]}	{SRC-PROP-DESC=[id], SRC-PROP-LABEL=[MacTutor]}
+P1564	{}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[Library, ID]}
+P1565	{SRC-PROP-LABEL=[ID, México]}	{SRC-PROP-LABEL=[Enciclopedia, de]}
+P1566	{SRC-PROP-DESC=[database, GeoNames, geographical]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[GeoNames, ID]}
+P1567	{}	{SRC-PROP-LABEL=[NIS/INS, code]}
+P1568	{SRC-PROP-DESC=[value, image, has]}	{SRC-PROP-DESC=[subset], SRC-PROP-LABEL=[domain], SUB-ITEM=[domain of a function]}
+P1569	{SRC-PROP-DESC=[shape], SRC-PROP-LABEL=[edges]}	{SRC-PROP-DESC=[number], SRC-PROP-LABEL=[number], SUB-ITEM=[side]}
+P157	{INST-FACET=[death, birth, human]}	{SRC-PROP-DESC=[person]}
+P1570	{SRC-PROP-DESC=[shape], SRC-PROP-LABEL=[vertices]}	{SRC-PROP-DESC=[number], SRC-PROP-LABEL=[number], SUB-ITEM=[vertex]}
+P1571	{SRC-PROP-DESC=[function]}	{SRC-PROP-DESC=[codomain], SRC-PROP-LABEL=[codomain], SUB-ITEM=[codomain]}
+P1573	{SRC-PROP-DESC=[listings, Radio, Times, programme], INST-FACET=[work], SRC-PROP-LABEL=[identifier]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[BBC, Genome], SUB-ITEM=[BBC Genome]}
+P1574	{SRC-PROP-LABEL=[exemplar]}	{SRC-PROP-DESC=[property, manuscripts]}
+P1575	{INST-FACET=[work], SRC-PROP-LABEL=[catalog]}	{SRC-PROP-DESC=[union, catalog, South], SRC-PROP-LABEL=[RISS]}
+P1576	{SRC-PROP-DESC=[culture, individual, group]}	{SRC-PROP-DESC=[way, typical], SRC-PROP-LABEL=[lifestyle], SUB-ITEM=[lifestyle]}
+P1577	{SRC-PROP-DESC=[Testament, New], SRC-PROP-LABEL=[Number]}	{SRC-PROP-DESC=[Identifier], SRC-PROP-LABEL=[Gregory]}
+P1578	{SRC-PROP-DESC=[database, Gmelin]}	{SRC-PROP-DESC=[identifier, unique], SRC-PROP-LABEL=[Gmelin, Number]}
+P1579	{SRC-PROP-DESC=[database, Beilstein]}	{SRC-PROP-DESC=[identifier, Unique], SRC-PROP-LABEL=[Beilstein, Registry, Number]}
+P158	{SRC-PROP-DESC=[seal]}	{SRC-PROP-DESC=[image], SUB-PROP=[illustration], SRC-PROP-LABEL=[seal, image]}
+P1580	{INST-FACET=[authority control], SRC-PROP-LABEL=[ID, Barcelona, authority]}	{SRC-PROP-LABEL=[University]}
+P1581	{SRC-PROP-DESC=[organization, person]}	{SRC-PROP-DESC=[URL], SRC-PROP-LABEL=[blog, official], SUB-ITEM=[blog]}
+P1582	{SRC-PROP-DESC=[source, its], SRC-PROP-LABEL=[taxon]}	{SRC-PROP-DESC=[links], SRC-PROP-LABEL=[product, natural]}
+P1583	{SRC-PROP-DESC=[diseases]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[MalaCards, ID]}
+P1584	{SRC-PROP-DESC=[pleiades.stoa.org], SRC-PROP-LABEL=[identifier]}	{SRC-PROP-DESC=[leiades, identifier], SRC-PROP-LABEL=[leiades]}
+P1585	{SRC-PROP-LABEL=[Brazil]}	{SRC-PROP-LABEL=[Municipality, code]}
+P1586	{SRC-PROP-DESC=[p, \], SEE-ALSO=[cultural heritage], INST-FACET=[cultural heritage], SRC-PROP-LABEL=[ID, cultural, interest]}	{SRC-PROP-DESC=[identifier], SEE-ALSO=[Bien de Interés Cultural, Inventari del Patrimoni Arquitectònic de Catalunya], SRC-PROP-LABEL=[Catalan]}
+P1587	{SRC-PROP-DESC=[Slovenia], INST-FACET=[cultural heritage]}	{SRC-PROP-DESC=[reference, number], SRC-PROP-LABEL=[Slovene, Cultural, Heritage, Register, ID]}
+P1588	{SRC-PROP-LABEL=[Indonesia]}	{SRC-PROP-LABEL=[Desa]}
+P1589	{SRC-PROP-DESC=[area], INST-FACET=[geographic location]}	{SRC-PROP-DESC=[point], SRC-PROP-LABEL=[point]}
+P159	{SRC-PROP-DESC=[H]}	{SRC-PROP-DESC=[location, specific], SRC-PROP-LABEL=[headquarters, location]}
+P1590	{SRC-PROP-DESC=[event], INST-FACET=[death, birth], SRC-PROP-LABEL=[casualties]}	{SRC-PROP-DESC=[number], SRC-PROP-LABEL=[number]}
+P1591	{SRC-PROP-DESC=[trial]}	{SRC-PROP-DESC=[person, organization], SRC-PROP-LABEL=[defendant]}
+P1592	{}	{SRC-PROP-DESC=[person], SRC-PROP-LABEL=[prosecutor], SUB-ITEM=[prosecutor]}
+P1593	{SRC-PROP-DESC=[defendant]}	{SRC-PROP-DESC=[erson], SRC-PROP-LABEL=[defender]}
+P1594	{SRC-PROP-DESC=[trial]}	{SRC-PROP-DESC=[Judge, magistrate], SRC-PROP-LABEL=[judge]}
+P1595	{SRC-PROP-DESC=[someone, trial, charged]}	{SRC-PROP-DESC=[offence], SRC-PROP-LABEL=[charge]}
+P1596	{SRC-PROP-DESC=[trial]}	{SRC-PROP-DESC=[penalty], SRC-PROP-LABEL=[penalty]}
+P1597	{SRC-PROP-DESC=[Slovene, Cultural, Heritage, Registry], INST-FACET=[cultural heritage], SRC-PROP-LABEL=[designation]}	{SRC-PROP-DESC=[type, cultural], SRC-PROP-LABEL=[Slovene, Cultural, Heritage]}
+P1598	{SRC-PROP-DESC=[consecrator, co-consecrator], INST-FACET=[human]}	{SRC-PROP-DESC=[bishop], SRC-PROP-LABEL=[consecrator], SUB-ITEM=[consecrator]}
+P1599	{SRC-PROP-DESC=[Cantabrigienses, Cambridge, Alumni, Database/Alumni]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[Cambridge, Alumni, Database, ID]}
+P16	{SRC-PROP-DESC=[highway, part, is]}	{SRC-PROP-DESC=[system], SRC-PROP-LABEL=[highway, system], SUB-ITEM=[street network]}
+P1600	{SRC-PROP-DESC=[Catalonia], SEE-ALSO=[cultural heritage], INST-FACET=[cultural heritage], SRC-PROP-LABEL=[Inventari]}	{SRC-PROP-DESC=[property, architectural, identifier], SEE-ALSO=[Bien de Interés Cultural], SRC-PROP-LABEL=[code], SUB-ITEM=[Inventari del Patrimoni Arquitectònic de Catalunya]}
+P1601	{SRC-PROP-DESC=[Zamenhof], INST-FACET=[human]}	{SRC-PROP-DESC=[number], SRC-PROP-LABEL=[Esperantist, ID]}
+P1602	{SRC-PROP-DESC=[UK], INST-FACET=[authority control], SRC-PROP-LABEL=[identifier, venue]}	{SRC-PROP-DESC=[authority, control, identifier], SRC-PROP-LABEL=[BBC]}
+P1603	{SRC-PROP-LABEL=[cases]}	{SRC-PROP-DESC=[number, cumulative], SRC-PROP-LABEL=[number]}
+P1604	{}	{SRC-PROP-DESC=[level], SRC-PROP-LABEL=[biosafety, level], SUB-ITEM=[biosafety level]}
+P1605	{SRC-PROP-DESC=[it, endemic, is]}	{SRC-PROP-DESC=[host, species], SRC-PROP-LABEL=[reservoir, natural], SUB-ITEM=[Natural reservoir]}
+P1606	{SRC-PROP-DESC=[species, host, long-term, is], SRC-PROP-LABEL=[reservoir, natural]}	{SRC-PROP-DESC=[pathogen], SUB-ITEM=[Natural reservoir]}
+P1607	{}	{SRC-PROP-LABEL=[Dialnet, author]}
+P1608	{SRC-PROP-LABEL=[book]}	{SRC-PROP-LABEL=[Dialnet]}
+P1609	{SRC-PROP-LABEL=[journal]}	{SRC-PROP-LABEL=[Dialnet]}
+P161	{SRC-PROP-DESC=[members], SEE-ALSO=[qualifier], INST-FACET=[work]}	{SRC-PROP-DESC=[production, 's], SRC-PROP-LABEL=[member]}
+P1610	{}	{SRC-PROP-LABEL=[Dialnet, article]}
+P1611	{SRC-PROP-DESC=[ersonnel, Military], SRC-PROP-LABEL=[grade]}	{SRC-PROP-DESC=[NATO, Code], SRC-PROP-LABEL=[NATO], SUB-ITEM=[NATO code for grade]}
+P1612	{SRC-PROP-DESC=[Commons, Wikimedia], SRC-PROP-LABEL=[page]}	{SRC-PROP-DESC=[name], SRC-PROP-LABEL=[Commons, Institution]}
+P1613	{SRC-PROP-DESC=[project, institution], SRC-PROP-LABEL=[channel]}	{SRC-PROP-DESC=[IRC, official, channel], SRC-PROP-LABEL=[IRC]}
+P1614	{SRC-PROP-DESC=[website, arliament], SRC-PROP-LABEL=[ID, arliament]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[History]}
+P1615	{SRC-PROP-DESC=[artists, visual]}	{SRC-PROP-DESC=[Database], SRC-PROP-LABEL=[CLARA-ID]}
+P1616	{SRC-PROP-LABEL=[number]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[SIREN], SUB-ITEM=[SIREN]}
+P1617	{SRC-PROP-DESC=[database, BBC, Things], SRC-PROP-LABEL=[identifer]}	{SRC-PROP-DESC=[Identifier], SRC-PROP-LABEL=[BBC]}
+P1618	{SRC-PROP-DESC=[uniform], INST-FACET=[human]}	{SRC-PROP-DESC=[number], SRC-PROP-LABEL=[sport, number]}
+P1619	{SRC-PROP-LABEL=[opening, official]}	{SRC-PROP-LABEL=[time]}
+P162	{SRC-PROP-DESC=[work, film, music], SEE-ALSO=[work], INST-FACET=[work]}	{SRC-PROP-DESC=[producer], SRC-PROP-LABEL=[producer], SUB-ITEM=[producer]}
+P1620	{SRC-PROP-DESC=[lawsuit]}	{SRC-PROP-DESC=[party], SRC-PROP-LABEL=[plaintiff]}
+P1621	{SRC-PROP-DESC=[details]}	{SRC-PROP-DESC=[map], SRC-PROP-LABEL=[detail, map]}
+P1622	{}	{SRC-PROP-DESC=[direction], SRC-PROP-LABEL=[drives], SUB-ITEM=[right- and left-hand traffic]}
+P1624	{SRC-PROP-DESC=[MarineTraffic, database]}	{SRC-PROP-DESC=[port, identification, number], SRC-PROP-LABEL=[MarineTraffic, ort, ID], SUB-ITEM=[MarineTraffic Port ID]}
+P1625	{}	{SRC-PROP-DESC=[work], SRC-PROP-LABEL=[melody]}
+P1626	{SRC-PROP-DESC=[Thailand], INST-FACET=[cultural heritage], SRC-PROP-LABEL=[ID, cultural, heritage]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[Thai]}
+P1627	{SRC-PROP-LABEL=[code]}	{SRC-PROP-LABEL=[Ethnologue.com]}
+P1628	{SRC-PROP-DESC=[ontologies, other]}	{SRC-PROP-DESC=[property, equivalent], SRC-PROP-LABEL=[property, equivalent]}
+P1629	{SRC-PROP-DESC=[property], SRC-PROP-LABEL=[property]}	{SRC-PROP-DESC=[item, corresponding], SRC-PROP-LABEL=[item], SUB-ITEM=[Wikidata item]}
+P163	{}	{SRC-PROP-DESC=[flag], SRC-PROP-LABEL=[flag]}
+P1630	{SRC-PROP-DESC=[property, effective, value]}	{SRC-PROP-DESC=[string, URL-like, ``], SRC-PROP-LABEL=[formatter, URL]}
+P1631	{SRC-PROP-DESC=[database, China, Vitae]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[China, Vitae, ID]}
+P1632	{SRC-PROP-DESC=[element, symmetry], SRC-PROP-LABEL=[notation, Mauguin]}	{SRC-PROP-DESC=[Hermann], SRC-PROP-LABEL=[Hermann], SUB-ITEM=[Hermann–Mauguin notation]}
+P1635	{SRC-PROP-DESC=[member], INST-FACET=[human]}	{SRC-PROP-DESC=[name], SRC-PROP-LABEL=[name, religious], SUB-ITEM=[religious name]}
+P1636	{SRC-PROP-DESC=[person], SUB-PROP=[qualifier], SRC-PROP-LABEL=[childhood, early]}	{SRC-PROP-DESC=[date], SRC-PROP-LABEL=[date], SUB-ITEM=[baptism]}
+P1637	{SRC-PROP-DESC=[aircraft]}	{SRC-PROP-DESC=[item], SRC-PROP-LABEL=[undercarriage], SUB-ITEM=[landing gear]}
+P1638	{}	{SRC-PROP-DESC=[name, temporary], SRC-PROP-LABEL=[title], SUB-ITEM=[working title]}
+P1639	{SRC-PROP-LABEL=[pendant]}	{SRC-PROP-DESC=[work, other], SUB-ITEM=[pendant]}
+P1640	{SRC-PROP-DESC=[collection], INST-FACET=[organization]}	{SRC-PROP-DESC=[specialist, responsible], SRC-PROP-LABEL=[curator], SUB-ITEM=[curator]}
+P1641	{SRC-PROP-DESC=[protocol, TC, UD]}	{SRC-PROP-DESC=[default], SRC-PROP-LABEL=[port], SUB-ITEM=[port]}
+P1642	{}	{SRC-PROP-DESC=[player], SRC-PROP-LABEL=[acquisition, transaction]}
+P1643	{SRC-PROP-DESC=[roster]}	{SRC-PROP-DESC=[player], SRC-PROP-LABEL=[departure, transaction]}
+P1644	{INST-FACET=[cultural heritage]}	{SRC-PROP-LABEL=[EgliseInfo, ID]}
+P1645	{SRC-PROP-DESC=[constant, physical]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[NIST/CODATA, ID], SUB-ITEM=[Committee on Data for Science and Technology]}
+P1646	{SRC-PROP-DESC=[property]}	{SRC-PROP-DESC=[qualifier], SRC-PROP-LABEL=[qualifier, mandatory], SUB-ITEM=[qualifier]}
+P1647	{SRC-PROP-LABEL=[subproperty]}	{SRC-PROP-DESC=[property, resources, related]}
+P1648	{SRC-PROP-DESC=[Biography, Welsh], INST-FACET=[authority control], SRC-PROP-LABEL=[ID, Welsh, Biography]}	{SRC-PROP-DESC=[Identifier], SRC-PROP-LABEL=[Dictionary]}
+P1649	{SRC-PROP-DESC=[production, crew, personnel], SRC-PROP-LABEL=[ID, Database]}	{SRC-PROP-DESC=[television], SRC-PROP-LABEL=[Movie, Korean]}
+P1650	{SRC-PROP-DESC=[Education]}	{SRC-PROP-DESC=[archive, database], SRC-PROP-LABEL=[BBF, identifier]}
+P1651	{SRC-PROP-DESC=[YouTube], SRC-PROP-LABEL=[identifier, video]}	{SRC-PROP-DESC=[Identifier], SRC-PROP-LABEL=[YouTube]}
+P1652	{SRC-PROP-DESC=[match]}	{SRC-PROP-DESC=[referee, umpire], SRC-PROP-LABEL=[referee], SUB-ITEM=[referee]}
+P1653	{SRC-PROP-DESC=[oland], SRC-PROP-LABEL=[code, municipality]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[TERYT]}
+P1654	{}	{SRC-PROP-DESC=[configuration, wing], SRC-PROP-LABEL=[wing, configuration], SUB-ITEM=[wing configuration]}
+P1655	{SRC-PROP-DESC=[system, subway]}	{SRC-PROP-DESC=[station, number], SRC-PROP-LABEL=[station, number]}
+P1656	{SRC-PROP-DESC=[statue, sculpture, memorial]}	{SRC-PROP-DESC=[person]}
+P1657	{SRC-PROP-DESC=[system, film-rating], INST-FACET=[work]}	{SRC-PROP-DESC=[US], SRC-PROP-LABEL=[M, AA, film, rating], SUB-ITEM=[Motion Picture Association of America film rating system]}
+P1658	{SRC-PROP-DESC=[faces], SRC-PROP-LABEL=[faces]}	{SRC-PROP-DESC=[number], SRC-PROP-LABEL=[number], SUB-ITEM=[face]}
+P1659	{}	{}
+P166	{SRC-PROP-DESC=[person, organisation], SEE-ALSO=[human], INST-FACET=[human]}	{SRC-PROP-DESC=[award, recognition], SRC-PROP-LABEL=[award], SUB-ITEM=[award]}
+P1660	{SRC-PROP-DESC=[investigation, epidemiological], INVS-PROP=[index case], SRC-PROP-LABEL=[case]}	{SRC-PROP-DESC=[case, primary, patient], SRC-PROP-LABEL=[index]}
+P1661	{SRC-PROP-DESC=[value], SRC-PROP-LABEL=[rank]}	{SRC-PROP-DESC=[Alexa, ranking], SRC-PROP-LABEL=[Alexa]}
+P1662	{SRC-PROP-DESC=[DOI, AKA]}	{SRC-PROP-DESC=[identifier, Unique], SRC-PROP-LABEL=[DOI]}
+P1663	{SRC-PROP-DESC=[roCyclingStats, website]}	{SRC-PROP-DESC=[Identifier], SRC-PROP-LABEL=[roCyclingStats, ID]}
+P1664	{SRC-PROP-DESC=[Database, Cycling]}	{SRC-PROP-DESC=[Identifier], SRC-PROP-LABEL=[Cycling, Database, ID]}
+P1665	{SRC-PROP-DESC=[Games, Chess]}	{SRC-PROP-DESC=[Identifier], SRC-PROP-LABEL=[Chess, Games, ID]}
+P1666	{SRC-PROP-DESC=[Club, Chess]}	{SRC-PROP-DESC=[Identifier], SRC-PROP-LABEL=[Chess, Club, ID]}
+P1667	{SRC-PROP-DESC=[ID, Geographic, Names], INST-FACET=[authority control], SRC-PROP-LABEL=[identifier]}	{SRC-PROP-DESC=[Getty, Thesaurus], SRC-PROP-LABEL=[TGN], SUB-ITEM=[Thesaurus of Geographic Names]}
+P1668	{}	{SRC-PROP-DESC=[ATCvet, code], SRC-PROP-LABEL=[ATCvet]}
+P1669	{SRC-PROP-DESC=[Authority, ID], INST-FACET=[authority control], SRC-PROP-LABEL=[identifier]}	{SRC-PROP-DESC=[Objects, Cultural], SRC-PROP-LABEL=[CONA], SUB-ITEM=[Cultural Objects Name Authority]}
+P167	{SRC-PROP-DESC=[building, structure]}	{SRC-PROP-DESC=[item], SRC-PROP-LABEL=[structure]}
+P1670	{SRC-PROP-DESC=[Canada, Library, Archives], INST-FACET=[authority control]}	{SRC-PROP-DESC=[Canadiana], SRC-PROP-LABEL=[LAC, identifier]}
+P1671	{}	{SRC-PROP-LABEL=[route, number]}
+P1672	{SRC-PROP-DESC=[it], SRC-PROP-LABEL=[taxon]}	{SRC-PROP-DESC=[links], SRC-PROP-LABEL=[source]}
+P1673	{SRC-PROP-DESC=[compounds]}	{SRC-PROP-DESC=[formula, molecular], SRC-PROP-LABEL=[formula, general]}
+P1674	{}	{SRC-PROP-DESC=[qualifier], SRC-PROP-LABEL=[number]}
+P1675	{SRC-PROP-DESC=[cases]}	{SRC-PROP-DESC=[qualifier], SRC-PROP-LABEL=[number, probable]}
+P1676	{SRC-PROP-DESC=[cases]}	{SRC-PROP-DESC=[qualifier], SRC-PROP-LABEL=[number]}
+P1677	{SRC-PROP-DESC=[investigation, epidemiological], SRC-PROP-LABEL=[index, case]}	{SRC-PROP-DESC=[case, primary, patient], SRC-PROP-LABEL=[case, index], SUB-ITEM=[index case]}
+P1678	{}	{SRC-PROP-LABEL=[figure], SUB-ITEM=[vertex]}
+P1679	{SRC-PROP-DESC=[artworks], SRC-PROP-LABEL=[identifier, artwork]}	{SRC-PROP-DESC=[authority], SRC-PROP-LABEL=[BBC]}
+P1680	{SRC-PROP-DESC=[title, subtitle, followed]}	{SRC-PROP-DESC=[works], SRC-PROP-LABEL=[subtitle]}
+P1683	{SRC-PROP-DESC=[statement, claim]}	{SRC-PROP-DESC=[quote], SRC-PROP-LABEL=[quote]}
+P1684	{}	{SRC-PROP-DESC=[inscriptions], SRC-PROP-LABEL=[inscription]}
+P1685	{SRC-PROP-DESC=[number], SRC-PROP-LABEL=[number, browser]}	{SRC-PROP-DESC=[identification, okémon], SRC-PROP-LABEL=[okémon]}
+P1686	{SRC-PROP-DESC=[award, creator], INST-FACET=[qualifier]}	{SRC-PROP-DESC=[qualifier, award, work, specify]}
+P1687	{SRC-PROP-DESC=[item], INVS-PROP=[Wikidata item], SRC-PROP-LABEL=[property]}	{SRC-PROP-DESC=[Wikidata, main, property], SRC-PROP-LABEL=[Wikidata]}
+P1688	{SRC-PROP-DESC=[http://anidb.net, site]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[AniDB, identifier]}
+P1689	{SRC-PROP-LABEL=[GD]}	{SRC-PROP-LABEL=[government, central, debt], SUB-ITEM=[gross domestic product]}
+P169	{SRC-PROP-DESC=[CEO]}	{SRC-PROP-DESC=[officer, highest-ranking, corporate], SRC-PROP-LABEL=[officer, chief, executive], SUB-ITEM=[chief executive officer]}
+P1690	{SRC-PROP-DESC=[coding, procedural], SRC-PROP-LABEL=[CS]}	{SRC-PROP-DESC=[classification, medical], SRC-PROP-LABEL=[ICD-10]}
+P1691	{SRC-PROP-DESC=[procedures, operational], SRC-PROP-LABEL=[key]}	{SRC-PROP-DESC=[classification, official], SRC-PROP-LABEL=[operations, procedures], SUB-ITEM=[OPS-301]}
+P1692	{SRC-PROP-DESC=[procedure, diagnostic, codes]}	{SRC-PROP-DESC=[ICD, adaption], SRC-PROP-LABEL=[ICD-9-CM]}
+P1693	{}	{SRC-PROP-DESC=[list, standardized, words], SRC-PROP-LABEL=[Terminologia, Embryologica], SUB-ITEM=[Terminologia Embryologica]}
+P1694	{SRC-PROP-DESC=[histology, cytology]}	{SRC-PROP-DESC=[vocabulary, controlled], SRC-PROP-LABEL=[Terminologia, Histologica], SUB-ITEM=[Terminologia Histologica]}
+P1695	{SRC-PROP-DESC=[oland], INST-FACET=[authority control], SRC-PROP-LABEL=[identifier]}	{SRC-PROP-DESC=[authority, control, number], SRC-PROP-LABEL=[NL]}
+P1696	{SRC-PROP-DESC=[property, its, inverse], SRC-PROP-LABEL=[inverse]}	{SRC-PROP-DESC=[links], SUB-ITEM=[inverse element]}
+P1697	{SRC-PROP-DESC=[elections]}	{SRC-PROP-DESC=[vote, count], SRC-PROP-LABEL=[votes, valid]}
+P1698	{SRC-PROP-DESC=[Anatomy], SRC-PROP-LABEL=[1918]}	{SRC-PROP-DESC=[number], SRC-PROP-LABEL=[Gray, 's], SUB-ITEM=[Gray's Anatomy]}
+P1699	{SRC-PROP-DESC=[database, Skyscraper, age], INST-FACET=[authority control]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[Skyscraper, age, building], SUB-ITEM=[SkyscraperPage]}
+P17	{SRC-PROP-DESC=[item], SEE-ALSO=[human]}	{SRC-PROP-DESC=[state, sovereign], SEE-ALSO=[citizenship], SRC-PROP-LABEL=[country], SUB-ITEM=[country, constituent country]}
+P170	{SRC-PROP-DESC=[other], SEE-ALSO=[work, human], INST-FACET=[work]}	{SRC-PROP-DESC=[maker], SEE-ALSO=[innovator, author, composer, programmer, inventor, discoverer], SRC-PROP-LABEL=[creator], SUB-ITEM=[creator]}
+P1700	{SRC-PROP-DESC=[ortugal], INST-FACET=[cultural heritage], SRC-PROP-LABEL=[identifier]}	{SRC-PROP-DESC=[Index], SRC-PROP-LABEL=[SI, A], SUB-ITEM=[SIPA]}
+P1702	{SRC-PROP-DESC=[ortugal], INST-FACET=[cultural heritage], SRC-PROP-LABEL=[identifier, AR]}	{SRC-PROP-DESC=[Index], SRC-PROP-LABEL=[IGES], SUB-ITEM=[IGESPAR]}
+P1703	{SRC-PROP-DESC=[pollen]}	{SRC-PROP-DESC=[process], SRC-PROP-LABEL=[pollination]}
+P1704	{SRC-PROP-DESC=[animal]}	{SRC-PROP-DESC=[source], SRC-PROP-LABEL=[pollenizer]}
+P1705	{SRC-PROP-DESC=[language, their, original]}	{SRC-PROP-DESC=[label], SRC-PROP-LABEL=[label, native]}
+P1706	{SRC-PROP-DESC=[property], INST-FACET=[qualifier]}	{SRC-PROP-DESC=[qualifier, person, group, specify]}
+P1707	{SRC-PROP-DESC=[identifier], INST-FACET=[authority control], SRC-PROP-LABEL=[identifier]}	{SRC-PROP-DESC=[Design], SRC-PROP-LABEL=[DAAO]}
+P1708	{SRC-PROP-DESC=[sites, national, heritage], INST-FACET=[cultural heritage], SRC-PROP-LABEL=[ID]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[LfDS]}
+P1709	{SRC-PROP-DESC=[ontologies, other]}	{SRC-PROP-DESC=[class, equivalent], SRC-PROP-LABEL=[class, equivalent]}
+P171	{SRC-PROP-DESC=[question]}	{SRC-PROP-DESC=[parent, taxon], SUB-PROP=[subclass], SRC-PROP-LABEL=[parent, taxon]}
+P1710	{SRC-PROP-DESC=[Saxony], INST-FACET=[authority control]}	{SRC-PROP-DESC=[dictionary, biographical], SRC-PROP-LABEL=[Sächsische, Biografie], SUB-ITEM=[Sächsische Biografie]}
+P1711	{SRC-PROP-DESC=[thesaurus, British, Museum, person-institution], INST-FACET=[authority control]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[Museum, British, person-institution], SUB-ITEM=[British Museum person-institution thesaurus]}
+P1712	{INST-FACET=[work]}	{SRC-PROP-DESC=[indentifier], SRC-PROP-LABEL=[ID, Metacritic], SUB-ITEM=[Metacritic]}
+P1713	{SRC-PROP-DESC=[parliament, German], SRC-PROP-LABEL=[Germany]}	{SRC-PROP-DESC=[link], SRC-PROP-LABEL=[biography], SUB-ITEM=[member of the German Bundestag]}
+P1714	{}	{SRC-PROP-DESC=[Identifier, Journalisted], SRC-PROP-LABEL=[ID, Journalisted], SUB-ITEM=[Journalisted ID]}
+P1715	{SRC-PROP-DESC=[Slovenia], INST-FACET=[cultural heritage]}	{SRC-PROP-DESC=[reference, number], SRC-PROP-LABEL=[RKD/ESD, identifier]}
+P1716	{SRC-PROP-DESC=[product]}	{SRC-PROP-DESC=[brand], SRC-PROP-LABEL=[brand], SUB-ITEM=[brand]}
+P1717	{SRC-PROP-DESC=[System, French, national, Water, Information]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[SANDRE, ID], SUB-ITEM=[Sandre]}
+P172	{INST-FACET=[human]}	{SRC-PROP-LABEL=[group, ethnic], SUB-ITEM=[nationality, ethnic group]}
+P1721	{SRC-PROP-DESC=[text, pinyin]}	{SRC-PROP-DESC=[hanyu], SRC-PROP-LABEL=[pinyin, transliteration], SUB-ITEM=[Pinyin]}
+P1725	{SRC-PROP-DESC=[work, musical], SRC-PROP-LABEL=[minute]}	{SRC-PROP-DESC=[tempo], SRC-PROP-LABEL=[beats], SUB-ITEM=[beats per minute]}
+P1726	{SRC-PROP-DESC=[identifier, inventory], SRC-PROP-LABEL=[ID]}	{SRC-PROP-DESC=[museum], SRC-PROP-LABEL=[Florentine, musea]}
+P1727	{SRC-PROP-DESC=[America, North], SRC-PROP-LABEL=[ID, North, America]}	{SRC-PROP-DESC=[taxonId], SRC-PROP-LABEL=[Flora], SUB-ITEM=[eFloras]}
+P1728	{SRC-PROP-DESC=[database, AllMusic]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[artist, AllMusic, ID], SUB-ITEM=[AllMusic]}
+P1729	{SRC-PROP-DESC=[database, AllMusic]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[album, AllMusic, ID], SUB-ITEM=[AllMusic]}
+P1730	{SRC-PROP-DESC=[database, AllMusic]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[song, AllMusic, ID], SUB-ITEM=[AllMusic]}
+P1731	{}	{SRC-PROP-DESC=[ablilites, special], SRC-PROP-LABEL=[Fach], SUB-ITEM=[Fach]}
+P1732	{INST-FACET=[authority control]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[Naturbase, ID], SUB-ITEM=[Naturbase]}
+P1733	{SRC-PROP-DESC=[Steam]}	{SRC-PROP-DESC=[identification, number], SRC-PROP-LABEL=[Steam, ID], SUB-ITEM=[Steam]}
+P1734	{SRC-PROP-DESC=[oath], SRC-PROP-LABEL=[date, office]}	{SRC-PROP-DESC=[person], SRC-PROP-LABEL=[oath], SUB-ITEM=[oath of office]}
+P1735	{SRC-PROP-DESC=[commedians, actors]}	{SRC-PROP-DESC=[Identifer], SRC-PROP-LABEL=[identifier, Comedien.ch]}
+P1736	{SRC-PROP-DESC=[artists], SRC-PROP-LABEL=[identifier, Israeli, Art, artist]}	{SRC-PROP-DESC=[Authority], SRC-PROP-LABEL=[Information, Center], SUB-ITEM=[Information Center for Israeli Art]}
+P1738	{SRC-PROP-DESC=[Online, Merck, Index], SRC-PROP-LABEL=[monograph]}	{SRC-PROP-DESC=[URL, stem], SRC-PROP-LABEL=[Merck, Index]}
+P1739	{SRC-PROP-DESC=[bibliography, Japanese, CiNii], SRC-PROP-LABEL=[identifer, book]}	{SRC-PROP-DESC=[Identifier], SRC-PROP-LABEL=[CiNii]}
+P1740	{}	{SRC-PROP-LABEL=[category, films]}
+P1741	{SRC-PROP-DESC=[archives, audiovisual], INST-FACET=[authority control]}	{SRC-PROP-DESC=[Thesaurus], SRC-PROP-LABEL=[GTAA], SUB-ITEM=[Common Thesaurus of Audiovisual Archives]}
+P1743	{SRC-PROP-DESC=[lepidoptera, British], SRC-PROP-LABEL=[number, checklist]}	{SRC-PROP-DESC=[reference], SRC-PROP-LABEL=[Bradley, Fletcher], SUB-ITEM=[Lepidoptera]}
+P1744	{SRC-PROP-DESC=[lepidoptera, British], SRC-PROP-LABEL=[number, checklist]}	{SRC-PROP-DESC=[Reference], SRC-PROP-LABEL=[Agassiz], SUB-ITEM=[Lepidoptera]}
+P1745	{SRC-PROP-DESC=[Canada]}	{SRC-PROP-DESC=[identifiant], SRC-PROP-LABEL=[VASCAN, ID], SUB-ITEM=[Vascular Plants of Canada]}
+P1746	{SRC-PROP-DESC=[ZooBank], SRC-PROP-LABEL=[act, nomenclatural]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[ZooBank], SUB-ITEM=[ZooBank]}
+P1747	{SRC-PROP-DESC=[China], SRC-PROP-LABEL=[China]}	{SRC-PROP-DESC=[TaxonId], SRC-PROP-LABEL=[Flora], SUB-ITEM=[eFloras]}
+P1748	{SRC-PROP-DESC=[etc, research]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[NCI, Thesaurus, ID]}
+P1749	{SRC-PROP-LABEL=[ID]}	{SRC-PROP-DESC=[entry], SRC-PROP-LABEL=[arlement], SUB-ITEM=[Parlement & Politiek]}
+P175	{SRC-PROP-DESC=[character], INST-FACET=[work]}	{SRC-PROP-DESC=[musician, music, group], SRC-PROP-LABEL=[performer], SUB-ITEM=[performer]}
+P1750	{}	{SRC-PROP-DESC=[day], SRC-PROP-LABEL=[name, day], SUB-ITEM=[Name day]}
+P1751	{SRC-PROP-DESC=[UK], INST-FACET=[authority control], SRC-PROP-LABEL=[identifier, collection]}	{SRC-PROP-DESC=[authority], SRC-PROP-LABEL=[BBC]}
+P1752	{}	{SRC-PROP-DESC=[ratio, roportional], SRC-PROP-LABEL=[scale]}
+P1753	{SRC-PROP-DESC=[Wikimedia], INVS-PROP=[Wikimedia category], SRC-PROP-LABEL=[category]}	{SRC-PROP-DESC=[category, Wikimedia], SRC-PROP-LABEL=[list], SUB-ITEM=[Wikimedia list article]}
+P1754	{SRC-PROP-DESC=[Wikimedia], INVS-PROP=[Wikimedia list article], SRC-PROP-LABEL=[list]}	{SRC-PROP-DESC=[list, Wikimedia], SRC-PROP-LABEL=[category], SUB-ITEM=[Wikimedia category]}
+P1755	{SRC-PROP-DESC=[database], SRC-PROP-LABEL=[ID, accident, description]}	{SRC-PROP-DESC=[accident], SRC-PROP-LABEL=[Aviation, Safety, Network], SUB-ITEM=[Aviation Safety Network accident description]}
+P176	{SRC-PROP-DESC=[product]}	{SRC-PROP-DESC=[manufacturer, main], SRC-PROP-LABEL=[manufacturer], SUB-ITEM=[manufacturer]}
+P1760	{SRC-PROP-DESC=[database], SRC-PROP-LABEL=[Occurrence]}	{SRC-PROP-DESC=[occurrence, Wikibase, number], SRC-PROP-LABEL=[Aviation, Safety, Network, Wikibase], SUB-ITEM=[Aviation Safety Network Wikibase Occurrence]}
+P1761	{SRC-PROP-DESC=[plants, flowering], SRC-PROP-LABEL=[ID, family]}	{SRC-PROP-DESC=[familyID], SRC-PROP-LABEL=[Watson, Dallwitz], SUB-ITEM=[The families of flowering plants by Watson & Dallwitz]}
+P1762	{SRC-PROP-DESC=[instrument, musical]}	{SRC-PROP-DESC=[classification, Hornbostel-Sachs], SRC-PROP-LABEL=[classification, Hornbostel-Sachs], SUB-ITEM=[Hornbostel–Sachs]}
+P1763	{SRC-PROP-DESC=[Register, National, ipe, Organ], SRC-PROP-LABEL=[identifier]}	{SRC-PROP-DESC=[Identifier], SRC-PROP-LABEL=[National, ipe, Organ, Register]}
+P1764	{SRC-PROP-DESC=[Heritage, Immovable], INST-FACET=[cultural heritage], SRC-PROP-LABEL=[ID, Immovable, Heritage, relict]}	{SRC-PROP-DESC=[relict, identification, code], SRC-PROP-LABEL=[organization, Flemish], SUB-ITEM=[Flemish organization for Immovable Heritage]}
+P1766	{SRC-PROP-DESC=[it], SRC-PROP-LABEL=[sign, name]}	{SRC-PROP-DESC=[image], SRC-PROP-LABEL=[place]}
+P1769	{SRC-PROP-DESC=[Hesse], INST-FACET=[authority control]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[identifier, denkXweb], SUB-ITEM=[denkXweb]}
+P177	{}	{SRC-PROP-LABEL=[crosses]}
+P1770	{SRC-PROP-DESC=[România, din], INST-FACET=[cultural heritage], SRC-PROP-LABEL=[code]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[Romania, LMI]}
+P1771	{SRC-PROP-DESC=[States, United], INST-FACET=[authority control], SRC-PROP-LABEL=[identifier]}	{SRC-PROP-DESC=[Identifer], SRC-PROP-LABEL=[Integrated, ostsecondary], SUB-ITEM=[Integrated Postsecondary Education Data System]}
+P1772	{SRC-PROP-DESC=[Database, Agriculture, LANTS]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[USDA, LANTS, ID], SUB-ITEM=[United States Department of Agriculture Plants Database]}
+P1773	{SRC-PROP-DESC=[artwork], INST-FACET=[qualifier]}	{SRC-PROP-DESC=[creator], SUB-ITEM=[creator]}
+P1774	{SRC-PROP-DESC=[creator, likely], INST-FACET=[qualifier], SRC-PROP-LABEL=[workshop]}	{SRC-PROP-DESC=[group], SUB-ITEM=[creator]}
+P1775	{INST-FACET=[qualifier], SRC-PROP-LABEL=[follower]}	{SRC-PROP-DESC=[artists, unknown], SUB-ITEM=[creator]}
+P1776	{INST-FACET=[qualifier], SRC-PROP-LABEL=[circle]}	{SRC-PROP-DESC=[artists, unknown], SUB-ITEM=[creator]}
+P1777	{INST-FACET=[qualifier], SRC-PROP-LABEL=[manner]}	{SRC-PROP-DESC=[artists, unknown], SUB-ITEM=[creator]}
+P1778	{SRC-PROP-DESC=[artwork], INST-FACET=[qualifier]}	{SRC-PROP-LABEL=[forgery], SUB-ITEM=[creator]}
+P1779	{SRC-PROP-DESC=[author], INST-FACET=[qualifier]}	{SRC-PROP-DESC=[work, creative], SRC-PROP-LABEL=[creator, possible], SUB-ITEM=[creator]}
+P178	{SRC-PROP-DESC=[item]}	{SRC-PROP-DESC=[organisation, person], SRC-PROP-LABEL=[developer]}
+P1780	{SRC-PROP-DESC=[work, creative, author], INST-FACET=[qualifier, geographic location], SRC-PROP-LABEL=[school]}	{SRC-PROP-DESC=[author, known, circle], SUB-ITEM=[creator]}
+P1782	{SRC-PROP-DESC=[person], INST-FACET=[human]}	{SRC-PROP-DESC=[name], SRC-PROP-LABEL=[courtesy, name], SUB-ITEM=[courtesy name]}
+P1785	{SRC-PROP-DESC=[monarch], INST-FACET=[human]}	{SRC-PROP-DESC=[name], SRC-PROP-LABEL=[temple, name], SUB-ITEM=[temple name]}
+P1786	{SRC-PROP-DESC=[death], INST-FACET=[human]}	{SRC-PROP-DESC=[name], SRC-PROP-LABEL=[name, posthumous], SUB-ITEM=[posthumous name]}
+P1787	{INST-FACET=[human]}	{SRC-PROP-DESC=[type, pseudonym], SRC-PROP-LABEL=[art-name], SUB-ITEM=[art-name]}
+P1788	{SRC-PROP-DESC=[history, Dutch], INST-FACET=[authority control]}	{SRC-PROP-DESC=[Identifier], SRC-PROP-LABEL=[DVN, identifier], SUB-ITEM=[Online Dictionary of Dutch Women]}
+P1789	{SRC-PROP-DESC=[organization], INST-FACET=[organization]}	{SRC-PROP-DESC=[chief, officer], SRC-PROP-LABEL=[officer], SUB-ITEM=[chief operating officer]}
+P179	{}	{SRC-PROP-DESC=[part, is], SRC-PROP-LABEL=[series]}
+P1790	{SRC-PROP-DESC=[articles, journal], INST-FACET=[authority control], SRC-PROP-LABEL=[identifier, author]}	{SRC-PROP-DESC=[Author, identifier], SRC-PROP-LABEL=[BioStor]}
+P1791	{SRC-PROP-DESC=[area], INST-FACET=[death, birth]}	{SRC-PROP-DESC=[Wikipedia], SRC-PROP-LABEL=[category, people], SUB-ITEM=[location of burial]}
+P1792	{SEE-ALSO=[death, birth], SRC-PROP-LABEL=[people, associated]}	{SRC-PROP-DESC=[Wikipedia, category, people], SEE-ALSO=[place of death, place of birth], SRC-PROP-LABEL=[category]}
+P1793	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[expression, regular]}	{SRC-PROP-DESC=[regex], SRC-PROP-LABEL=[format], SUB-ITEM=[regular expression]}
+P1794	{SRC-PROP-DESC=[atlas-patrimoine93], INST-FACET=[cultural heritage], SRC-PROP-LABEL=[ID, du, patrimoine, Seine-Saint-Denis]}	{SRC-PROP-DESC=[identifer], SRC-PROP-LABEL=[bureau]}
+P1795	{SRC-PROP-DESC=[thesaurus], INST-FACET=[authority control], SRC-PROP-LABEL=[id, person/institution, thesaurus]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[Smithsonian, American, Art, Museum], SUB-ITEM=[SAAM person/institution thesaurus]}
+P1796	{SRC-PROP-DESC=[ISIC], SRC-PROP-LABEL=[code, Classification]}	{SRC-PROP-DESC=[code], SRC-PROP-LABEL=[International, Standard, Industrial]}
+P1798	{SRC-PROP-DESC=[family, language]}	{SRC-PROP-DESC=[ISO], SRC-PROP-LABEL=[ISO, 639-5], SUB-ITEM=[ISO 639-5]}
+P1799	{SRC-PROP-DESC=[Islands, Maltese], INST-FACET=[cultural heritage], SRC-PROP-LABEL=[identifier, Cultural, roperty]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[Islands, Maltese, National, Inventory]}
+P18	{EQUI-PROP=[Thing]}	{SRC-PROP-DESC=[illustration, relevant], EQUI-PROP2=[URL], SRC-PROP-LABEL=[image], SUB-ITEM=[illustration]}
+P180	{SEE-ALSO=[work], INST-FACET=[work]}	{SRC-PROP-DESC=[entity]}
+P1800	{SRC-PROP-DESC=[identifier, project, database], SRC-PROP-LABEL=[name, database]}	{SRC-PROP-DESC=[Wikimedia], SRC-PROP-LABEL=[Wikimedia]}
+P1801	{}	{SRC-PROP-DESC=[image, plaque], SRC-PROP-LABEL=[plaque, commemorative, image], SUB-ITEM=[commemorative plaque]}
+P1802	{INST-FACET=[authority control], SRC-PROP-LABEL=[identifier, person]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[EMLO]}
+P1803	{INST-FACET=[authority control], SRC-PROP-LABEL=[ID]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[Masaryk, University], SUB-ITEM=[u?o, Masaryk University]}
+P1804	{SRC-PROP-DESC=[Filmography, Danish, National]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[National, Danish, Filmography, ID], SUB-ITEM=[Danish National Filmography]}
+P1805	{}	{SRC-PROP-DESC=[drug, identifier], SRC-PROP-LABEL=[World, Health, Organisation, International, Nonproprietary]}
+P1806	{SRC-PROP-DESC=[Knots]}	{SRC-PROP-DESC=[knot, identifier], SRC-PROP-LABEL=[ABoK, number], SUB-ITEM=[The Ashley Book of Knots]}
+P1807	{SRC-PROP-DESC=[Encyclopedia, Aragon-themed, Great, Aragonese], INST-FACET=[authority control], SRC-PROP-LABEL=[ID]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[Encyclopedia, Great, Aragonese], SUB-ITEM=[Great Aragonese Encyclopedia]}
+P1808	{SRC-PROP-DESC=[senate, French]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[senat.fr, ID], SUB-ITEM=[Senate]}
+P1809	{SRC-PROP-DESC=[choreography]}	{SRC-PROP-DESC=[person], SRC-PROP-LABEL=[choreographer], SUB-ITEM=[choreographer]}
+P181	{SRC-PROP-DESC=[taxon], SRC-PROP-LABEL=[image, map]}	{SRC-PROP-DESC=[range, map], SRC-PROP-LABEL=[range]}
+P1810	{SRC-PROP-DESC=[production]}	{SRC-PROP-DESC=[credit, name]}
+P1811	{SRC-PROP-DESC=[series], SRC-PROP-LABEL=[episodes]}	{SRC-PROP-DESC=[link], SRC-PROP-LABEL=[list], SUB-ITEM=[episode]}
+P1813	{SRC-PROP-DESC=[person, place, organisation]}	{SRC-PROP-DESC=[name, short], SRC-PROP-LABEL=[name, short]}
+P1814	{SRC-PROP-DESC=[name, Japanese]}	{SRC-PROP-DESC=[reading], SRC-PROP-LABEL=[name], SUB-ITEM=[kana]}
+P1815	{INST-FACET=[work]}	{SRC-PROP-LABEL=[identifier]}
+P1816	{INST-FACET=[authority control], SRC-PROP-LABEL=[identifier, person]}	{SRC-PROP-DESC=[Identifier, sitters], SRC-PROP-LABEL=[National, ortrait, Gallery]}
+P1817	{}	{SRC-PROP-DESC=[letter, note], SRC-PROP-LABEL=[addressee]}
+P1818	{SRC-PROP-DESC=[lines, branch], INST-FACET=[authority control]}	{SRC-PROP-DESC=[Identifier], SRC-PROP-LABEL=[ID, Kaiserhof]}
+P1819	{SRC-PROP-DESC=[genealogics.org], INST-FACET=[authority control]}	{SRC-PROP-DESC=[Identifier], SRC-PROP-LABEL=[genealogics.org, personID]}
+P1820	{}	{SRC-PROP-DESC=[food]}
+P1821	{}	{SRC-PROP-DESC=[food, category, Open]}
+P1822	{SRC-PROP-DESC=[Germany, Hamburg], INST-FACET=[authority control], SRC-PROP-LABEL=[ID]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[DSH]}
+P1823	{SRC-PROP-DESC=[du, uébec], INST-FACET=[authority control]}	{SRC-PROP-DESC=[identifier, unique], SRC-PROP-LABEL=[BAn, ID]}
+P1824	{SRC-PROP-DESC=[stretch]}	{SRC-PROP-DESC=[number], SRC-PROP-LABEL=[road, number], SUB-ITEM=[road number]}
+P1825	{SRC-PROP-DESC=[Baseball-Reference], INST-FACET=[authority control]}	{SRC-PROP-DESC=[Major, League, Baseball, player, ID], SRC-PROP-LABEL=[Baseball-Reference]}
+P1826	{SRC-PROP-DESC=[Baseball-Reference], INST-FACET=[authority control]}	{SRC-PROP-DESC=[Minor, League, Baseball, player, ID], SRC-PROP-LABEL=[Baseball-Reference]}
+P1827	{}	{SRC-PROP-DESC=[identifier, unique, musical], SRC-PROP-LABEL=[ISWC], SUB-ITEM=[International Standard Musical Work Code]}
+P1828	{SRC-PROP-DESC=[parties, other, relevant], SRC-PROP-LABEL=[Code]}	{SRC-PROP-DESC=[identifier, international, unique], SRC-PROP-LABEL=[I], SUB-ITEM=[Interested Parties Information]}
+P1829	{SRC-PROP-DESC=[songs], SRC-PROP-LABEL=[Index, Folk, Song]}	{SRC-PROP-DESC=[Id], SRC-PROP-LABEL=[Roud], SUB-ITEM=[Roud Folk Song Index]}
+P183	{SRC-PROP-DESC=[taxon]}	{SRC-PROP-DESC=[location, sole, habitat, type]}
+P1830	{INVS-PROP=[proprietor], SRC-PROP-LABEL=[owner]}	{SRC-PROP-DESC=[entities], SUB-ITEM=[property]}
+P1831	{SRC-PROP-DESC=[place]}	{SRC-PROP-DESC=[number], SRC-PROP-LABEL=[electorate]}
+P1832	{SRC-PROP-DESC=[Flora, Grass]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[GrassBase, ID], SUB-ITEM=[Grassbase]}
+P1833	{SRC-PROP-DESC=[website], SRC-PROP-LABEL=[users/contributors]}	{SRC-PROP-DESC=[number], SRC-PROP-LABEL=[number]}
+P1836	{SRC-PROP-DESC=[player, sports, draft, selected], INST-FACET=[qualifier], SRC-PROP-LABEL=[number, pick]}	{SRC-PROP-DESC=[number], SRC-PROP-LABEL=[draft]}
+P1837	{SRC-PROP-DESC=[database, Gaoloumi]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[Gaoloumi, ID]}
+P1838	{SRC-PROP-DESC=[database, SS-archi]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[ID, SS-archi]}
+P1839	{SRC-PROP-DESC=[US, Federal, Election, Commission], SRC-PROP-LABEL=[identifier]}	{SRC-PROP-DESC=[Identifier], SRC-PROP-LABEL=[US, Federal, Election, Commission]}
+P184	{SRC-PROP-DESC=[doctorate, hD, thesis], INST-FACET=[human]}	{SRC-PROP-DESC=[person], INVS-PROP=[human], SRC-PROP-LABEL=[advisor, doctoral], SUB-ITEM=[doctoral advisor]}
+P185	{SRC-PROP-DESC=[professor], SUB-PROP=[human], INVS-PROP=[doctoral advisor], INST-FACET=[human]}	{SRC-PROP-DESC=[student, doctoral], SUB-PROP=[student], INVS-PROP=[human], SRC-PROP-LABEL=[student, doctoral]}
+P186	{}	{SRC-PROP-DESC=[material], SRC-PROP-LABEL=[material], SUB-ITEM=[material]}
+P189	{SEE-ALSO=[human, geographic location], SRC-PROP-LABEL=[discovery]}	{SRC-PROP-DESC=[item], SEE-ALSO=[geographic location], SRC-PROP-LABEL=[location]}
+P19	{SEE-ALSO=[death, birth], INST-FACET=[death, birth, human], SRC-PROP-LABEL=[birth]}	{SEE-ALSO=[place of birth], SRC-PROP-LABEL=[place], SUB-ITEM=[place of birth]}
+P190	{SRC-PROP-DESC=[municipalities], INST-FACET=[geographic location]}	{SRC-PROP-DESC=[towns, twin, sister, cities], SRC-PROP-LABEL=[city, sister], SUB-ITEM=[twin town]}
+P193	{SRC-PROP-DESC=[building, structure]}	{SRC-PROP-DESC=[organization, main], SRC-PROP-LABEL=[building, main, contractor]}
+P194	{SRC-PROP-DESC=[entity]}	{SRC-PROP-DESC=[body, legislative], SRC-PROP-LABEL=[body, legislative]}
+P195	{SRC-PROP-DESC=[collection]}	{SRC-PROP-LABEL=[collection]}
+P196	{SRC-PROP-DESC=[characteristics, similar, orbital]}	{SRC-PROP-LABEL=[planet, minor, group], SUB-ITEM=[minor-planet group]}
+P197	{SRC-PROP-DESC=[line, same]}	{SRC-PROP-DESC=[stations], SRC-PROP-LABEL=[station, adjacent]}
+P199	{SRC-PROP-DESC=[organization]}	{SRC-PROP-DESC=[divisions], SRC-PROP-LABEL=[business, division]}
+P20	{SEE-ALSO=[death, birth], INST-FACET=[death, birth, human], SRC-PROP-LABEL=[death]}	{SEE-ALSO=[place of death], SRC-PROP-LABEL=[place], SUB-ITEM=[place of death]}
+P200	{SRC-PROP-DESC=[etc, glacial, runoff], EQUI-PROP=[Lake]}	{SRC-PROP-DESC=[inflow, major, sources], EQUI-PROP2=[River], SRC-PROP-LABEL=[lake, inflows], SUB-ITEM=[Inflow]}
+P201	{SRC-PROP-DESC=[names, waterway], EQUI-PROP=[Lake]}	{SRC-PROP-DESC=[rivers], EQUI-PROP2=[River], SRC-PROP-LABEL=[lake, outflow]}
+P205	{SRC-PROP-DESC=[lake]}	{SRC-PROP-DESC=[countries], SRC-PROP-LABEL=[basin, country]}
+P206	{SEE-ALSO=[geographic location], INST-FACET=[geographic location], SRC-PROP-LABEL=[water]}	{SRC-PROP-DESC=[lake, river], SEE-ALSO=[landform, administrative territorial entity, geographic location], SRC-PROP-LABEL=[body], SUB-ITEM=[body of water]}
+P207	{SRC-PROP-DESC=[map, bathymetric]}	{SRC-PROP-DESC=[file], SRC-PROP-LABEL=[bathymetry, image]}
+P208	{SRC-PROP-DESC=[state]}	{SRC-PROP-DESC=[branch], SRC-PROP-LABEL=[executive, body]}
+P209	{SRC-PROP-DESC=[organization, other]}	{SRC-PROP-DESC=[body, supreme, judicial], SRC-PROP-LABEL=[authority, judicial]}
+P21	{EQUI-PROP=[Person], INST-FACET=[human]}	{SRC-PROP-DESC=[identity, Sexual], EQUI-PROP2=[Text], SRC-PROP-LABEL=[sex, gender], SUB-ITEM=[gender, sex]}
+P210	{SRC-PROP-DESC=[unit, administrative], SRC-PROP-LABEL=[representative, chief]}	{SRC-PROP-DESC=[representative, chief], SRC-PROP-LABEL=[party]}
+P212	{SRC-PROP-DESC=[variant, thirteen, digit], INST-FACET=[work]}	{SRC-PROP-DESC=[International, Standard, Book, Number], SRC-PROP-LABEL=[ISBN-13], SUB-ITEM=[International Standard Book Number]}
+P213	{SRC-PROP-DESC=[Identifier], INST-FACET=[authority control]}	{SRC-PROP-DESC=[International, Standard], SRC-PROP-LABEL=[ISNI], SUB-ITEM=[International Standard Name Identifier]}
+P214	{SRC-PROP-DESC=[identifier], INST-FACET=[authority control]}	{SRC-PROP-DESC=[International, Virtual, Authority, File], SRC-PROP-LABEL=[VIAF, identifier], SUB-ITEM=[Virtual International Authority File]}
+P215	{SRC-PROP-DESC=[astronomical]}	{SRC-PROP-DESC=[class, spectral], SRC-PROP-LABEL=[class, spectral], SUB-ITEM=[stellar classification]}
+P217	{SRC-PROP-DESC=[physical]}	{SRC-PROP-DESC=[string], SRC-PROP-LABEL=[inventory, number], SUB-ITEM=[accession number]}
+P218	{SRC-PROP-LABEL=[code, 639-1]}	{SRC-PROP-DESC=[identifier, two-letter], SRC-PROP-LABEL=[ISO]}
+P219	{SRC-PROP-DESC=[ISO, 639-2, standard], SRC-PROP-LABEL=[code, 639-2]}	{SRC-PROP-LABEL=[ISO], SUB-ITEM=[ISO 639-2]}
+P22	{SUB-PROP=[human], SEE-ALSO=[human], INST-FACET=[human]}	{SRC-PROP-DESC=[parent, male], SUB-PROP=[kinship], SEE-ALSO=[mother, stepfather, kinship, child], SRC-PROP-LABEL=[father], SUB-ITEM=[father]}
+P220	{SRC-PROP-LABEL=[code, 639-3]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[ISO], SUB-ITEM=[ISO 639-3]}
+P221	{SRC-PROP-DESC=[ISO, 639-6]}	{SRC-PROP-DESC=[language, code], SRC-PROP-LABEL=[ISO, 639-6], SUB-ITEM=[ISO 639-6]}
+P223	{SRC-PROP-DESC=[code, morphological, classification], SRC-PROP-LABEL=[type, morphological]}	{SRC-PROP-DESC=[galaxy], SRC-PROP-LABEL=[galaxy], SUB-ITEM=[Galaxy morphological classification]}
+P225	{SRC-PROP-DESC=[taxon]}	{SRC-PROP-DESC=[name, scientific], SRC-PROP-LABEL=[taxon, name], SUB-ITEM=[taxon name]}
+P227	{SRC-PROP-DESC=[organizations, subjects], INST-FACET=[authority control]}	{SRC-PROP-DESC=[authority, international, file], SRC-PROP-LABEL=[GND, identifier], SUB-ITEM=[Integrated Authority File]}
+P229	{SRC-PROP-LABEL=[designator, airline]}	{SRC-PROP-DESC=[code, two-character, airlines], SRC-PROP-LABEL=[IATA]}
+P230	{SRC-PROP-LABEL=[designator, airline]}	{SRC-PROP-DESC=[letter, three, code, airlines], SRC-PROP-LABEL=[ICAO]}
+P231	{SRC-PROP-DESC=[registry, CAS], SRC-PROP-LABEL=[number, registry]}	{SRC-PROP-DESC=[compound, chemical], SRC-PROP-LABEL=[CAS], SUB-ITEM=[CAS registry number]}
+P232	{SRC-PROP-DESC=[EINECS]}	{SRC-PROP-DESC=[compound, chemical], SRC-PROP-LABEL=[EINECS, number], SUB-ITEM=[EINECS number]}
+P233	{}	{SRC-PROP-DESC=[Input, Molecular, Line, Entry, Specification], SRC-PROP-LABEL=[SMILES], SUB-ITEM=[Simplified molecular input line entry specification]}
+P234	{}	{SRC-PROP-DESC=[International, Chemical, Identifier], SRC-PROP-LABEL=[InChI]}
+P235	{SRC-PROP-DESC=[information, structural]}	{SRC-PROP-DESC=[version, version, searching], SRC-PROP-LABEL=[InChIKey]}
+P236	{SRC-PROP-DESC=[Number, Serial], INST-FACET=[work]}	{SRC-PROP-DESC=[International, Standard], SRC-PROP-LABEL=[ISSN], SUB-ITEM=[International Standard Serial Number]}
+P237	{SRC-PROP-DESC=[arms], SRC-PROP-LABEL=[arms]}	{SRC-PROP-DESC=[coat], SRC-PROP-LABEL=[coat], SUB-ITEM=[escutcheon]}
+P238	{SRC-PROP-LABEL=[code, airport]}	{SRC-PROP-DESC=[code, three-letter, airports], SRC-PROP-LABEL=[IATA], SUB-ITEM=[International Air Transport Association code]}
+P239	{SRC-PROP-LABEL=[code, airport]}	{SRC-PROP-DESC=[code, four-character, alphanumeric, airports], SRC-PROP-LABEL=[ICAO]}
+P240	{SRC-PROP-DESC=[United, States, airports], SRC-PROP-LABEL=[code, airport]}	{SRC-PROP-DESC=[code, alphanumeric], SRC-PROP-LABEL=[FAA]}
+P241	{SRC-PROP-DESC=[Royal, Navy], INST-FACET=[organization]}	{SRC-PROP-DESC=[branch], SRC-PROP-LABEL=[branch, military], SUB-ITEM=[military branch]}
+P242	{SRC-PROP-DESC=[location], SRC-PROP-LABEL=[image, map]}	{SRC-PROP-DESC=[map, geographic, image], SRC-PROP-LABEL=[locator]}
+P243	{SRC-PROP-LABEL=[number, control]}	{SRC-PROP-DESC=[Online, Computer, Library, Center, control, number], SRC-PROP-LABEL=[OCLC]}
+P244	{INST-FACET=[authority control]}	{SRC-PROP-DESC=[Library, Congress], SRC-PROP-LABEL=[identifier, LCNAF], SUB-ITEM=[Library of Congress Control Number]}
+P245	{SRC-PROP-DESC=[ID, Artist, Names], INST-FACET=[authority control], SRC-PROP-LABEL=[identifier]}	{SRC-PROP-DESC=[Getty, Union], SRC-PROP-LABEL=[ULAN], SUB-ITEM=[Union List of Artist Names]}
+P246	{SRC-PROP-DESC=[symbol, element]}	{SRC-PROP-DESC=[chemical], SRC-PROP-LABEL=[element, symbol]}
+P247	{SRC-PROP-DESC=[UN, Committee], SRC-PROP-LABEL=[ID, AR]}	{SRC-PROP-DESC=[satellite, international, designation], SRC-PROP-LABEL=[COS]}
+P248	{}	{}
+P249	{}	{SRC-PROP-DESC=[abbreviation], SRC-PROP-LABEL=[ticker, symbol]}
+P25	{SUB-PROP=[human], SEE-ALSO=[human], INST-FACET=[human]}	{SRC-PROP-DESC=[parent, female], SUB-PROP=[kinship], SEE-ALSO=[kinship, father, stepmother, child], SRC-PROP-LABEL=[mother], SUB-ITEM=[mother]}
+P26	{SRC-PROP-DESC=[spouse], SUB-PROP=[human], INST-FACET=[human]}	{SUB-PROP=[kinship], SRC-PROP-LABEL=[spouse], SUB-ITEM=[spouse]}
+P263	{SRC-PROP-DESC=[heads], INST-FACET=[human]}	{SRC-PROP-DESC=[residence], SRC-PROP-LABEL=[residence, official]}
+P264	{SRC-PROP-DESC=[marketing]}	{SRC-PROP-DESC=[brand, trademark], SRC-PROP-LABEL=[record, label]}
+P267	{SRC-PROP-DESC=[ATC]}	{SRC-PROP-DESC=[chemical, therapeutic], SRC-PROP-LABEL=[ATC, code], SUB-ITEM=[Anatomical Therapeutic Chemical Classification System]}
+P268	{INST-FACET=[authority control]}	{SRC-PROP-DESC=[number, control], SRC-PROP-LABEL=[BnF, identifier], SUB-ITEM=[RAMEAU]}
+P269	{SRC-PROP-DESC=[catalog, French, collaborative, library], INST-FACET=[authority control]}	{SRC-PROP-DESC=[authority], SRC-PROP-LABEL=[SUDOC, authorities], SUB-ITEM=[SUDOC]}
+P27	{SRC-PROP-DESC=[citizen], INST-FACET=[human], SRC-PROP-LABEL=[citizenship]}	{SRC-PROP-DESC=[country, is], SEE-ALSO=[country, constituent country], SRC-PROP-LABEL=[country], SUB-ITEM=[citizenship]}
+P270	{SRC-PROP-DESC=[CALIS]}	{SRC-PROP-DESC=[authority], SRC-PROP-LABEL=[CALIS]}
+P271	{SRC-PROP-DESC=[authors], INST-FACET=[authority control], SRC-PROP-LABEL=[identifier, author]}	{SRC-PROP-DESC=[CiNii], SRC-PROP-LABEL=[CiNii]}
+P272	{INST-FACET=[work]}	{SRC-PROP-LABEL=[production, company]}
+P274	{SRC-PROP-DESC=[symbols, element]}	{SRC-PROP-DESC=[description], SRC-PROP-LABEL=[formula, chemical]}
+P275	{SRC-PROP-DESC=[work]}	{SRC-PROP-DESC=[license], SRC-PROP-LABEL=[license], SUB-ITEM=[license]}
+P276	{SRC-PROP-DESC=[item, physical], SEE-ALSO=[human, geographic location], INST-FACET=[geographic location]}	{SRC-PROP-DESC=[location], SEE-ALSO=[body of water, administrative territorial entity, landform, geographic location], SRC-PROP-LABEL=[location], SUB-ITEM=[geographic location]}
+P277	{SRC-PROP-DESC=[software]}	{SRC-PROP-DESC=[programming, language], SRC-PROP-LABEL=[language], SUB-ITEM=[programming language]}
+P278	{SRC-PROP-DESC=[GOST, 7.75-97], SRC-PROP-LABEL=[code, 7.75-97]}	{SRC-PROP-DESC=[language, identification, code], SRC-PROP-LABEL=[GOST]}
+P279	{SRC-PROP-DESC=[instances], SRC-PROP-LABEL=[subclass]}	{SRC-PROP-DESC=[items], SUB-ITEM=[subclass]}
+P281	{SRC-PROP-DESC=[authorities, postal]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[code, postal]}
+P282	{}	{SRC-PROP-DESC=[alphabet, character, set, other, system], SRC-PROP-LABEL=[system]}
+P286	{SRC-PROP-DESC=[club, sports]}	{SRC-PROP-DESC=[manager, on-field, head, coach], SRC-PROP-LABEL=[team, manager]}
+P287	{SRC-PROP-DESC=[item]}	{SRC-PROP-DESC=[designer], SRC-PROP-LABEL=[designer]}
+P289	{}	{SRC-PROP-DESC=[ship, classification], SRC-PROP-LABEL=[ship, class], SUB-ITEM=[ship class]}
+P291	{SRC-PROP-DESC=[edition], SRC-PROP-LABEL=[publication]}	{SRC-PROP-DESC=[place, geographical], SRC-PROP-LABEL=[place], SUB-ITEM=[place of publication]}
+P296	{SRC-PROP-DESC=[railway, station]}	{SRC-PROP-DESC=[identification, code], SRC-PROP-LABEL=[station, code]}
+P297	{SRC-PROP-DESC=[ISO, 3166-1], SRC-PROP-LABEL=[alpha-2, 3166-1]}	{SRC-PROP-DESC=[country, code], SEE-ALSO=[ISO 3166-1 alpha-3 code, ISO 3166-1 numeric], SRC-PROP-LABEL=[ISO], SUB-ITEM=[ISO 3166-1 alpha-2 code]}
+P298	{SRC-PROP-DESC=[ISO, 3166-1], SRC-PROP-LABEL=[alpha-3, 3166-1]}	{SRC-PROP-DESC=[country, code], SEE-ALSO=[ISO 3166-1 alpha-2 code, ISO 3166-1 numeric], SRC-PROP-LABEL=[ISO], SUB-ITEM=[ISO 3166-1 alpha-3 code]}
+P299	{SRC-PROP-DESC=[ISO, 3166-1]}	{SRC-PROP-DESC=[country, code], SEE-ALSO=[ISO 3166-1 alpha-3 code, ISO 3166-1 alpha-2 code], SRC-PROP-LABEL=[ISO, 3166-1], SUB-ITEM=[ISO 3166-1 numeric]}
+P30	{SRC-PROP-DESC=[part]}	{SRC-PROP-LABEL=[continent], SUB-ITEM=[continent]}
+P300	{SRC-PROP-DESC=[ISO, 3166-2]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[ISO, 3166-2], SUB-ITEM=[ISO 3166-2]}
+P301	{SRC-PROP-DESC=[category]}	{SRC-PROP-DESC=[topic, primary], SEE-ALSO=[Wikimedia list article], SRC-PROP-LABEL=[topic, main]}
+P303	{SRC-PROP-DESC=[pigeons, fancy], SRC-PROP-LABEL=[number, breed]}	{SRC-PROP-DESC=[breed], SRC-PROP-LABEL=[EE]}
+P304	{}	{SRC-PROP-DESC=[page, number, source], SRC-PROP-LABEL=[page]}
+P305	{SRC-PROP-DESC=[Force, Internet, Engineering, Task], SRC-PROP-LABEL=[tag, language]}	{SRC-PROP-DESC=[language], SRC-PROP-LABEL=[IETF], SUB-ITEM=[IETF language tag]}
+P306	{}	{SRC-PROP-LABEL=[system], SUB-ITEM=[operating system]}
+P31	{SRC-PROP-DESC=[example, specific], SRC-PROP-LABEL=[instance]}	{SRC-PROP-DESC=[item]}
+P344	{SRC-PROP-DESC=[work], INST-FACET=[work], SRC-PROP-LABEL=[photography]}	{SRC-PROP-DESC=[person], SRC-PROP-LABEL=[director]}
+P345	{SRC-PROP-DESC=[prefix], INST-FACET=[authority control]}	{SRC-PROP-DESC=[identification, code], SRC-PROP-LABEL=[IMDb, identifier]}
+P347	{SRC-PROP-DESC=[Culture], INST-FACET=[cultural heritage]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[Joconde, ID], SUB-ITEM=[Joconde]}
+P348	{SRC-PROP-DESC=[software]}	{SRC-PROP-DESC=[version, stable], SRC-PROP-LABEL=[version]}
+P349	{SRC-PROP-DESC=[Japan], INST-FACET=[authority control]}	{SRC-PROP-DESC=[authority, control, number], SRC-PROP-LABEL=[NDL, identifier], SUB-ITEM=[Web NDL Authorities]}
+P35	{SRC-PROP-DESC=[country], SRC-PROP-LABEL=[state]}	{SRC-PROP-DESC=[official], SEE-ALSO=[head of government], SRC-PROP-LABEL=[head], SUB-ITEM=[head of state]}
+P350	{SRC-PROP-DESC=[History, Art]}	{SRC-PROP-DESC=[identification, number], SRC-PROP-LABEL=[RKDimages]}
+P351	{SRC-PROP-DESC=[database, NCBI, Entrez]}	{SRC-PROP-DESC=[gene, identifier], SRC-PROP-LABEL=[Entrez, Gene, ID]}
+P352	{SRC-PROP-DESC=[database, Uni, rot], SRC-PROP-LABEL=[ID, rot]}	{SRC-PROP-DESC=[protein, identifier], SRC-PROP-LABEL=[Uni]}
+P353	{}	{SRC-PROP-DESC=[gene, official, symbol], SRC-PROP-LABEL=[gene, symbol]}
+P354	{SRC-PROP-DESC=[database, HGNC]}	{SRC-PROP-DESC=[Gene], SRC-PROP-LABEL=[HGNC, ID]}
+P355	{SRC-PROP-DESC=[company, parent], INST-FACET=[organization]}	{SRC-PROP-DESC=[subsidiary], INVS-PROP=[organization], SRC-PROP-LABEL=[subsidiaries]}
+P356	{}	{SRC-PROP-DESC=[Digital, Identifier], SRC-PROP-LABEL=[DOI], SUB-ITEM=[Digital Object Identifier]}
+P357	{SRC-PROP-DESC=[work], SEE-ALSO=[work]}	{SRC-PROP-DESC=[title], SRC-PROP-LABEL=[title], SUB-ITEM=[title]}
+P358	{SRC-PROP-DESC=[page, artist, band], INST-FACET=[human]}	{SRC-PROP-DESC=[link], SRC-PROP-LABEL=[discography]}
+P359	{SRC-PROP-DESC=[Rijksdienst, voor, het, Cultureel, Erfgoed], INST-FACET=[cultural heritage], SRC-PROP-LABEL=[identifier]}	{SRC-PROP-DESC=[monument, identifier], SRC-PROP-LABEL=[Rijksmonument]}
+P36	{SRC-PROP-DESC=[entity, administrative, territorial], INST-FACET=[geographic location]}	{SRC-PROP-DESC=[location], SRC-PROP-LABEL=[capital], SUB-ITEM=[capital]}
+P360	{SRC-PROP-DESC=[items], SRC-PROP-LABEL=[list]}	{SRC-PROP-DESC=[list]}
+P361	{SRC-PROP-DESC=[part], SRC-PROP-LABEL=[part]}	{}
+P364	{SRC-PROP-DESC=[work], SUB-PROP=[work], INST-FACET=[work], SRC-PROP-LABEL=[work]}	{SRC-PROP-DESC=[language], SRC-PROP-LABEL=[language, original]}
+P366	{}	{SRC-PROP-DESC=[use, main], SRC-PROP-LABEL=[use], SUB-ITEM=[use]}
+P367	{SRC-PROP-DESC=[planet]}	{SRC-PROP-DESC=[image], SRC-PROP-LABEL=[symbol, astronomic, image], SUB-ITEM=[astronomical symbols]}
+P368	{SRC-PROP-DESC=[File, Commons, Media]}	{SRC-PROP-DESC=[Sandbox], SRC-PROP-LABEL=[Sandbox-CommonsMediaFile]}
+P369	{SRC-PROP-DESC=[Item]}	{SRC-PROP-DESC=[Sandbox], SRC-PROP-LABEL=[Sandbox-Item]}
+P37	{SRC-PROP-DESC=[official]}	{SRC-PROP-DESC=[language], SRC-PROP-LABEL=[language, official], SUB-ITEM=[official language]}
+P370	{SRC-PROP-DESC=[String]}	{SRC-PROP-DESC=[Sandbox]}
+P371	{SRC-PROP-DESC=[radio, television, program]}	{SRC-PROP-DESC=[someone], SRC-PROP-LABEL=[presenter]}
+P373	{SRC-PROP-LABEL=[category]}	{SRC-PROP-DESC=[name], SRC-PROP-LABEL=[Commons]}
+P374	{SRC-PROP-DESC=[France], SRC-PROP-LABEL=[code, municipality]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[INSEE], SUB-ITEM=[INSEE code]}
+P375	{SRC-PROP-LABEL=[vehicle, launch]}	{SRC-PROP-DESC=[rocket, other, vehicle], SRC-PROP-LABEL=[space], SUB-ITEM=[launch vehicle]}
+P376	{SRC-PROP-DESC=[features, places], INST-FACET=[geographic location]}	{SRC-PROP-DESC=[body, astronomical], SRC-PROP-LABEL=[body, astronomical]}
+P377	{SRC-PROP-DESC=[zeros]}	{SRC-PROP-DESC=[Satellite, Catalog, Number, 5-digit-number], SRC-PROP-LABEL=[SCN]}
+P38	{SRC-PROP-DESC=[item]}	{SRC-PROP-DESC=[currency], SRC-PROP-LABEL=[currency], SUB-ITEM=[currency]}
+P380	{SRC-PROP-DESC=[heritage, French, cultural], INST-FACET=[cultural heritage]}	{SRC-PROP-DESC=[monument, identifier], SRC-PROP-LABEL=[identifier, Mérimée], SUB-ITEM=[Base Mérimée]}
+P381	{SRC-PROP-DESC=[Switzerland], INST-FACET=[cultural heritage], SRC-PROP-LABEL=[number, reference]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[C]}
+P382	{SRC-PROP-DESC=[Statistics, Netherlands], SRC-PROP-LABEL=[code, municipality]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[CBS]}
+P387	{}	{SRC-PROP-DESC=[quote, source], SRC-PROP-LABEL=[quote], SUB-ITEM=[citation, quotation]}
+P39	{SRC-PROP-DESC=[position, public, office], INST-FACET=[human]}	{SRC-PROP-LABEL=[position], SUB-ITEM=[mandate]}
+P393	{SRC-PROP-DESC=[event, book]}	{SRC-PROP-DESC=[number], SRC-PROP-LABEL=[edition, number]}
+P395	{SRC-PROP-LABEL=[code, plate]}	{SRC-PROP-LABEL=[licence]}
+P396	{SRC-PROP-DESC=[National, Library, Service], INST-FACET=[human], SRC-PROP-LABEL=[identifier]}	{SRC-PROP-DESC=[number, control], SRC-PROP-LABEL=[SBN], SUB-ITEM=[Servizio Bibliotecario Nazionale]}
+P397	{}	{SRC-PROP-LABEL=[body, astronomical]}
+P398	{SRC-PROP-DESC=[item], SRC-PROP-LABEL=[body, astronomical]}	{SRC-PROP-DESC=[body, minor], SRC-PROP-LABEL=[child]}
+P399	{SRC-PROP-LABEL=[companion]}	{SRC-PROP-DESC=[bodies, astronomic]}
+P40	{SRC-PROP-DESC=[child], SUB-PROP=[human], SEE-ALSO=[human], INST-FACET=[human]}	{SUB-PROP=[kinship], SEE-ALSO=[mother, father, kinship, brother, sister], SRC-PROP-LABEL=[child], SUB-ITEM=[child]}
+P400	{}	{SRC-PROP-LABEL=[platform]}
+P402	{SRC-PROP-DESC=[OpenStreetMap], SRC-PROP-LABEL=[identifier]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[OpenStreetMap, Relation]}
+P403	{SRC-PROP-DESC=[watercourse], SRC-PROP-LABEL=[watercourse]}	{SRC-PROP-DESC=[body, water], SRC-PROP-LABEL=[mouth], SUB-ITEM=[river mouth]}
+P404	{SRC-PROP-DESC=[game, video]}	{SRC-PROP-DESC=[playing, available, mode], SRC-PROP-LABEL=[game, mode]}
+P405	{SRC-PROP-DESC=[name, scientific], INST-FACET=[qualifier]}	{SRC-PROP-DESC=[author], SRC-PROP-LABEL=[taxon, author]}
+P406	{SRC-PROP-DESC=[soundtrack]}	{SRC-PROP-DESC=[album], SRC-PROP-LABEL=[soundtrack, album]}
+P407	{INST-FACET=[work], SRC-PROP-LABEL=[work]}	{SRC-PROP-DESC=[works], SRC-PROP-LABEL=[language]}
+P408	{SRC-PROP-DESC=[item]}	{SRC-PROP-DESC=[software, engine], SRC-PROP-LABEL=[software, engine], SUB-ITEM=[software engine]}
+P409	{SRC-PROP-DESC=[National, Library], INST-FACET=[authority control]}	{SRC-PROP-DESC=[number, control], SRC-PROP-LABEL=[NLA, identifier]}
+P41	{SRC-PROP-DESC=[flag]}	{SRC-PROP-DESC=[picture], SRC-PROP-LABEL=[flag, image], SUB-ITEM=[flag]}
+P410	{SRC-PROP-DESC=[person], INST-FACET=[human]}	{SRC-PROP-DESC=[rank, military], SRC-PROP-LABEL=[rank, military], SUB-ITEM=[military rank]}
+P411	{SRC-PROP-DESC=[organization, religious], INST-FACET=[human]}	{SRC-PROP-DESC=[stage], SRC-PROP-LABEL=[canonization, status], SUB-ITEM=[canonization status]}
+P412	{SRC-PROP-DESC=[type, voice], INST-FACET=[human]}	{SRC-PROP-DESC=[voice, type], SRC-PROP-LABEL=[voice, type], SUB-ITEM=[voice type]}
+P413	{SRC-PROP-DESC=[player], INST-FACET=[human], SRC-PROP-LABEL=[team]}	{SRC-PROP-DESC=[position], SRC-PROP-LABEL=[position]}
+P414	{SRC-PROP-DESC=[company]}	{SRC-PROP-DESC=[exchange], SRC-PROP-LABEL=[stock, exchange]}
+P415	{}	{SRC-PROP-DESC=[content, overall, broadcast], SRC-PROP-LABEL=[radio, format]}
+P416	{SRC-PROP-DESC=[quantity, physical]}	{SRC-PROP-DESC=[symbol], SRC-PROP-LABEL=[quantity, symbol]}
+P417	{}	{SRC-PROP-DESC=[patron, saint], SRC-PROP-LABEL=[patron, saint], SUB-ITEM=[patron saint]}
+P418	{SRC-PROP-DESC=[seal]}	{SRC-PROP-DESC=[description], SRC-PROP-LABEL=[seal, description]}
+P421	{SRC-PROP-DESC=[item], INST-FACET=[geographic location]}	{SRC-PROP-DESC=[time, zone], SRC-PROP-LABEL=[time, zone], SUB-ITEM=[time zone]}
+P423	{INST-FACET=[human]}	{SRC-PROP-DESC=[hockey, football, handball, tennis, player], SRC-PROP-LABEL=[handedness, shooting]}
+P424	{SRC-PROP-DESC=[projects], SRC-PROP-LABEL=[code, language]}	{SRC-PROP-DESC=[language, code], SRC-PROP-LABEL=[Wikimedia]}
+P425	{SRC-PROP-DESC=[occupation], SRC-PROP-LABEL=[profession]}	{SRC-PROP-DESC=[activity], SRC-PROP-LABEL=[field]}
+P426	{SRC-PROP-DESC=[aircraft, individual]}	{SRC-PROP-DESC=[registration, identifier], SRC-PROP-LABEL=[aircraft, registration], SUB-ITEM=[aircraft registration]}
+P427	{SRC-PROP-DESC=[genus]}	{SRC-PROP-DESC=[type, genus], SRC-PROP-LABEL=[type, taxonomic], SUB-ITEM=[type]}
+P428	{SRC-PROP-DESC=[citation, author], SRC-PROP-LABEL=[abbreviation, author]}	{SRC-PROP-DESC=[form, standard], SRC-PROP-LABEL=[botanist]}
+P429	{}	{SRC-PROP-DESC=[identifier, administrative], SRC-PROP-LABEL=[dantai, code], SUB-ITEM=[Zenkoku chih? k?ky? dantai k?do]}
+P43	{SRC-PROP-DESC=[father, biological], SUB-PROP=[human], INST-FACET=[human]}	{SRC-PROP-DESC=[husband], SUB-PROP=[kinship], SRC-PROP-LABEL=[stepfather], SUB-ITEM=[stepfather]}
+P432	{SRC-PROP-DESC=[airline], SRC-PROP-LABEL=[airline]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[callsign]}
+P433	{SRC-PROP-DESC=[purpose, reference]}	{SRC-PROP-DESC=[issue], SRC-PROP-LABEL=[issue]}
+P434	{SRC-PROP-DESC=[encyclopedia, MusicBrainz, open, music], INST-FACET=[authority control]}	{SRC-PROP-DESC=[artist, identifier], SRC-PROP-LABEL=[artist, MusicBrainz, ID]}
+P435	{SRC-PROP-DESC=[encyclopedia, MusicBrainz, open, music], INST-FACET=[authority control, work], SRC-PROP-LABEL=[ID, work]}	{SRC-PROP-DESC=[work, identifier], SRC-PROP-LABEL=[MusicBrainz]}
+P436	{SRC-PROP-DESC=[encyclopedia, MusicBrainz, open, music], INST-FACET=[authority control], SRC-PROP-LABEL=[ID, release, group]}	{SRC-PROP-DESC=[release], SRC-PROP-LABEL=[MusicBrainz], SUB-ITEM=[MusicBrainz]}
+P437	{}	{SRC-PROP-DESC=[method], SRC-PROP-LABEL=[distribution]}
+P438	{}	{SRC-PROP-DESC=[inscriptions], SRC-PROP-LABEL=[inscription]}
+P439	{SRC-PROP-DESC=[Germany]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[municipality, German, key]}
+P44	{SRC-PROP-DESC=[mother, biological], SUB-PROP=[human], INST-FACET=[human]}	{SRC-PROP-DESC=[wife], SUB-PROP=[kinship], SRC-PROP-LABEL=[stepmother], SUB-ITEM=[stepmother]}
+P440	{SRC-PROP-DESC=[Germany]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[district, German, key]}
+P442	{SRC-PROP-DESC=[China], SRC-PROP-LABEL=[code, administrative, division]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[China], SUB-ITEM=[Administrative division codes of the People's Republic of China]}
+P443	{SRC-PROP-DESC=[pronunciation]}	{SRC-PROP-DESC=[media, audio], SRC-PROP-LABEL=[pronunciation, audio]}
+P444	{SRC-PROP-DESC=[work, creative]}	{SRC-PROP-DESC=[review, score], SRC-PROP-LABEL=[review, score]}
+P447	{SRC-PROP-DESC=[score, review]}	{SRC-PROP-DESC=[issuer], SRC-PROP-LABEL=[score]}
+P448	{SRC-PROP-DESC=[spacecraft], SRC-PROP-LABEL=[launch, spacecraft]}	{SRC-PROP-DESC=[site, launch, pad], SRC-PROP-LABEL=[location]}
+P449	{SRC-PROP-DESC=[radio]}	{SRC-PROP-DESC=[network], SRC-PROP-LABEL=[network, original]}
+P450	{SRC-PROP-DESC=[member, been], INST-FACET=[human]}	{SRC-PROP-DESC=[space, mission], SRC-PROP-LABEL=[astronaut, mission]}
+P451	{SRC-PROP-DESC=[person], INST-FACET=[human]}	{SRC-PROP-DESC=[someone], SRC-PROP-LABEL=[cohabitant], SUB-ITEM=[cohabitation]}
+P452	{SRC-PROP-DESC=[organization, company], INST-FACET=[organization]}	{SRC-PROP-DESC=[industry], SRC-PROP-LABEL=[industry]}
+P453	{SEE-ALSO=[work], INST-FACET=[qualifier]}	{SRC-PROP-DESC=[role, specific], SRC-PROP-LABEL=[character, role]}
+P454	{SRC-PROP-DESC=[database, Structurae]}	{SRC-PROP-DESC=[identifier]}
+P455	{SRC-PROP-DESC=[database, Emporis]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[Emporis, ID]}
+P457	{SRC-PROP-DESC=[institution]}	{SRC-PROP-DESC=[text], SRC-PROP-LABEL=[text, foundational]}
+P458	{SRC-PROP-DESC=[IMO], SRC-PROP-LABEL=[number, ship]}	{SRC-PROP-DESC=[ship, identifier], SRC-PROP-LABEL=[IMO]}
+P459	{INST-FACET=[qualifier]}	{SRC-PROP-LABEL=[determination, method]}
+P460	{SRC-PROP-DESC=[item]}	{SRC-PROP-DESC=[item]}
+P461	{SRC-PROP-DESC=[opposite], SRC-PROP-LABEL=[opposite]}	{SRC-PROP-DESC=[item], SUB-ITEM=[opposite]}
+P462	{}	{SRC-PROP-DESC=[color], SRC-PROP-LABEL=[color]}
+P463	{SRC-PROP-DESC=[club, specific, organization], INST-FACET=[human], SRC-PROP-LABEL=[member]}	{SRC-PROP-DESC=[part]}
+P464	{SRC-PROP-DESC=[texts, French, official]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[NOR]}
+P465	{SRC-PROP-DESC=[color]}	{SRC-PROP-DESC=[sRGB, hex, triplet, format], SRC-PROP-LABEL=[sRGB, color, hex, triplet]}
+P466	{SRC-PROP-DESC=[building, facility]}	{SRC-PROP-DESC=[person, organization], SRC-PROP-LABEL=[occupant]}
+P467	{}	{}
+P468	{SRC-PROP-DESC=[board, several, games], INST-FACET=[human]}	{SRC-PROP-DESC=[rank, system], SRC-PROP-LABEL=[rank, dan/kyu]}
+P469	{SRC-PROP-DESC=[river], SRC-PROP-LABEL=[river]}	{SRC-PROP-DESC=[lakes], SRC-PROP-LABEL=[lakes]}
+P47	{SRC-PROP-DESC=[water, land]}	{SRC-PROP-DESC=[countries], SRC-PROP-LABEL=[shares]}
+P470	{SRC-PROP-DESC=[Dynasty, ing], INST-FACET=[human], SRC-PROP-LABEL=[register]}	{SRC-PROP-DESC=[Manchu], SRC-PROP-LABEL=[Banner, Eight]}
+P473	{SRC-PROP-DESC=[city]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[dialing, local, code]}
+P474	{SRC-PROP-LABEL=[code]}	{SRC-PROP-DESC=[phone], SRC-PROP-LABEL=[country]}
+P476	{SRC-PROP-DESC=[database, EUR-Lex], SRC-PROP-LABEL=[number]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[CELEX]}
+P477	{SRC-PROP-DESC=[laces, Historic], SEE-ALSO=[cultural heritage], INST-FACET=[cultural heritage], SRC-PROP-LABEL=[identifier]}	{SRC-PROP-DESC=[identifier], SEE-ALSO=[Cultural heritage register of Quebec, Saskatchewan Register of Heritage Property], SRC-PROP-LABEL=[Register, Canadian], SUB-ITEM=[Canadian Register of Historic Places]}
+P478	{SRC-PROP-DESC=[reference]}	{SRC-PROP-DESC=[volume], SRC-PROP-LABEL=[volume]}
+P479	{SRC-PROP-DESC=[software, product]}	{SRC-PROP-DESC=[input, method, device], SRC-PROP-LABEL=[input, device], SUB-ITEM=[input device]}
+P480	{SRC-PROP-DESC=[work, creative], INST-FACET=[work]}	{SRC-PROP-DESC=[FilmAffinity], SRC-PROP-LABEL=[FilmAffinity, identifier], SUB-ITEM=[FilmAffinity]}
+P481	{SRC-PROP-DESC=[heritage, French, cultural], INST-FACET=[cultural heritage]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[identifier, alissy], SUB-ITEM=[Base Palissy]}
+P483	{SRC-PROP-DESC=[composition, musical], INST-FACET=[geographic location]}	{SRC-PROP-DESC=[studio]}
+P484	{SRC-PROP-DESC=[Association, International, Mineralogical], SRC-PROP-LABEL=[sense, broad]}	{SRC-PROP-DESC=[mineral, identifier], SRC-PROP-LABEL=[IMA, Number]}
+P485	{SRC-PROP-DESC=[archives]}	{SRC-PROP-DESC=[institution], SRC-PROP-LABEL=[archives]}
+P486	{SRC-PROP-DESC=[database, MeSH, descriptor]}	{SRC-PROP-DESC=[ID, unique], SRC-PROP-LABEL=[MeSH, ID]}
+P487	{SRC-PROP-DESC=[item], SRC-PROP-LABEL=[character]}	{SRC-PROP-LABEL=[Unicode]}
+P488	{SRC-PROP-DESC=[body, organization, group]}	{SRC-PROP-DESC=[member], SRC-PROP-LABEL=[chairperson]}
+P489	{SRC-PROP-DESC=[symbol, currency], SRC-PROP-LABEL=[description, symbol]}	{SRC-PROP-DESC=[item], SRC-PROP-LABEL=[currency]}
+P490	{SRC-PROP-DESC=[name, its, official]}	{SRC-PROP-DESC=[designation], SRC-PROP-LABEL=[designation, provisional], SUB-ITEM=[Provisional designation of asteroids]}
+P491	{SRC-PROP-DESC=[body, astronomic]}	{SRC-PROP-DESC=[image], SRC-PROP-LABEL=[orbit, diagram]}
+P492	{SRC-PROP-DESC=[diseases]}	{SRC-PROP-DESC=[Inheritance, Mendelian], SRC-PROP-LABEL=[OMIM, ID]}
+P493	{SRC-PROP-DESC=[Version]}	{SRC-PROP-DESC=[ICD, catalogue, codes], SRC-PROP-LABEL=[ICD-9]}
+P494	{SRC-PROP-DESC=[Version]}	{SRC-PROP-DESC=[ICD, catalogue, codes], SRC-PROP-LABEL=[ICD-10]}
+P495	{SRC-PROP-DESC=[item], SEE-ALSO=[human], SRC-PROP-LABEL=[origin]}	{SRC-PROP-DESC=[country], SEE-ALSO=[country, citizenship, constituent country], SRC-PROP-LABEL=[country]}
+P496	{SRC-PROP-DESC=[person], INST-FACET=[authority control]}	{SRC-PROP-DESC=[Open, Research], SRC-PROP-LABEL=[ORCID], SUB-ITEM=[ORCID]}
+P497	{SRC-PROP-DESC=[Database, China, Biographical]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[CBDB, ID]}
+P498	{SRC-PROP-DESC=[currency], SRC-PROP-LABEL=[code, 4217]}	{SRC-PROP-DESC=[ISO], SRC-PROP-LABEL=[ISO]}
+P50	{SRC-PROP-DESC=[work], SUB-PROP=[work], INST-FACET=[human]}	{SRC-PROP-DESC=[creator, main], SUB-PROP=[creator], SRC-PROP-LABEL=[author], SUB-ITEM=[author]}
+P500	{SRC-PROP-DESC=[territory, main, territory, attached], SRC-PROP-LABEL=[exclave]}	{SRC-PROP-DESC=[it, territory, alien]}
+P501	{}	{SRC-PROP-DESC=[territory], SRC-PROP-LABEL=[enclave]}
+P502	{SRC-PROP-DESC=[identifier, HURDAT]}	{SRC-PROP-DESC=['s], SRC-PROP-LABEL=[identifier, HURDAT]}
+P503	{}	{SRC-PROP-DESC=[number], SRC-PROP-LABEL=[ISO, standard]}
+P504	{SRC-PROP-DESC=[ship], INST-FACET=[geographic location]}	{SRC-PROP-DESC=[home, port], SRC-PROP-LABEL=[home, port]}
+P505	{SRC-PROP-DESC=[team, sports]}	{SRC-PROP-DESC=[manager, general], SRC-PROP-LABEL=[manager, general]}
+P506	{}	{SRC-PROP-DESC=[code, systems], SRC-PROP-LABEL=[ISO, 15924], SUB-ITEM=[ISO 15924]}
+P507	{SRC-PROP-DESC=[länskod]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[county, Swedish, code]}
+P508	{SRC-PROP-DESC=[Florence]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[BNCF, Thesaurus]}
+P509	{SRC-PROP-DESC=[death], SEE-ALSO=[death, birth, human], INST-FACET=[death, birth, human], SRC-PROP-LABEL=[death]}	{SRC-PROP-DESC=[cause, immediate], SRC-PROP-LABEL=[cause]}
+P51	{}	{SRC-PROP-DESC=[sound, relevant], SRC-PROP-LABEL=[audio]}
+P511	{SRC-PROP-DESC=[person], INST-FACET=[human]}	{SRC-PROP-DESC=[word, expression], SRC-PROP-LABEL=[prefix, honorific]}
+P512	{SRC-PROP-DESC=[person], INST-FACET=[human]}	{SRC-PROP-DESC=[degree, academic], SRC-PROP-LABEL=[degree, academic], SUB-ITEM=[academic degree]}
+P513	{SRC-PROP-DESC=[DE, RECATED], SEE-ALSO=[human], INST-FACET=[human]}	{SRC-PROP-DESC=[RECATED, DE], SRC-PROP-LABEL=[birth, name]}
+P514	{SRC-PROP-DESC=[units, two]}	{SRC-PROP-DESC=[relation, stratigraphic], SRC-PROP-LABEL=[interleaves]}
+P515	{SRC-PROP-DESC=[measure], SRC-PROP-LABEL=[matter]}	{SRC-PROP-DESC=[state, phase], SRC-PROP-LABEL=[phase], SUB-ITEM=[state of matter]}
+P516	{SRC-PROP-DESC=[power]}	{SRC-PROP-DESC=[equipment, engine], SRC-PROP-LABEL=[powerplant]}
+P517	{SRC-PROP-DESC=[interact, particle]}	{SRC-PROP-DESC=[forces, 4, fundamental], SRC-PROP-LABEL=[interaction]}
+P518	{SRC-PROP-DESC=[claim, valid, is], INST-FACET=[qualifier]}	{SRC-PROP-DESC=[part], SRC-PROP-LABEL=[part]}
+P520	{}	{SRC-PROP-DESC=[weapon, equippable, item], SRC-PROP-LABEL=[armament]}
+P521	{SRC-PROP-DESC=[service, regular, direct]}	{SRC-PROP-DESC=[airport, station], SRC-PROP-LABEL=[service, scheduled, destination]}
+P522	{SRC-PROP-DESC=[satellite], SRC-PROP-LABEL=[orbit]}	{SRC-PROP-DESC=[orbit], SRC-PROP-LABEL=[type], SUB-ITEM=[orbit]}
+P523	{SRC-PROP-DESC=[scale, geologic, time]}	{SRC-PROP-DESC=[start], SRC-PROP-LABEL=[range, temporal, start]}
+P524	{SRC-PROP-DESC=[scale, geologic, time]}	{SRC-PROP-DESC=[end], SRC-PROP-LABEL=[range, temporal, end]}
+P525	{SRC-PROP-DESC=[kommunkod]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[municipality, Swedish, code]}
+P527	{SRC-PROP-DESC=[part]}	{SRC-PROP-LABEL=[part]}
+P528	{SRC-PROP-DESC=[qualifier]}	{SRC-PROP-DESC=[catalogue, name], SRC-PROP-LABEL=[catalog, code]}
+P529	{SRC-PROP-DESC=[airport/airfield/airstrip]}	{SRC-PROP-DESC=[name], SRC-PROP-LABEL=[runway]}
+P53	{INST-FACET=[human]}	{SRC-PROP-DESC=[dynasty, nobility, houses], SRC-PROP-LABEL=[family, noble], SUB-ITEM=[noble family]}
+P530	{SRC-PROP-DESC=[country]}	{SRC-PROP-DESC=[relations, diplomatic], SRC-PROP-LABEL=[relation, diplomatic]}
+P531	{SRC-PROP-DESC=[B]}	{SRC-PROP-DESC=[location], SRC-PROP-LABEL=[mission, diplomatic]}
+P532	{SRC-PROP-DESC=[registry], SRC-PROP-LABEL=[registry]}	{SRC-PROP-DESC=[port], SRC-PROP-LABEL=[port]}
+P533	{SRC-PROP-DESC=[operation, military]}	{SRC-PROP-DESC=[target], SRC-PROP-LABEL=[target]}
+P534	{}	{SRC-PROP-DESC=[color], SRC-PROP-LABEL=[streak, color]}
+P535	{SRC-PROP-DESC=[Grave], INST-FACET=[death, birth, human]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[Grave, ID], SUB-ITEM=[Find a Grave]}
+P536	{}	{SRC-PROP-DESC=[tennis, male, player, identifier], SRC-PROP-LABEL=[ID]}
+P537	{SRC-PROP-DESC=[forms, crystal]}	{SRC-PROP-DESC=[type]}
+P538	{SRC-PROP-DESC=[forms, mineral]}	{SRC-PROP-DESC=[type]}
+P539	{SRC-PROP-DESC=[culture]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[Museofile]}
+P54	{SUB-PROP=[human], INST-FACET=[human], SRC-PROP-LABEL=[team, sports]}	{SRC-PROP-DESC=[sports, teams], SRC-PROP-LABEL=[member]}
+P541	{SRC-PROP-DESC=[election, holder, next, determine]}	{SRC-PROP-DESC=[title, office], SRC-PROP-LABEL=[office]}
+P542	{SRC-PROP-DESC=[event]}	{SRC-PROP-DESC=[person]}
+P543	{SRC-PROP-DESC=[oath]}	{SRC-PROP-DESC=[person], SRC-PROP-LABEL=[oath]}
+P545	{SRC-PROP-DESC=[torch]}	{SRC-PROP-DESC=[person], SRC-PROP-LABEL=[torch]}
+P546	{SRC-PROP-DESC=[dock]}	{SRC-PROP-DESC=[docking, port], SRC-PROP-LABEL=[docking, port]}
+P547	{}	{}
+P548	{SRC-PROP-DESC=[version], INST-FACET=[qualifier]}	{SRC-PROP-DESC=[type], SRC-PROP-LABEL=[version, type]}
+P549	{SRC-PROP-DESC=[roject, Mathematics, Genealogy]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[Mathematics, Genealogy, roject, identifier]}
+P550	{SRC-PROP-DESC=[person], INST-FACET=[human]}	{SRC-PROP-DESC=[order, chivalric], SRC-PROP-LABEL=[order, chivalric]}
+P551	{SRC-PROP-DESC=[person, resident, been], INST-FACET=[human]}	{SRC-PROP-DESC=[place], SRC-PROP-LABEL=[residence]}
+P552	{SRC-PROP-DESC=[person], INST-FACET=[human]}	{SRC-PROP-DESC=[handedness], SRC-PROP-LABEL=[handedness]}
+P553	{SRC-PROP-DESC=[person, organization, it, disclosed]}	{SRC-PROP-DESC=[website], SRC-PROP-LABEL=[website, account]}
+P554	{SRC-PROP-DESC=[person, organization, account, has], INST-FACET=[qualifier]}	{SRC-PROP-DESC=[website], SRC-PROP-LABEL=[website, username]}
+P555	{SRC-PROP-DESC=[tournaments], SRC-PROP-LABEL=[record]}	{SRC-PROP-DESC=[win/lose, balance]}
+P556	{SRC-PROP-DESC=[coumpounds, crystal]}	{SRC-PROP-DESC=[type], SRC-PROP-LABEL=[crystal, system]}
+P557	{SRC-PROP-DESC=[Diseases, Database]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[DiseasesDB]}
+P558	{SRC-PROP-DESC=[measurement]}	{SRC-PROP-DESC=[symbol], SRC-PROP-LABEL=[unit, symbol]}
+P559	{}	{SRC-PROP-DESC=[feature], SRC-PROP-LABEL=[terminus]}
+P560	{SRC-PROP-DESC=[something]}	{SRC-PROP-DESC=[identifier, directional], SRC-PROP-LABEL=[direction]}
+P561	{SRC-PROP-DESC=[ASCC], SRC-PROP-LABEL=[name]}	{SRC-PROP-DESC=[reporting, official, name], SRC-PROP-LABEL=[NATO]}
+P562	{SRC-PROP-DESC=[currency]}	{SRC-PROP-DESC=[bank, central], SRC-PROP-LABEL=[bank/issuer, central]}
+P563	{SRC-PROP-DESC=[Oncology]}	{SRC-PROP-DESC=[International], SRC-PROP-LABEL=[ICD-O]}
+P564	{SRC-PROP-DESC=[tournaments, singles], SRC-PROP-LABEL=[record]}	{SRC-PROP-DESC=[win/lose, balance], SRC-PROP-LABEL=[singles]}
+P565	{SRC-PROP-DESC=[mineral, crystal]}	{SRC-PROP-DESC=[proportions], SRC-PROP-LABEL=[crystal, habit]}
+P566	{SRC-PROP-DESC=[combination, new, name]}	{SRC-PROP-DESC=[name, legitimate], SRC-PROP-LABEL=[basionym], SUB-ITEM=[basionym]}
+P567	{}	{SRC-PROP-DESC=[item], SRC-PROP-LABEL=[hangingwall]}
+P568	{SRC-PROP-DESC=[footwall]}	{SRC-PROP-DESC=[item], SRC-PROP-LABEL=[footwall]}
+P569	{SUB-PROP=[qualifier], EQUI-PROP=[Person], INST-FACET=[death, birth, human], SRC-PROP-LABEL=[birth]}	{SRC-PROP-DESC=[date], EQUI-PROP2=[Date], SRC-PROP-LABEL=[date]}
+P57	{SRC-PROP-DESC=[video, game], INST-FACET=[work]}	{SRC-PROP-DESC=[director], SRC-PROP-LABEL=[director], SUB-ITEM=[director]}
+P570	{SUB-PROP=[qualifier], EQUI-PROP=[Person], INST-FACET=[death, birth], SRC-PROP-LABEL=[death]}	{SRC-PROP-DESC=[date], EQUI-PROP2=[Date], SRC-PROP-LABEL=[date], SUB-ITEM=[date of death]}
+P571	{SRC-PROP-DESC=[organization/object], SUB-PROP=[qualifier], INST-FACET=[organization]}	{SRC-PROP-DESC=[date, point, time], SRC-PROP-LABEL=[inception]}
+P574	{SRC-PROP-DESC=[taxon], INST-FACET=[qualifier], SRC-PROP-LABEL=[publication, taxon, name]}	{SRC-PROP-DESC=[date], SRC-PROP-LABEL=[date]}
+P575	{SRC-PROP-DESC=[item], SUB-PROP=[qualifier], SRC-PROP-LABEL=[discovery]}	{SRC-PROP-DESC=[date, point, time], SRC-PROP-LABEL=[time]}
+P576	{SRC-PROP-DESC=[organisation], SUB-PROP=[qualifier], INST-FACET=[organization]}	{SRC-PROP-DESC=[date, point, time]}
+P577	{SRC-PROP-DESC=[work], INST-FACET=[work]}	{SRC-PROP-DESC=[date, point, time], SRC-PROP-LABEL=[publication]}
+P578	{SRC-PROP-DESC=[TimeValue]}	{SRC-PROP-DESC=[Sandbox], SRC-PROP-LABEL=[Sandbox-TimeValue]}
+P579	{SRC-PROP-DESC=[IMA], SRC-PROP-LABEL=[rank]}	{SRC-PROP-DESC=[status], SRC-PROP-LABEL=[IMA]}
+P58	{SRC-PROP-DESC=[work], INST-FACET=[work]}	{SRC-PROP-DESC=[author], SRC-PROP-LABEL=[screenwriter], SUB-ITEM=[screenwriter]}
+P580	{SRC-PROP-DESC=[item], INST-FACET=[qualifier]}	{SRC-PROP-DESC=[qualifier, time, used], SRC-PROP-LABEL=[time]}
+P582	{INST-FACET=[qualifier]}	{SRC-PROP-LABEL=[end, time]}
+P585	{SEE-ALSO=[qualifier], SRC-PROP-LABEL=[time]}	{SRC-PROP-LABEL=[point]}
+P586	{SRC-PROP-DESC=[Index, International, lant, Names], SRC-PROP-LABEL=[author, ID]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[I], SUB-ITEM=[International Plant Names Index]}
+P587	{SRC-PROP-DESC=[station, ship]}	{SRC-PROP-DESC=[Maritime, Mobile, Service], SRC-PROP-LABEL=[MMSI]}
+P588	{SRC-PROP-DESC=[energy, excess, thermal]}	{SRC-PROP-DESC=[substance], SRC-PROP-LABEL=[coolant]}
+P589	{}	{SRC-PROP-DESC=[crystal, subdivision], SRC-PROP-LABEL=[point, group]}
+P59	{SRC-PROP-DESC=[part, is]}	{SRC-PROP-DESC=[area], SRC-PROP-LABEL=[constellation], SUB-ITEM=[constellation]}
+P590	{SRC-PROP-DESC=[US]}	{SRC-PROP-DESC=[identification, official, code], SRC-PROP-LABEL=[GNIS, ID]}
+P591	{SRC-PROP-DESC=[number], SRC-PROP-LABEL=[number]}	{SRC-PROP-DESC=[Enzyme, Commission], SRC-PROP-LABEL=[EC]}
+P592	{SRC-PROP-DESC=[properties, drug-like]}	{SRC-PROP-DESC=[chemical, database], SRC-PROP-LABEL=[ChEMBL, ID]}
+P593	{}	{SRC-PROP-DESC=[identification], SRC-PROP-LABEL=[HomoloGene, ID]}
+P594	{SRC-PROP-DESC=[database, Ensembl]}	{SRC-PROP-DESC=[gene, identifier], SRC-PROP-LABEL=[Ensembl, Gene, ID]}
+P595	{SRC-PROP-DESC=[databank, harmacology]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[IU, HAR, ID]}
+P597	{SRC-PROP-DESC=[identifier, female, player]}	{SRC-PROP-DESC=[WTA], SRC-PROP-LABEL=[WTA, ID]}
+P598	{SRC-PROP-DESC=[persons], INST-FACET=[human], SRC-PROP-LABEL=[commander]}	{SRC-PROP-DESC=[they]}
+P599	{}	{SRC-PROP-DESC=[ITF, tennis, player, identifier], SRC-PROP-LABEL=[ITF, ID]}
+P6	{SRC-PROP-DESC=[body, other, governmental], SRC-PROP-LABEL=[government]}	{SRC-PROP-DESC=[head], SEE-ALSO=[head of state], SRC-PROP-LABEL=[head], SUB-ITEM=[head of government]}
+P600	{SRC-PROP-DESC=[WineH]}	{SRC-PROP-DESC=[Application-ID], SRC-PROP-LABEL=[Wine, AppDB-ID]}
+P604	{SRC-PROP-DESC=[organizations, health-related], SRC-PROP-LABEL=[ID, lus]}	{SRC-PROP-DESC=[health, information], SRC-PROP-LABEL=[Medline]}
+P605	{SRC-PROP-DESC=[region]}	{SRC-PROP-DESC=[NUTS-Code], SRC-PROP-LABEL=[NUTS], SUB-ITEM=[Nomenclature of Territorial Units for Statistics]}
+P606	{SRC-PROP-DESC=[aircraft]}	{SRC-PROP-DESC=[date, point, time], SRC-PROP-LABEL=[flight]}
+P607	{SRC-PROP-DESC=[person, item]}	{SRC-PROP-DESC=[battles, wars], SRC-PROP-LABEL=[conflict]}
+P608	{SRC-PROP-DESC=[item]}	{SRC-PROP-DESC=[exhibitions], SRC-PROP-LABEL=[exhibition, history]}
+P609	{SRC-PROP-DESC=[feature, linear]}	{SRC-PROP-DESC=[location], SRC-PROP-LABEL=[terminus, location]}
+P61	{}	{SRC-PROP-LABEL=[discoverer, inventor], SUB-ITEM=[innovator, inventor, discoverer]}
+P610	{SRC-PROP-DESC=[area, country, region, city, town], INST-FACET=[geographic location]}	{SRC-PROP-DESC=[point], SRC-PROP-LABEL=[point]}
+P611	{SRC-PROP-DESC=[monastery]}	{SRC-PROP-DESC=[order, monks], SRC-PROP-LABEL=[order, religious]}
+P612	{SRC-PROP-DESC=[house, mother]}	{SRC-PROP-DESC=[name], SRC-PROP-LABEL=[mother, house]}
+P613	{SRC-PROP-LABEL=[reference, grid]}	{SRC-PROP-DESC=[grid, location, reference], SRC-PROP-LABEL=[OS]}
+P617	{}	{SRC-PROP-DESC=[number], SRC-PROP-LABEL=[yard, number]}
+P618	{SRC-PROP-LABEL=[energy]}	{SRC-PROP-DESC=[uses], SRC-PROP-LABEL=[source]}
+P619	{SRC-PROP-DESC=[UTC], SRC-PROP-LABEL=[launch, spacecraft]}	{SRC-PROP-DESC=[date, time], SRC-PROP-LABEL=[time]}
+P620	{SRC-PROP-DESC=[UTC], SRC-PROP-LABEL=[landing, spacecraft]}	{SRC-PROP-DESC=[date, time], SRC-PROP-LABEL=[time]}
+P621	{SRC-PROP-DESC=[UTC], SRC-PROP-LABEL=[decay, spacecraft, orbit]}	{SRC-PROP-DESC=[date, time], SRC-PROP-LABEL=[time]}
+P622	{}	{SRC-PROP-LABEL=[spacecraft, docking/undocking]}
+P624	{SRC-PROP-DESC=[missile]}	{SRC-PROP-DESC=[guidance, system], SRC-PROP-LABEL=[guidance, system]}
+P625	{EQUI-PROP=[Place], SEE-ALSO=[geographic location], INST-FACET=[geographic location]}	{SRC-PROP-DESC=[geocoordinates], SEE-ALSO=[geographic location], EQUI-PROP2=[GeoCoordinates GeoShape], SRC-PROP-LABEL=[location, coordinate]}
+P626	{SRC-PROP-DESC=[GeoCoordinateValue]}	{SRC-PROP-DESC=[Sandbox], SRC-PROP-LABEL=[Sandbox-GeoCoordinateValue]}
+P627	{SRC-PROP-DESC=[status, IUCN, conservation]}	{SRC-PROP-DESC=[source], SRC-PROP-LABEL=[IUCN-ID], SUB-ITEM=[International Union for Conservation of Nature]}
+P628	{SRC-PROP-DESC=[legal]}	{SRC-PROP-DESC=[number, food], SRC-PROP-LABEL=[E, number], SUB-ITEM=[E number, food additive]}
+P629	{SRC-PROP-DESC=[text], SRC-PROP-LABEL=[edition, translation]}	{SRC-PROP-DESC=[edition, translation], SRC-PROP-LABEL=[translation, edition]}
+P630	{SRC-PROP-DESC=[aris], SRC-PROP-LABEL=[code, digital]}	{SRC-PROP-DESC=[identifier, digital], SRC-PROP-LABEL=[city, aris]}
+P631	{SRC-PROP-DESC=[structure, building]}	{SRC-PROP-DESC=[person, group], SRC-PROP-LABEL=[engineer, structural], SUB-ITEM=[structural engineer]}
+P632	{INST-FACET=[cultural heritage], SRC-PROP-LABEL=[number, Belarus, reference]}	{SRC-PROP-LABEL=[properties, cultural]}
+P633	{SRC-PROP-DESC=[uebec], SEE-ALSO=[cultural heritage], INST-FACET=[cultural heritage], SRC-PROP-LABEL=[identifier, uébec]}	{SRC-PROP-DESC=[Identification, number], SEE-ALSO=[Canadian Register of Historic Places], SRC-PROP-LABEL=[Répertoire, du, patrimoine, culturel], SUB-ITEM=[Cultural heritage register of Quebec]}
+P634	{SRC-PROP-DESC=[team, sports]}	{SRC-PROP-DESC=[captain], SRC-PROP-LABEL=[captain]}
+P635	{SRC-PROP-DESC=[Italy]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[ISTAT, ID]}
+P636	{SRC-PROP-DESC=[drug, fluid, poison, body, taken], SRC-PROP-LABEL=[administration]}	{SRC-PROP-DESC=[path], SRC-PROP-LABEL=[route]}
+P637	{SRC-PROP-LABEL=[ID, rotein]}	{SRC-PROP-DESC=[protein, Identifier], SRC-PROP-LABEL=[RefSeq]}
+P638	{SRC-PROP-DESC=[database, DB]}	{SRC-PROP-DESC=[gene, entry], SRC-PROP-LABEL=[DB, ID]}
+P639	{SRC-PROP-LABEL=[ID, RNA]}	{SRC-PROP-DESC=[RNA, Identifier], SRC-PROP-LABEL=[RefSeq]}
+P640	{SRC-PROP-DESC=[database, Léonore]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[Léonore, ID], SUB-ITEM=[Léonore database]}
+P641	{INST-FACET=[organization, human]}	{SRC-PROP-DESC=[entity], SRC-PROP-LABEL=[sport], SUB-ITEM=[type of sport]}
+P642	{INST-FACET=[qualifier]}	{}
+P644	{SRC-PROP-DESC=[coordinate]}	{SRC-PROP-LABEL=[start, genomic]}
+P645	{SRC-PROP-DESC=[coordinate]}	{SRC-PROP-LABEL=[end, genomic]}
+P646	{SRC-PROP-DESC=[page, equivalent], INST-FACET=[authority control], SRC-PROP-LABEL=[identifier]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[Freebase], SUB-ITEM=[Freebase identifier]}
+P647	{INST-FACET=[human]}	{SRC-PROP-DESC=[player]}
+P648	{SRC-PROP-DESC=[authors, editions]}	{SRC-PROP-DESC=[identifier, numeric], SRC-PROP-LABEL=[Library, identifier]}
+P649	{INST-FACET=[cultural heritage], SRC-PROP-LABEL=[number, reference]}	{SRC-PROP-DESC=[National, Register, Historic], SRC-PROP-LABEL=[NRH]}
+P65	{SRC-PROP-DESC=[astronomical], SRC-PROP-LABEL=[discovery, astronomical]}	{SRC-PROP-DESC=[place], SRC-PROP-LABEL=[site]}
+P650	{SRC-PROP-DESC=[database, RKDartists]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[RKDartists]}
+P651	{SRC-PROP-DESC=[Nederland], SRC-PROP-LABEL=[number, ortaal]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[Biografisch]}
+P652	{SRC-PROP-DESC=[Identifier, Ingredient]}	{SRC-PROP-DESC=[Ingredient, Identifier]}
+P653	{SRC-PROP-DESC=[ubMed, Health, website]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[ubMed, Health]}
+P654	{INST-FACET=[qualifier], SRC-PROP-LABEL=[location]}	{SRC-PROP-DESC=[qualifier, geographical], SRC-PROP-LABEL=[direction]}
+P655	{}	{SRC-PROP-DESC=[people, organisation], SRC-PROP-LABEL=[translator]}
+P656	{SRC-PROP-DESC=[Reference, Sequence, identifier], INST-FACET=[qualifier]}	{SRC-PROP-DESC=[qualifier], SRC-PROP-LABEL=[RefSeq]}
+P657	{SRC-PROP-DESC=[Substances, Chemical]}	{SRC-PROP-DESC=[chemical, identifier], SRC-PROP-LABEL=[RTECS, number], SUB-ITEM=[Registry of Toxic Effects of Chemical Substances]}
+P658	{SRC-PROP-DESC=[item]}	{SRC-PROP-DESC=[songs], SRC-PROP-LABEL=[tracklist]}
+P659	{SRC-PROP-DESC=[genome, assembly]}	{SRC-PROP-LABEL=[GenLoc, assembly]}
+P66	{INST-FACET=[human, geographic location]}	{SRC-PROP-DESC=[place], SRC-PROP-LABEL=[home, ancestral], SUB-ITEM=[ancestral home]}
+P660	{SRC-PROP-LABEL=[classification]}	{SRC-PROP-DESC=[Enzyme, Commission], SRC-PROP-LABEL=[EC]}
+P661	{SRC-PROP-DESC=[Royal, Society]}	{SRC-PROP-DESC=[chemical, free, database], SRC-PROP-LABEL=[ChemSpider, ID]}
+P662	{SRC-PROP-DESC=[assays, biological]}	{SRC-PROP-DESC=[database], SRC-PROP-LABEL=[ubChem, ID], SUB-ITEM=[PubChem]}
+P663	{SRC-PROP-DESC=[Diagnostic, Statistical, Manual]}	{SRC-PROP-DESC=[classification], SRC-PROP-LABEL=[DSM]}
+P664	{SRC-PROP-DESC=[event]}	{SRC-PROP-DESC=[person, institution], SRC-PROP-LABEL=[organizer]}
+P665	{SRC-PROP-DESC=[genomes]}	{SRC-PROP-DESC=[databases], SRC-PROP-LABEL=[KEGG, ID]}
+P667	{SRC-PROP-DESC=[encounters, primary, care], SRC-PROP-LABEL=[ID, 2]}	{SRC-PROP-DESC=[classification, method], SRC-PROP-LABEL=[IC, C]}
+P668	{SRC-PROP-DESC=[diseases, specific, gene-releated]}	{SRC-PROP-DESC=[collection, peer-reviewed], SRC-PROP-LABEL=[GeneReviews, ID]}
+P669	{SRC-PROP-DESC=[item, located, is], SUB-PROP=[geographic location], SEE-ALSO=[geographic location], INST-FACET=[geographic location]}	{SRC-PROP-DESC=[street, road], SUB-PROP=[geographic location], SEE-ALSO=[geographic location], SRC-PROP-LABEL=[street]}
+P670	{SRC-PROP-DESC=[address, street], INST-FACET=[qualifier]}	{SRC-PROP-DESC=[number], SRC-PROP-LABEL=[street, number]}
+P671	{SRC-PROP-DESC=[database, Mouse, Genome, Informatics], SRC-PROP-LABEL=[ID, Genome, Informatics]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[Mouse]}
+P672	{SRC-PROP-DESC=[index, thesaurus]}	{SRC-PROP-DESC=[Medical, Headings, codes], SRC-PROP-LABEL=[MeSH, Code]}
+P673	{SRC-PROP-DESC=[base]}	{SRC-PROP-DESC=[knowledge, online, clinical, medical], SRC-PROP-LABEL=[eMedicine]}
+P674	{SRC-PROP-DESC=[item], INST-FACET=[work]}	{SRC-PROP-DESC=[characters], SRC-PROP-LABEL=[characters]}
+P675	{SRC-PROP-DESC=[Google], SRC-PROP-LABEL=[identifier]}	{SRC-PROP-DESC=[identifier, access, gives], SRC-PROP-LABEL=[Google, Books]}
+P676	{SRC-PROP-DESC=[lyrics, song]}	{SRC-PROP-DESC=[author], SRC-PROP-LABEL=[lyrics]}
+P677	{SRC-PROP-DESC=[trees, protected, areas], SRC-PROP-LABEL=[code]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[ÚSO]}
+P678	{SRC-PROP-DESC=[ranks, intermediate, sedis, incertae, are], INST-FACET=[qualifier]}	{SRC-PROP-DESC=[qualifier, mark], SRC-PROP-LABEL=[sedis, incertae]}
+P679	{SRC-PROP-DESC=[database, GESTIS]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[ZVG, number]}
+P680	{SRC-PROP-DESC=[function, annotations]}	{SRC-PROP-DESC=[gene, ontology], SRC-PROP-LABEL=[function, molecular]}
+P681	{SRC-PROP-DESC=[item, present, is]}	{SRC-PROP-DESC=[component], SRC-PROP-LABEL=[cell, component]}
+P682	{}	{SRC-PROP-DESC=[process, biological], SRC-PROP-LABEL=[process, biological]}
+P683	{SRC-PROP-DESC=[compounds]}	{SRC-PROP-DESC=[database, ontology, molecular], SRC-PROP-LABEL=[ChEBI, ID]}
+P684	{SRC-PROP-DESC=[species]}	{SRC-PROP-DESC=[gene, orthologous], SRC-PROP-LABEL=[ortholog]}
+P685	{SRC-PROP-DESC=[Information, Biotechnology]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[NCBI, Taxonomy, ID], SUB-ITEM=[National Center for Biotechnology Information]}
+P686	{SRC-PROP-DESC=[Ontology, Gene]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[Gene, Ontology, ID]}
+P687	{SRC-PROP-DESC=[Library, Biodiversity, Heritage], SRC-PROP-LABEL=[Id, age]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[BHL], SUB-ITEM=[Biodiversity Heritage Library]}
+P688	{SRC-PROP-DESC=[gene]}	{SRC-PROP-DESC=[product]}
+P689	{SRC-PROP-DESC=[condition, disease]}	{SRC-PROP-DESC=[type, organism]}
+P69	{INST-FACET=[human]}	{SRC-PROP-DESC=[institution, educational], SUB-ITEM=[educational institution]}
+P690	{SRC-PROP-DESC=[crystals]}	{SRC-PROP-DESC=[symmetry, classification], SRC-PROP-LABEL=[space, group], SUB-ITEM=[space group]}
+P691	{SRC-PROP-DESC=[Republic, Czech], INST-FACET=[authority control]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[NKC, identifier]}
+P692	{SRC-PROP-DESC=[GeneAtlas, expression, pattern], SRC-PROP-LABEL=[Image]}	{SRC-PROP-DESC=[image], SRC-PROP-LABEL=[Gene, Atlas]}
+P693	{SRC-PROP-DESC=[crystals, minerals]}	{SRC-PROP-DESC=[way], SRC-PROP-LABEL=[cleavage]}
+P694	{SRC-PROP-DESC=[name]}	{SRC-PROP-DESC=[replacement, name], SRC-PROP-LABEL=[synonym]}
+P695	{SRC-PROP-DESC=[substances, hazardous, articles], SRC-PROP-LABEL=[number]}	{SRC-PROP-DESC=[numbers, four-digit, international], SRC-PROP-LABEL=[UN], SUB-ITEM=[UN number]}
+P696	{SRC-PROP-DESC=[database, Neurolex]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[Neurolex, ID]}
+P697	{INST-FACET=[qualifier]}	{SRC-PROP-DESC=[person], SRC-PROP-LABEL=[author]}
+P698	{SRC-PROP-DESC=[articles/abstracts, journal]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[ID, ubMed], SUB-ITEM=[PubMed ID]}
+P699	{SRC-PROP-DESC=[database, Disease, Ontology], SRC-PROP-LABEL=[ID, Ontology]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[Disease]}
+P7	{SRC-PROP-DESC=[brother], SUB-PROP=[human], INST-FACET=[human]}	{SUB-PROP=[kinship], SRC-PROP-LABEL=[brother], SUB-ITEM=[brother]}
+P700	{SRC-PROP-DESC=[hazards]}	{SRC-PROP-DESC=[code], SRC-PROP-LABEL=[Kemler, ID]}
+P701	{}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[Dodis], SUB-ITEM=[Diplomatic Documents of Switzerland]}
+P702	{SRC-PROP-DESC=[gene]}	{SRC-PROP-DESC=[gene, product]}
+P703	{SRC-PROP-DESC=[molecule, substance]}	{SRC-PROP-DESC=[taxon]}
+P704	{SRC-PROP-DESC=[Ensembl, database]}	{SRC-PROP-DESC=[transcript, ID], SRC-PROP-LABEL=[Ensembl, Transcript, ID]}
+P705	{SRC-PROP-DESC=[Ensembl, database]}	{SRC-PROP-DESC=[protein, ID], SRC-PROP-LABEL=[rotein, Ensembl, ID]}
+P706	{SRC-PROP-DESC=[water], SUB-PROP=[geographic location], SEE-ALSO=[geographic location], INST-FACET=[geographic location]}	{SRC-PROP-DESC=[landform], SUB-PROP=[geographic location], SEE-ALSO=[body of water, administrative territorial entity, geographic location], SRC-PROP-LABEL=[terrain, feature], SUB-ITEM=[landform]}
+P707	{SRC-PROP-DESC=[satellite, multiple-production, spacecraft]}	{SRC-PROP-DESC=[model, general], SRC-PROP-LABEL=[satellite, bus]}
+P708	{SRC-PROP-DESC=[element]}	{SRC-PROP-DESC=[division, administrative], SRC-PROP-LABEL=[diocese]}
+P709	{SRC-PROP-DESC=[database, Historic, Scotland], INST-FACET=[cultural heritage], SRC-PROP-LABEL=[ID, Scotland]}	{SRC-PROP-DESC=[Building, ID], SRC-PROP-LABEL=[Scotland, ID], SUB-ITEM=[Historic Scotland]}
+P710	{SRC-PROP-DESC=[part]}	{SRC-PROP-DESC=[person, group, people], INVS-PROP=[human], SRC-PROP-LABEL=[participant]}
+P711	{SRC-PROP-DESC=[edition], SRC-PROP-LABEL=[edition, 8th]}	{SRC-PROP-DESC=[mineral], SRC-PROP-LABEL=[Strunz]}
+P712	{SRC-PROP-DESC=[file, DF, format], SRC-PROP-LABEL=[edition, 9th]}	{SRC-PROP-DESC=[mineral, classification], SRC-PROP-LABEL=[Nickel-Strunz]}
+P713	{SRC-PROP-DESC=[version, 10], SRC-PROP-LABEL=[edition, 10th]}	{SRC-PROP-DESC=[mineral, classification], SRC-PROP-LABEL=[Nickel-Strunz]}
+P714	{SRC-PROP-DESC=[edition, 8th], SRC-PROP-LABEL=[edition, 8th]}	{SRC-PROP-DESC=[mineral, classification], SRC-PROP-LABEL=[Dana]}
+P715	{SRC-PROP-DESC=[Alberta]}	{SRC-PROP-DESC=[bioinformatics, cheminformatics], SRC-PROP-LABEL=[Drugbank, ID]}
+P716	{SRC-PROP-DESC=[bodies, small, Solar, System], SRC-PROP-LABEL=[identifier]}	{SRC-PROP-DESC=[astronomy, database], SRC-PROP-LABEL=[J, L, Small-Body, Database]}
+P717	{SRC-PROP-DESC=[comets, minor, planets], SRC-PROP-LABEL=[code, observatory]}	{SRC-PROP-DESC=[data, observational], SRC-PROP-LABEL=[lanet, Minor]}
+P718	{SRC-PROP-DESC=[database, Canmore], INST-FACET=[cultural heritage]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[Canmore, ID]}
+P720	{SRC-PROP-DESC=[albedo], SRC-PROP-LABEL=[type, spectral]}	{SRC-PROP-DESC=[classifications, spectral], SRC-PROP-LABEL=[asteroid], SUB-ITEM=[asteroid spectral type]}
+P721	{SRC-PROP-DESC=[Russia], SRC-PROP-LABEL=[identifier]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[OKATO]}
+P722	{SRC-PROP-DESC=[railway, stations], SRC-PROP-LABEL=[code, station]}	{SRC-PROP-DESC=[UIC, ids], SRC-PROP-LABEL=[UIC]}
+P723	{SRC-PROP-DESC=[authors, Dutch, language]}	{SRC-PROP-DESC=[reference], SRC-PROP-LABEL=[DBNL, ID], SUB-ITEM=[Digital Library for Dutch Literature]}
+P724	{SRC-PROP-DESC=[archive.org]}	{SRC-PROP-DESC=[ID, unique], SRC-PROP-LABEL=[Internet, Archive, ID]}
+P725	{SRC-PROP-DESC=[role], SEE-ALSO=[work, qualifier]}	{SRC-PROP-DESC=[person], SRC-PROP-LABEL=[voice, actor]}
+P726	{SRC-PROP-DESC=[office]}	{SRC-PROP-DESC=[person, party], SRC-PROP-LABEL=[candidate]}
+P727	{SRC-PROP-DESC=[Europe]}	{SRC-PROP-DESC=[interface, millions], SRC-PROP-LABEL=[Europeana, ID]}
+P728	{SRC-PROP-LABEL=[statement, hazard]}	{SRC-PROP-DESC=[system, assessment, chemicals], SRC-PROP-LABEL=[GHS]}
+P729	{SRC-PROP-DESC=[piece, class, service, operational, entered], SUB-PROP=[qualifier]}	{SRC-PROP-DESC=[date, point, time], SRC-PROP-LABEL=[service, entry]}
+P730	{SRC-PROP-DESC=[piece, class, service, operational, retired]}	{SRC-PROP-DESC=[date, point, time], SRC-PROP-LABEL=[service, retirement]}
+P731	{}	{SRC-PROP-DESC=[database, Lithostratigraphic, Germany], SRC-PROP-LABEL=[Litholex, ID]}
+P732	{SRC-PROP-DESC=[Survey, British, Geological]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[BGS, Lexicon, ID]}
+P733	{SRC-PROP-DESC=[Netherlands]}	{SRC-PROP-DESC=[database], SRC-PROP-LABEL=[DINOloket]}
+P734	{SRC-PROP-DESC=[person], EQUI-PROP=[Person], INST-FACET=[human]}	{SRC-PROP-DESC=[surname, last, name], EQUI-PROP2=[Text], SRC-PROP-LABEL=[surname], SUB-ITEM=[family name]}
+P735	{SRC-PROP-DESC=[person], INST-FACET=[human]}	{SRC-PROP-DESC=[name, first], SRC-PROP-LABEL=[name], SUB-ITEM=[given name]}
+P736	{}	{SRC-PROP-DESC=[name, person], SRC-PROP-LABEL=[cover, artist]}
+P737	{SRC-PROP-DESC=[person, idea, etc.]}	{SRC-PROP-DESC=[person, other, idea]}
+P738	{SRC-PROP-DESC=[person, other, idea], SRC-PROP-LABEL=[influence]}	{}
+P739	{SRC-PROP-DESC=[weapon]}	{SRC-PROP-DESC=[cartridge, other, ammunition], SRC-PROP-LABEL=[ammunition]}
+P740	{SRC-PROP-DESC=[group, organization], INST-FACET=[organization], SRC-PROP-LABEL=[formation]}	{SRC-PROP-DESC=[location], SRC-PROP-LABEL=[location]}
+P741	{SRC-PROP-DESC=[tennis], INST-FACET=[human]}	{SRC-PROP-DESC=[hand], SRC-PROP-LABEL=[hand]}
+P742	{SRC-PROP-DESC=[person], INST-FACET=[human]}	{SRC-PROP-DESC=[someone, alias, used], SRC-PROP-LABEL=[pseudonym], SUB-ITEM=[pseudonym]}
+P744	{SRC-PROP-DESC=[elements, similar, proper, orbital]}	{SRC-PROP-DESC=[population, asteroids], SRC-PROP-LABEL=[asteroid, family], SUB-ITEM=[asteroid family]}
+P745	{SRC-PROP-LABEL=[ID, Biography]}	{SRC-PROP-LABEL=[Bibliography, Low, German]}
+P746	{SRC-PROP-DESC=[alive], INST-FACET=[death, birth, human], SRC-PROP-LABEL=[disappearance]}	{SRC-PROP-DESC=[person], SRC-PROP-LABEL=[date]}
+P747	{SRC-PROP-DESC=[edition]}	{SRC-PROP-LABEL=[edition]}
+P748	{SRC-PROP-DESC=[qualifier], INST-FACET=[qualifier]}	{SRC-PROP-DESC=[person]}
+P749	{SRC-PROP-DESC=[subsidiaries], INST-FACET=[organization]}	{SRC-PROP-DESC=[parent], SUB-PROP=[proprietor], INVS-PROP=[organization], SRC-PROP-LABEL=[parent, company]}
+P750	{SRC-PROP-DESC=[work, creative]}	{SRC-PROP-DESC=[distributor], SRC-PROP-LABEL=[distributor]}
+P751	{}	{SRC-PROP-LABEL=[feature]}
+P756	{}	{SRC-PROP-LABEL=[feature]}
+P757	{SRC-PROP-DESC=[UNESCO], INST-FACET=[cultural heritage]}	{SRC-PROP-DESC=[site, reference, number], SRC-PROP-LABEL=[World, Heritage, Site, id]}
+P758	{SRC-PROP-DESC=[Riksantikvaren], INST-FACET=[cultural heritage]}	{SRC-PROP-DESC=[heritage, Norwegian, property], SRC-PROP-LABEL=[identifier, Kulturminne]}
+P759	{SRC-PROP-DESC=[laces, Historic], INST-FACET=[cultural heritage], SRC-PROP-LABEL=[identifier]}	{SRC-PROP-DESC=[identification, number], SRC-PROP-LABEL=[Alberta, Register], SUB-ITEM=[Alberta Register of Historic Places]}
+P760	{SRC-PROP-LABEL=[ID, LA]}	{SRC-PROP-LABEL=[D]}
+P761	{SRC-PROP-DESC=[Database, Swedish, National, Water, Information]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[VISS, ID]}
+P762	{SRC-PROP-DESC=[Republic, Czech], INST-FACET=[cultural heritage], SRC-PROP-LABEL=[ID]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[heritage, Czech, cultural]}
+P763	{SRC-PROP-DESC=[Canada, Edward, Island], INST-FACET=[cultural heritage], SRC-PROP-LABEL=[identifier]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[EI, Register]}
+P764	{SRC-PROP-DESC=[formations, municipal], SRC-PROP-LABEL=[identifier]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[OKTMO]}
+P765	{SRC-PROP-DESC=[tournament]}	{SRC-PROP-DESC=[surface], SRC-PROP-LABEL=[surface]}
+P767	{SRC-PROP-DESC=[creation]}	{SRC-PROP-DESC=[person, organization], SRC-PROP-LABEL=[contributor]}
+P768	{}	{SRC-PROP-DESC=[person, members], SRC-PROP-LABEL=[district, electoral], SUB-ITEM=[constituency]}
+P769	{SRC-PROP-DESC=[intake, concomitant, effectiveness, altered, adverse, drug, events, lead]}	{SRC-PROP-DESC=[interaction, two], SRC-PROP-LABEL=[drug, significant, interaction]}
+P770	{SRC-PROP-DESC=[destruction], SRC-PROP-LABEL=[destruction]}	{SRC-PROP-DESC=[item], SRC-PROP-LABEL=[cause]}
+P771	{SRC-PROP-DESC=[Switzerland]}	{SRC-PROP-DESC=[id], SRC-PROP-LABEL=[municipality, Swiss, code]}
+P772	{SRC-PROP-DESC=[Office, Spanish, Statistical], SRC-PROP-LABEL=[code, municipality]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[INE]}
+P773	{SRC-PROP-DESC=[ISO, 3166-1]}	{SRC-PROP-DESC=[codes, country], SRC-PROP-LABEL=[ISO, 3166-3]}
+P774	{SRC-PROP-DESC=[S], SRC-PROP-LABEL=[S, FI]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[FI, S]}
+P775	{SRC-PROP-DESC=[Sweden], SRC-PROP-LABEL=[code]}	{SRC-PROP-DESC=[area, urban, code], SRC-PROP-LABEL=[area, Swedish, urban]}
+P776	{SRC-PROP-DESC=[Sweden], SRC-PROP-LABEL=[code]}	{SRC-PROP-DESC=[area, urban, code], SRC-PROP-LABEL=[area, Swedish, minor, urban]}
+P777	{SRC-PROP-DESC=[Sweden], SRC-PROP-LABEL=[code, code/ATA]}	{SRC-PROP-DESC=[parish, civil, code], SRC-PROP-LABEL=[parish, Swedish, civil]}
+P778	{SRC-PROP-DESC=[code], SRC-PROP-LABEL=[Church]}	{SRC-PROP-DESC=[Church, Sweden], SRC-PROP-LABEL=[code, Swedish]}
+P779	{SRC-PROP-DESC=[Sweden]}	{SRC-PROP-DESC=[district, astoral, code], SRC-PROP-LABEL=[astoratskod, Swedish]}
+P78	{SRC-PROP-DESC=[code, top-level]}	{SRC-PROP-DESC=[Internet, domain, name, system], SRC-PROP-LABEL=[domain, top-level], SUB-ITEM=[top-level domain]}
+P780	{SRC-PROP-DESC=[condition, medical]}	{SRC-PROP-DESC=[symptoms, possible], SRC-PROP-LABEL=[symptoms]}
+P781	{SRC-PROP-DESC=[Liechtenstein, Switzerland]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[Sikart], SUB-ITEM=[SIKART]}
+P782	{SRC-PROP-DESC=[NUTS, 4]}	{SRC-PROP-DESC=[unit, local, administrative], SRC-PROP-LABEL=[LAU], SUB-ITEM=[local administrative unit in the NUTS system]}
+P783	{SRC-PROP-DESC=[mushroom]}	{SRC-PROP-DESC=[type], SRC-PROP-LABEL=[hymenium, type]}
+P784	{SRC-PROP-LABEL=[shape, cap]}	{SRC-PROP-LABEL=[mushroom]}
+P785	{SRC-PROP-DESC=[stem]}	{SRC-PROP-DESC=[hymenium], SRC-PROP-LABEL=[hymenium, attachment]}
+P786	{}	{SRC-PROP-LABEL=[stipe, character]}
+P787	{SRC-PROP-DESC=[print, mushroom, spore], SRC-PROP-LABEL=[color, print]}	{SRC-PROP-DESC=[color], SRC-PROP-LABEL=[spore]}
+P788	{SRC-PROP-LABEL=[type, ecological]}	{SRC-PROP-LABEL=[mushroom]}
+P789	{}	{SRC-PROP-DESC=[something], SRC-PROP-LABEL=[edibility]}
+P790	{INST-FACET=[qualifier]}	{SRC-PROP-DESC=[item, other]}
+P791	{SRC-PROP-DESC=[Organizations, Related]}	{SRC-PROP-DESC=[International, Standard, Identifier], SRC-PROP-LABEL=[ISIL, ID]}
+P792	{SRC-PROP-DESC=[claim]}	{SRC-PROP-DESC=[title, number], SRC-PROP-LABEL=[chapter]}
+P793	{}	{SRC-PROP-DESC=[events, significant, notable], SRC-PROP-LABEL=[event, significant]}
+P794	{INST-FACET=[qualifier]}	{SRC-PROP-DESC=[qualifier, generic]}
+P795	{SRC-PROP-DESC=[feature, linear]}	{SRC-PROP-DESC=[distance], SRC-PROP-LABEL=[distance]}
+P796	{SRC-PROP-DESC=[measurement], INST-FACET=[qualifier]}	{SRC-PROP-DESC=[point, zero], SRC-PROP-LABEL=[geo, datum]}
+P797	{SRC-PROP-DESC=[executive, power]}	{SRC-PROP-DESC=[entity, matters], SRC-PROP-LABEL=[executive, authority]}
+P798	{}	{SRC-PROP-DESC=[designation], SRC-PROP-LABEL=[designation, military]}
+P799	{SRC-PROP-DESC=[United, Kingdom, Air, Ministry], SRC-PROP-LABEL=[specification]}	{SRC-PROP-DESC=[aircraft, specification], SRC-PROP-LABEL=[Air, Ministry]}
+P800	{SRC-PROP-DESC=[art], INST-FACET=[human]}	{SRC-PROP-DESC=[work, notable, scientific], SRC-PROP-LABEL=[works, notable], SUB-ITEM=[work]}
+P802	{SRC-PROP-DESC=[person], INVS-PROP=[teacher], INST-FACET=[human]}	{SRC-PROP-DESC=[student, notable], INVS-PROP=[human], SRC-PROP-LABEL=[student], SUB-ITEM=[student]}
+P803	{SRC-PROP-DESC=[person, academic], INST-FACET=[human]}	{SRC-PROP-DESC=[professorship, position], SRC-PROP-LABEL=[professorship]}
+P804	{}	{SRC-PROP-DESC=[identification, code, geographic], SRC-PROP-LABEL=[GNIS, Antarctica, ID]}
+P805	{SRC-PROP-DESC=[statement], INST-FACET=[qualifier]}	{SRC-PROP-DESC=[item]}
+P806	{SRC-PROP-DESC=[cadastre]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[cadastre, Italian, code]}
+P807	{INST-FACET=[organization]}	{}
+P808	{SEE-ALSO=[cultural heritage], INST-FACET=[cultural heritage], SRC-PROP-LABEL=[Cultural, Bien, Interés]}	{SRC-PROP-DESC=[heritage, Spanish, register], SEE-ALSO=[Inventari del Patrimoni Arquitectònic de Catalunya], SRC-PROP-LABEL=[code], SUB-ITEM=[Bien de Interés Cultural]}
+P809	{SRC-PROP-DESC=[Areas, rotected], SRC-PROP-LABEL=[id, A]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[WD]}
+P81	{}	{SRC-PROP-DESC=[railway], SRC-PROP-LABEL=[line]}
+P811	{SRC-PROP-DESC=[college/university], INST-FACET=[human]}	{SRC-PROP-DESC=[someone, minor]}
+P812	{SRC-PROP-DESC=[college/university], INST-FACET=[human]}	{SRC-PROP-DESC=[someone, major]}
+P813	{SRC-PROP-DESC=[information, database, website, retrieved]}	{SRC-PROP-DESC=[date, point, time]}
+P814	{SRC-PROP-DESC=[Areas, rotected], SRC-PROP-LABEL=[areas, category]}	{SRC-PROP-DESC=[areas, protected], SRC-PROP-LABEL=[IUCN]}
+P815	{SRC-PROP-DESC=[Integrated, Taxonomic, Information, System]}	{SRC-PROP-DESC=[Number, unique, Taxonomic, Serial], SRC-PROP-LABEL=[ITIS, TSN], SUB-ITEM=[Integrated Taxonomic Information System]}
+P816	{SRC-PROP-DESC=[isotope, radioactive, decay]}	{SRC-PROP-DESC=[isotope], SRC-PROP-LABEL=[decays]}
+P817	{SRC-PROP-DESC=[isotope, radioactive], INST-FACET=[qualifier]}	{SRC-PROP-DESC=[type, decay], SRC-PROP-LABEL=[decay, mode]}
+P818	{SRC-PROP-DESC=[archive, arXiv, pre-print]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[arXiv, ID], SUB-ITEM=[arXiv ID]}
+P819	{SRC-PROP-DESC=[System, Astrophysics, Data]}	{SRC-PROP-DESC=[bibcode], SRC-PROP-LABEL=[ADS]}
+P820	{SRC-PROP-DESC=[articles, pre-print]}	{SRC-PROP-DESC=[arXiv, classification], SRC-PROP-LABEL=[arXiv, classification]}
+P821	{SRC-PROP-DESC=[Canada], SRC-PROP-LABEL=[Identifier, Unique]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[CGNDB]}
+P822	{SRC-PROP-DESC=[university, sports, team]}	{SRC-PROP-DESC=[mascot], SRC-PROP-LABEL=[mascot]}
+P823	{SRC-PROP-DESC=[role]}	{SRC-PROP-DESC=[someone, events], SRC-PROP-LABEL=[speaker]}
+P824	{SRC-PROP-DESC=[Society, Meteoritical]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[Bulletin, Meteoritical, Database, ID]}
+P825	{}	{}
+P826	{SRC-PROP-DESC=[composition, musical]}	{SRC-PROP-DESC=[key], SRC-PROP-LABEL=[tonality], SUB-ITEM=[tonality, key]}
+P827	{SRC-PROP-DESC=[systems, internal], SRC-PROP-LABEL=[identifier, program]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[BBC], SUB-ITEM=[BBC Programme Identifier]}
+P828	{}	{SRC-PROP-DESC=[cause, thing], SRC-PROP-LABEL=[cause]}
+P829	{SRC-PROP-DESC=[Sequences, Integer]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[OEIS, ID]}
+P830	{SRC-PROP-DESC=[number, reference], SRC-PROP-LABEL=[ID, Life]}	{SRC-PROP-DESC=[item, eol.org], SRC-PROP-LABEL=[Encyclopedia], SUB-ITEM=[Encyclopedia of Life]}
+P831	{SRC-PROP-DESC=[team]}	{SRC-PROP-DESC=[parent, club], SRC-PROP-LABEL=[parent, club]}
+P832	{SRC-PROP-DESC=[place]}	{SRC-PROP-DESC=[holiday, official, public], SRC-PROP-LABEL=[holiday, public], SUB-ITEM=[public holiday]}
+P833	{SRC-PROP-DESC=[passengers, expense, extra, transfer]}	{SRC-PROP-DESC=[station], SRC-PROP-LABEL=[interchange, station]}
+P834	{SRC-PROP-DESC=[railway, line]}	{SRC-PROP-DESC=[depot], SRC-PROP-LABEL=[train, depot]}
+P835	{}	{SRC-PROP-DESC=[citation], SRC-PROP-LABEL=[author, citation]}
+P836	{SRC-PROP-LABEL=[code]}	{SRC-PROP-DESC=[UK, Government, Statistical, Service], SRC-PROP-LABEL=[GSS]}
+P837	{SRC-PROP-LABEL=[occurrence, periodic]}	{SRC-PROP-DESC=[holiday, specific], SRC-PROP-LABEL=[day]}
+P838	{SRC-PROP-DESC=[BioLib]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[BioLib, ID], SUB-ITEM=[Biological Library]}
+P839	{SRC-PROP-DESC=[roject, Library]}	{SRC-PROP-DESC=[title], SRC-PROP-LABEL=[IMSL, ID]}
+P84	{SRC-PROP-DESC=[building], INST-FACET=[work]}	{SRC-PROP-DESC=[person, architectural, firm], SRC-PROP-LABEL=[architect]}
+P840	{SRC-PROP-DESC=[location], INST-FACET=[work, geographic location]}	{SRC-PROP-DESC=[narrative], SRC-PROP-LABEL=[set, narrative]}
+P841	{SRC-PROP-DESC=[day]}	{SRC-PROP-DESC=[feast, principal], SRC-PROP-LABEL=[feast, day]}
+P842	{SRC-PROP-DESC=[microorganisms, plants]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[Fossilworks, ID], SUB-ITEM=[Fossilworks]}
+P843	{SRC-PROP-DESC=[area], INST-FACET=[authority control], SRC-PROP-LABEL=[code]}	{SRC-PROP-DESC=[National, Institute, Statistics], SRC-PROP-LABEL=[SIRUTA]}
+P844	{SRC-PROP-LABEL=[code]}	{SRC-PROP-DESC=[National, Statistics, Institute], SRC-PROP-LABEL=[UBIGEO]}
+P845	{SRC-PROP-DESC=[roperty, Heritage], SEE-ALSO=[cultural heritage], INST-FACET=[cultural heritage], SRC-PROP-LABEL=[identifier, Heritage, roperty]}	{SRC-PROP-DESC=[identifier], SEE-ALSO=[Canadian Register of Historic Places], SRC-PROP-LABEL=[Saskatchewan, Register], SUB-ITEM=[Saskatchewan Register of Heritage Property]}
+P846	{}	{SRC-PROP-LABEL=[Biodiversity, Global, Information, Facility, ID], SUB-ITEM=[Global Biodiversity Information Facility]}
+P847	{SRC-PROP-LABEL=[designation, aircraft]}	{SRC-PROP-DESC=[aircraft, identifier], SRC-PROP-LABEL=[United, States, Navy]}
+P849	{SRC-PROP-DESC=[military, Japanese], SRC-PROP-LABEL=[designation]}	{SRC-PROP-DESC=[aircraft, designation], SRC-PROP-LABEL=[aircraft, Japanese, military]}
+P85	{SRC-PROP-DESC=[anthem]}	{SRC-PROP-DESC=[name], SRC-PROP-LABEL=[anthem]}
+P850	{SRC-PROP-LABEL=[identifier, Marine, Species]}	{SRC-PROP-LABEL=[World, Register], SUB-ITEM=[World Register of Marine Species]}
+P852	{SRC-PROP-DESC=[talk, page], SRC-PROP-LABEL=[rating]}	{SRC-PROP-DESC=[video, North, game, content, rating], SRC-PROP-LABEL=[ESRB]}
+P853	{SRC-PROP-DESC=[talk, page], SRC-PROP-LABEL=[rating]}	{SRC-PROP-DESC=[video, Japanese, game, rating, system], SRC-PROP-LABEL=[CERO]}
+P854	{SRC-PROP-DESC=[URLs, references]}	{SRC-PROP-DESC=[internet], SRC-PROP-LABEL=[reference, URL]}
+P855	{}	{SRC-PROP-LABEL=[Sandbox-URL]}
+P856	{SRC-PROP-DESC=[item]}	{SRC-PROP-DESC=[URL], SRC-PROP-LABEL=[website, official], SUB-ITEM=[Uniform Resource Locator]}
+P857	{SRC-PROP-DESC=[database, China, National, Knowledge, Infrastructure]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[CNKI]}
+P858	{SRC-PROP-DESC=[www.espnscrum.com], SRC-PROP-LABEL=[ID, SCRUM]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[ES, N]}
+P859	{SRC-PROP-DESC=[item]}	{SRC-PROP-DESC=[enterprise], SRC-PROP-LABEL=[sponsor], SUB-ITEM=[sponsor]}
+P86	{SRC-PROP-DESC=[music], INST-FACET=[work]}	{SRC-PROP-DESC=[person], SRC-PROP-LABEL=[composer], SUB-ITEM=[composer]}
+P860	{SRC-PROP-DESC=[e-archiv]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[e-archiv]}
+P861	{}	{SRC-PROP-DESC=[identifier, unique], SRC-PROP-LABEL=[premiershiprugby.com, ID]}
+P862	{SRC-PROP-DESC=[Ministry, UK, Air], SRC-PROP-LABEL=[Ministry, UK, Air]}	{SRC-PROP-DESC=[specification], SRC-PROP-LABEL=[Requirement, Operational]}
+P863	{SRC-PROP-DESC=[project, Ontology]}	{SRC-PROP-DESC=[link], SRC-PROP-LABEL=[hO, identifier]}
+P864	{SRC-PROP-DESC=[identifier, Computing, Machinery, Digital, Library, author], SRC-PROP-LABEL=[identifier, author]}	{SRC-PROP-DESC=[Association], SRC-PROP-LABEL=[ACM, Digital, Library]}
+P865	{SRC-PROP-DESC=[Online, Musiker-Lexikon]}	{SRC-PROP-DESC=[Bayerisches], SRC-PROP-LABEL=[BMLO]}
+P866	{SRC-PROP-DESC=[erlentaucher]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[erlentaucher, ID]}
+P867	{SRC-PROP-DESC=[France]}	{SRC-PROP-DESC=[ROME, Code], SRC-PROP-LABEL=[ROME, Occupation, Code]}
+P868	{SRC-PROP-DESC=[settlement, certain]}	{SRC-PROP-DESC=[foods], SRC-PROP-LABEL=[foods]}
+P87	{SRC-PROP-DESC=[opera]}	{SRC-PROP-DESC=[author], SRC-PROP-LABEL=[librettist]}
+P870	{}	{SRC-PROP-DESC=[combination, musical], SRC-PROP-LABEL=[instrumentation]}
+P872	{SRC-PROP-DESC=[work, creative]}	{SRC-PROP-DESC=[organization]}
+P873	{SRC-PROP-DESC=[phase, point]}	{SRC-PROP-DESC=[point, critical], SRC-PROP-LABEL=[phase, point]}
+P874	{SRC-PROP-DESC=[code, hazard, classification], SRC-PROP-LABEL=[class]}	{SRC-PROP-DESC=[UN], SRC-PROP-LABEL=[UN]}
+P875	{SRC-PROP-DESC=[classification, code], SRC-PROP-LABEL=[classification, code]}	{SRC-PROP-DESC=[UN], SRC-PROP-LABEL=[UN]}
+P876	{SRC-PROP-DESC=[rules, UN, transportation], SRC-PROP-LABEL=[group, packaging]}	{SRC-PROP-DESC=[packaging, code], SRC-PROP-LABEL=[UN]}
+P877	{SRC-PROP-DESC=[NF, A], SRC-PROP-LABEL=[A, NF]}	{SRC-PROP-DESC=[A, NF], SRC-PROP-LABEL=[NF, A]}
+P878	{SRC-PROP-DESC=[aircraft]}	{SRC-PROP-DESC=[sensors, notable, electronics], SRC-PROP-LABEL=[avionics]}
+P879	{SRC-PROP-DESC=[hull]}	{SRC-PROP-DESC=[number, designation], SRC-PROP-LABEL=[pennant, number], SUB-ITEM=[pennant number]}
+P88	{SRC-PROP-DESC=[work], INST-FACET=[work]}	{SRC-PROP-DESC=[person, organization]}
+P880	{SRC-PROP-DESC=[item]}	{SRC-PROP-DESC=[processing, central, unit], SRC-PROP-LABEL=[C, U]}
+P881	{SRC-PROP-DESC=[star, variable], SRC-PROP-LABEL=[star, variable]}	{SRC-PROP-DESC=[type], SRC-PROP-LABEL=[type], SUB-ITEM=[variable star]}
+P882	{SRC-PROP-DESC=[S], SRC-PROP-LABEL=[S, FI]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[FI, S]}
+P883	{SRC-PROP-LABEL=[S, FI]}	{SRC-PROP-DESC=[identifier, US], SRC-PROP-LABEL=[FI, S]}
+P884	{}	{SRC-PROP-DESC=[Body, water, identification, code], SRC-PROP-LABEL=[State, Water, Register, Code]}
+P885	{SRC-PROP-DESC=[stream, river], SRC-PROP-LABEL=[watercourse]}	{SRC-PROP-DESC=[source, main], SRC-PROP-LABEL=[origin]}
+P886	{SRC-PROP-DESC=[Switzerland]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[LIR]}
+P887	{}	{}
+P888	{SRC-PROP-DESC=[identifier, stable, periodical, article], SRC-PROP-LABEL=[ID, article]}	{SRC-PROP-DESC=[JSTOR], SRC-PROP-LABEL=[JSTOR]}
+P889	{SRC-PROP-DESC=[synopses, brief], SRC-PROP-LABEL=[identifier]}	{SRC-PROP-DESC=[Mathematical, American, Society, Reviews, Mathematical, published], SRC-PROP-LABEL=[Reviews, Mathematical]}
+P892	{SRC-PROP-DESC=[publication], SRC-PROP-LABEL=[identifier, Comments]}	{SRC-PROP-DESC=[Request, Comments], SRC-PROP-LABEL=[Request], SUB-ITEM=[Request for Comments]}
+P893	{SRC-PROP-DESC=[SSRN]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[Social, Science, Research, Network, ID]}
+P894	{SRC-PROP-DESC=[database, zbMath]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[Zentralblatt, MATH]}
+P897	{SRC-PROP-LABEL=[designation, Air, Force, aircraft]}	{SRC-PROP-DESC=[aircraft, identifier], SRC-PROP-LABEL=[United, States, Army]}
+P898	{SRC-PROP-DESC=[Alphabet, International, honetic]}	{SRC-PROP-DESC=[spelling], SRC-PROP-LABEL=[I]}
+P9	{SRC-PROP-DESC=[sister], SUB-PROP=[human], INST-FACET=[human]}	{SUB-PROP=[kinship], SRC-PROP-LABEL=[sister], SUB-ITEM=[sister]}
+P901	{SRC-PROP-DESC=[S], SRC-PROP-LABEL=[S, FI]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[FI, S], SUB-ITEM=[FIPS 10-4]}
+P902	{SRC-PROP-DESC=[encyclopedia, national]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[HDS]}
+P905	{SRC-PROP-DESC=[program, film, television], INST-FACET=[work], SRC-PROP-LABEL=[identifier]}	{SRC-PROP-DESC=[identifier, ORT-network], SRC-PROP-LABEL=[ORT], SUB-ITEM=[PORT.hu]}
+P906	{SRC-PROP-DESC=[number, library, catalog, ID], INST-FACET=[authority control]}	{SRC-PROP-DESC=[Libris], SRC-PROP-LABEL=[SELIBR]}
+P907	{SRC-PROP-DESC=[number, game, database, ID]}	{SRC-PROP-DESC=[video, allgame], SRC-PROP-LABEL=[ID, allgame]}
+P908	{SRC-PROP-DESC=[talk, page], SRC-PROP-LABEL=[rating]}	{SRC-PROP-DESC=[video, European, game, rating, system], SRC-PROP-LABEL=[EGI]}
+P909	{SRC-PROP-DESC=[laces, Historic], INST-FACET=[cultural heritage], SRC-PROP-LABEL=[identifier]}	{SRC-PROP-DESC=[identifier, unique], SRC-PROP-LABEL=[Nova, Scotia, Register]}
+P91	{SRC-PROP-DESC=[it], INST-FACET=[human]}	{SRC-PROP-DESC=[orientation, sexual], SRC-PROP-LABEL=[orientation, sexual], SUB-ITEM=[sexual orientation]}
+P910	{SRC-PROP-DESC=[topic]}	{SRC-PROP-DESC=[category, main], SEE-ALSO=[Wikimedia category], SRC-PROP-LABEL=[category, main]}
+P911	{SRC-PROP-DESC=[Africa, South], SRC-PROP-LABEL=[code]}	{SRC-PROP-DESC=[ID], SRC-PROP-LABEL=[municipality, South, African]}
+P912	{SRC-PROP-DESC=[toilet, car]}	{SRC-PROP-DESC=[item], SRC-PROP-LABEL=[facility]}
+P913	{SRC-PROP-DESC=[symbol]}	{SRC-PROP-DESC=[notation, mathematical], SRC-PROP-LABEL=[notation]}
+P914	{SRC-PROP-DESC=[talk, page], SRC-PROP-LABEL=[rating]}	{SRC-PROP-DESC=[video, German, game, content, rating], SRC-PROP-LABEL=[USK]}
+P915	{SRC-PROP-DESC=[scene/film], INST-FACET=[work]}	{SRC-PROP-DESC=[place, actual], SRC-PROP-LABEL=[location], SUB-ITEM=[filming location]}
+P916	{SRC-PROP-DESC=[system, game, content, rating]}	{SRC-PROP-DESC=[video, Taiwanese], SRC-PROP-LABEL=[GSRR, rating]}
+P917	{SRC-PROP-DESC=[rockets, Russian, weapons], SRC-PROP-LABEL=[index]}	{SRC-PROP-DESC=[index], SRC-PROP-LABEL=[GRAU]}
+P918	{SRC-PROP-DESC=[Canada]}	{SRC-PROP-DESC=[NOC/CN, Code], SRC-PROP-LABEL=[NOC, Occupation, Code]}
+P919	{SRC-PROP-DESC=[jobs, US]}	{SRC-PROP-DESC=[Standard, Occupational], SRC-PROP-LABEL=[SOC, Occupation, Code], SUB-ITEM=[Standard Occupational Classification System]}
+P92	{}	{SRC-PROP-DESC=[text, rules, main, setting], SRC-PROP-LABEL=[text, main, regulatory]}
+P920	{SRC-PROP-LABEL=[libraries, public]}	{SRC-PROP-DESC=[headings, public], SRC-PROP-LABEL=[headings, Spanish]}
+P921	{SRC-PROP-DESC=[work], SEE-ALSO=[work], INST-FACET=[work]}	{SRC-PROP-DESC=[topic, primary], SRC-PROP-LABEL=[main]}
+P922	{}	{}
+P923	{SRC-PROP-DESC=[condition, medical]}	{SRC-PROP-DESC=[examinations], SRC-PROP-LABEL=[examinations, medical]}
+P924	{SRC-PROP-DESC=[condition, medical]}	{SRC-PROP-DESC=[treatment], SRC-PROP-LABEL=[treatment, medical]}
+P925	{SRC-PROP-DESC=[end, its, presynaptic]}	{SRC-PROP-DESC=[neuron], SRC-PROP-LABEL=[connection, presynaptic]}
+P926	{SRC-PROP-DESC=[end, its, postsynaptic]}	{SRC-PROP-DESC=[neuron], SRC-PROP-LABEL=[connection, postsynaptic]}
+P927	{SRC-PROP-DESC=[lie, anatomical, feature]}	{SRC-PROP-DESC=[body], SRC-PROP-LABEL=[location, anatomical]}
+P928	{SRC-PROP-DESC=[neuron]}	{SRC-PROP-DESC=[neurotransmitter], SRC-PROP-LABEL=[neurotransmitter]}
+P929	{SRC-PROP-DESC=[tuples]}	{SRC-PROP-DESC=[model, mathematical], SRC-PROP-LABEL=[color, space]}
+P930	{SRC-PROP-DESC=[voltage], SRC-PROP-LABEL=[electrification]}	{SRC-PROP-DESC=[electrification], SRC-PROP-LABEL=[type]}
+P931	{SRC-PROP-DESC=[airport], INST-FACET=[geographic location], SRC-PROP-LABEL=[airport]}	{SRC-PROP-DESC=[city, region], SRC-PROP-LABEL=[place]}
+P932	{SRC-PROP-DESC=[ubMed, Central]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[MCID], SUB-ITEM=[PubMed Central ID]}
+P933	{SRC-PROP-DESC=[Labrador, Newfoundland], INST-FACET=[cultural heritage]}	{SRC-PROP-DESC=[identifier, unique], SRC-PROP-LABEL=[heritagefoundation.ca, ID]}
+P935	{SRC-PROP-DESC=[item], SRC-PROP-LABEL=[gallery]}	{SRC-PROP-DESC=[name], SRC-PROP-LABEL=[Commons]}
+P937	{SRC-PROP-DESC=[creator, active, was], SEE-ALSO=[geographic location], INST-FACET=[human], SRC-PROP-LABEL=[working, creative]}	{SRC-PROP-DESC=[location], SEE-ALSO=[geographic location], SRC-PROP-LABEL=[location]}
+P938	{SRC-PROP-LABEL=[identifier]}	{SRC-PROP-LABEL=[FishBase], SUB-ITEM=[FishBase]}
+P939	{INST-FACET=[authority control], SRC-PROP-LABEL=[code]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[KSH]}
+P94	{SRC-PROP-DESC=[arms], SRC-PROP-LABEL=[image, arms]}	{SRC-PROP-DESC=[image], SRC-PROP-LABEL=[coat], SUB-ITEM=[coat of arms]}
+P940	{SRC-PROP-DESC=[advice], SRC-PROP-LABEL=[statements, precautionary]}	{SRC-PROP-DESC=[code], SRC-PROP-LABEL=[GHS]}
+P941	{SRC-PROP-DESC=[work]}	{SRC-PROP-DESC=[work, creative]}
+P942	{SRC-PROP-DESC=[licence]}	{SRC-PROP-DESC=[theme, music/song], SRC-PROP-LABEL=[theme, music]}
+P943	{SRC-PROP-DESC=[game, video], SUB-PROP=[work]}	{SRC-PROP-DESC=[coder], SUB-PROP=[creator], SRC-PROP-LABEL=[programmer], SUB-ITEM=[programmer]}
+P944	{SRC-PROP-DESC=[name, scientific], SRC-PROP-LABEL=[nomenclature]}	{SRC-PROP-DESC=[Code], SRC-PROP-LABEL=[Code]}
+P945	{SRC-PROP-DESC=[person, organization]}	{SRC-PROP-DESC=[country], SRC-PROP-LABEL=[allegiance]}
+P946	{SRC-PROP-DESC=[Number, Identification]}	{SRC-PROP-DESC=[International, Securities], SRC-PROP-LABEL=[ISIN]}
+P947	{SRC-PROP-DESC=[Library, Russian, State], INST-FACET=[authority control], SRC-PROP-LABEL=[identifier]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[RSL]}
+P948	{SRC-PROP-DESC=[page, related, Wikivoyage]}	{SRC-PROP-DESC=[banner], SRC-PROP-LABEL=[banner, Wikivoyage]}
+P949	{SRC-PROP-DESC=[National, Library], INST-FACET=[authority control], SRC-PROP-LABEL=[identifier]}	{SRC-PROP-DESC=[authority, control, identifier], SRC-PROP-LABEL=[NLI]}
+P950	{SRC-PROP-DESC=[España, Biblioteca, Nacional], INST-FACET=[authority control], SRC-PROP-LABEL=[identifier]}	{SRC-PROP-DESC=[authority, file], SRC-PROP-LABEL=[BNE]}
+P951	{SRC-PROP-DESC=[Library, National, Széchényi], INST-FACET=[authority control]}	{SRC-PROP-DESC=[authority, file], SRC-PROP-LABEL=[NSZL, identifier]}
+P952	{SRC-PROP-LABEL=[code, occupation]}	{SRC-PROP-DESC=[International, Standard, Classification, Occupations], SRC-PROP-LABEL=[ISCO]}
+P953	{SRC-PROP-DESC=[text, full], INST-FACET=[work]}	{SRC-PROP-LABEL=[text, full]}
+P954	{SRC-PROP-DESC=[stations, railway]}	{SRC-PROP-DESC=[station, international, number], SRC-PROP-LABEL=[IBNR, identifier]}
+P957	{SRC-PROP-DESC=[variant, ten, digit]}	{SRC-PROP-DESC=[International, Standard, Book, Number], SRC-PROP-LABEL=[ISBN-10], SUB-ITEM=[International Standard Book Number]}
+P958	{SRC-PROP-DESC=[information], SRC-PROP-LABEL=[paragraph]}	{SRC-PROP-LABEL=[section, verse]}
+P959	{SRC-PROP-DESC=[list, authoritative, comprehensive], SRC-PROP-LABEL=[identifier]}	{SRC-PROP-DESC=[Species, Mammal], SRC-PROP-LABEL=[MSW], SUB-ITEM=[Mammal Species of the World]}
+P960	{SRC-PROP-DESC=[database, Tropicos], SRC-PROP-LABEL=[identifier]}	{SRC-PROP-DESC=[identification, number], SRC-PROP-LABEL=[name], SUB-ITEM=[Tropicos]}
+P961	{SRC-PROP-DESC=[list, authoritative, comprehensive], SRC-PROP-LABEL=[name, taxon, identifier]}	{SRC-PROP-DESC=[International, lant, Names, Index, database, is], SRC-PROP-LABEL=[I], SUB-ITEM=[International Plant Names Index]}
+P962	{SRC-PROP-DESC=[list, authoritative, comprehensive]}	{SRC-PROP-DESC=[MycoBank, database, is], SRC-PROP-LABEL=[MycoBank, taxon, name, identifier], SUB-ITEM=[MycoBank]}
+P963	{SRC-PROP-DESC=[media, stream], SRC-PROP-LABEL=[URL]}	{SRC-PROP-DESC=[URL], SRC-PROP-LABEL=[streaming, media]}
+P964	{SRC-PROP-DESC=[Austria]}	{SRC-PROP-DESC=[identifier], SRC-PROP-LABEL=[municipality, Austrian, key]}
+P965	{SRC-PROP-DESC=[plot, specific], SRC-PROP-LABEL=[reference, plot]}	{SRC-PROP-DESC=[string, references], SRC-PROP-LABEL=[burial]}
+P966	{SRC-PROP-DESC=[encyclopedia, MusicBrainz, open, music], INST-FACET=[authority control], SRC-PROP-LABEL=[ID, label]}	{SRC-PROP-DESC=[label, identifier], SRC-PROP-LABEL=[MusicBrainz]}
+P967	{SRC-PROP-LABEL=[honor]}	{SRC-PROP-DESC=[guest, honor], SRC-PROP-LABEL=[guest]}
+P968	{}	{SRC-PROP-DESC=[address, e-mail], SRC-PROP-LABEL=[e-mail]}
+P969	{SRC-PROP-DESC=[located, is], SEE-ALSO=[geographic location]}	{SRC-PROP-DESC=[street], SRC-PROP-LABEL=[street, address]}
+P97	{SRC-PROP-DESC=[person], INST-FACET=[human]}	{SRC-PROP-DESC=[royal], SRC-PROP-LABEL=[title, noble]}
+P970	{SRC-PROP-DESC=[structure, neurological]}	{SRC-PROP-DESC=[function], SRC-PROP-LABEL=[function, neurological]}
+P971	{SRC-PROP-DESC=[topics, two], SRC-PROP-LABEL=[topics]}	{SRC-PROP-DESC=[category], SRC-PROP-LABEL=[category]}
+P972	{SRC-PROP-DESC=[number, valid, is], INST-FACET=[qualifier]}	{SRC-PROP-DESC=[catalogue], SRC-PROP-LABEL=[catalog], SUB-ITEM=[catalog]}
+P973	{}	{SRC-PROP-DESC=[element]}
+P974	{SRC-PROP-DESC=[stem, main, river]}	{SRC-PROP-DESC=[stream, river], SRC-PROP-LABEL=[tributary], SUB-ITEM=[tributary]}
+P98	{SRC-PROP-DESC=[journal, academic], INST-FACET=[work]}	{SRC-PROP-DESC=[editor], SRC-PROP-LABEL=[editor]}
+P980	{SRC-PROP-DESC=[Sweden-code, Statistics], SRC-PROP-LABEL=[homes, weekend, holiday]}	{SRC-PROP-DESC=[type], SRC-PROP-LABEL=[code]}
+P981	{SRC-PROP-LABEL=[towns, Dutch]}	{SRC-PROP-DESC=[BAG, Dutch], SRC-PROP-LABEL=[BAG-code]}
+P982	{SRC-PROP-DESC=[encyclopedia, MusicBrainz, open, music], INST-FACET=[authority control], SRC-PROP-LABEL=[ID, area]}	{SRC-PROP-DESC=[area, identifier], SRC-PROP-LABEL=[MusicBrainz]}
+P984	{SRC-PROP-DESC=[Committee, International, Olympic], SRC-PROP-LABEL=[code, country]}	{SRC-PROP-DESC=[abbreviation, three-letter], SRC-PROP-LABEL=[IOC]}
+P988	{SRC-PROP-DESC=[hilippines], SRC-PROP-LABEL=[Code, Standard, Geographic]}	{SRC-PROP-DESC=[classification, systematic, coding], SRC-PROP-LABEL=[hilippine]}
+P989	{SRC-PROP-DESC=[article, work, Wikipedia]}	{SRC-PROP-DESC=[file, audio], SRC-PROP-LABEL=[text, audio]}
+P990	{INST-FACET=[human], SRC-PROP-LABEL=[voice]}	{SRC-PROP-LABEL=[recording]}
+P991	{SRC-PROP-DESC=[election]}	{SRC-PROP-DESC=[person], SRC-PROP-LABEL=[candidate, successful]}
+P993	{SRC-PROP-LABEL=[Health, A]}	{SRC-PROP-LABEL=[NF]}
+P994	{SRC-PROP-LABEL=[Fire, A]}	{SRC-PROP-LABEL=[NF]}
+P995	{SRC-PROP-DESC=[reactivity, chemical, physical], SRC-PROP-LABEL=[Reactivity, A]}	{SRC-PROP-DESC=[NF], SRC-PROP-LABEL=[NF]}
+P996	{SRC-PROP-DESC=[Commons, Wikimedia]}	{SRC-PROP-DESC=[file], SRC-PROP-LABEL=[file]}
+P998	{}	{SRC-PROP-DESC=[Directory, roject], SRC-PROP-LABEL=[dmoz]}
+P999	{}	{SRC-PROP-DESC=[ARICNS, code], SRC-PROP-LABEL=[ARICNS]}

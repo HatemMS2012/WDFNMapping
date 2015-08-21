@@ -1,0 +1,272 @@
+Prop ID 	 Frame ID 	 ARG1 Role 	 ARG2 Role 	 simMethod 	 rank
+P710	FN_SemanticPredicate_281	[Event]	[Participant_1]	stemOverlap	 1
+P710	FN_SemanticPredicate_647	[Individuals]	[Aggregate, Individuals]	stemOverlap	 2
+P710	FN_SemanticPredicate_529	[]	[Person]	stemOverlap	 3
+P710	FN_SemanticPredicate_245	[Competition]	[Participant_1, Participant_2]	stemOverlap	 4
+P710	FN_SemanticPredicate_517	[]	[]	stemOverlap	 5
+P710	FN_SemanticPredicate_949	[]	[]	stemOverlap	 6
+P710	FN_SemanticPredicate_394	[]	[Person]	stemOverlap	 7
+P710	FN_SemanticPredicate_144	[]	[]	stemOverlap	 8
+P710	FN_SemanticPredicate_673	[]	[]	stemOverlap	 9
+P710	FN_SemanticPredicate_751	[]	[]	stemOverlap	 10
+P1110	FN_SemanticPredicate_509	[Event, Agent]	[]	stemOverlap	 1
+P1346	FN_SemanticPredicate_291	[Competition]	[Competitor]	stemOverlap	 1
+P276	FN_SemanticPredicate_48	[]	[]	stemOverlap	 1
+P276	FN_SemanticPredicate_138	[Defining_event]	[]	stemOverlap	 2
+P527	FN_SemanticPredicate_721	[New_member]	[New_member]	stemOverlap	 1
+P527	FN_SemanticPredicate_705	[]	[]	stemOverlap	 2
+P527	FN_SemanticPredicate_164	[]	[Product]	stemOverlap	 3
+P527	FN_SemanticPredicate_770	[Body_part, Possessor]	[Possessor]	stemOverlap	 4
+P527	FN_SemanticPredicate_663	[Total, Part]	[Total, Part]	stemOverlap	 5
+P138	FN_SemanticPredicate_573	[Namesake, Entity]	[Entity]	stemOverlap	 1
+P138	FN_SemanticPredicate_644	[Entity, Name]	[Entity, Name]	stemOverlap	 2
+P127	FN_SemanticPredicate_695	[Possession, Owner]	[Owner, Possession]	stemOverlap	 1
+P301	FN_SemanticPredicate_809	[]	[Communicator, Topic, Text]	stemOverlap	 1
+P61	FN_SemanticPredicate_99	[]	[Cognizer]	stemOverlap	 1
+P461	FN_SemanticPredicate_363	[]	[]	stemOverlap	 1
+P462	FN_SemanticPredicate_153	[Entity]	[Color, Attribute, Entity]	stemOverlap	 1
+P462	FN_SemanticPredicate_518	[Stimulus]	[Stimulus]	stemOverlap	 2
+P462	FN_SemanticPredicate_936	[]	[]	stemOverlap	 3
+P366	FN_SemanticPredicate_531	[]	[Goal, Agent]	stemOverlap	 1
+P366	FN_SemanticPredicate_504	[Instrument, Agent]	[Instrument]	stemOverlap	 2
+P366	FN_SemanticPredicate_258	[]	[Ingestor]	stemOverlap	 3
+P366	FN_SemanticPredicate_1017	[]	[Outcome]	stemOverlap	 4
+P366	FN_SemanticPredicate_817	[]	[Performance, Role]	stemOverlap	 5
+P366	FN_SemanticPredicate_120	[]	[Duty]	stemOverlap	 6
+P366	FN_SemanticPredicate_232	[]	[Event, Salient_entity]	stemOverlap	 7
+P1419	FN_SemanticPredicate_549	[]	[Undergoer]	stemOverlap	 1
+P1419	FN_SemanticPredicate_507	[]	[Shape]	stemOverlap	 2
+P646	FN_SemanticPredicate_706	[]	[]	stemOverlap	 1
+P1053	FN_SemanticPredicate_960	[]	[]	stemOverlap	 1
+P1400	FN_SemanticPredicate_770	[]	[]	stemOverlap	 1
+P18	FN_SemanticPredicate_161	[]	[Artifact]	stemOverlap	 1
+P18	FN_SemanticPredicate_679	[]	[]	stemOverlap	 2
+P18	FN_SemanticPredicate_845	[]	[Image]	stemOverlap	 3
+P18	FN_SemanticPredicate_30	[Entity_2, Entities, Entity_1]	[]	stemOverlap	 4
+P18	FN_SemanticPredicate_672	[Percept]	[]	stemOverlap	 5
+P18	FN_SemanticPredicate_300	[]	[Impression]	stemOverlap	 6
+P51	FN_SemanticPredicate_1007	[Text]	[]	stemOverlap	 1
+P51	FN_SemanticPredicate_628	[]	[]	stemOverlap	 2
+P580	FN_SemanticPredicate_662	[Landmark_event]	[]	stemOverlap	 1
+P580	FN_SemanticPredicate_632	[Proposition, Support]	[]	stemOverlap	 2
+P580	FN_SemanticPredicate_956	[Affected]	[]	stemOverlap	 3
+P580	FN_SemanticPredicate_706	[]	[]	stemOverlap	 4
+P580	FN_SemanticPredicate_895	[]	[]	stemOverlap	 5
+P582	FN_SemanticPredicate_753	[]	[]	stemOverlap	 1
+P582	FN_SemanticPredicate_304	[Partner_2, Partner_1]	[]	stemOverlap	 2
+P582	FN_SemanticPredicate_110	[Figure, Ground]	[Ground]	stemOverlap	 3
+P582	FN_SemanticPredicate_662	[Landmark_event]	[]	stemOverlap	 4
+P582	FN_SemanticPredicate_410	[]	[]	stemOverlap	 5
+P585	FN_SemanticPredicate_596	[Unit]	[]	stemOverlap	 1
+P585	FN_SemanticPredicate_124	[Unit, Relative_time]	[]	stemOverlap	 2
+P585	FN_SemanticPredicate_304	[]	[]	stemOverlap	 3
+P585	FN_SemanticPredicate_954	[]	[]	stemOverlap	 4
+P585	FN_SemanticPredicate_614	[]	[]	stemOverlap	 5
+P585	FN_SemanticPredicate_170	[]	[]	stemOverlap	 6
+P585	FN_SemanticPredicate_187	[Whole, Unit, Relative_time]	[]	stemOverlap	 7
+P585	FN_SemanticPredicate_466	[]	[]	stemOverlap	 8
+P585	FN_SemanticPredicate_554	[Landmark_entity, Trajector_entity, Trajector_event]	[]	stemOverlap	 9
+P585	FN_SemanticPredicate_213	[Instance, Event]	[]	stemOverlap	 10
+P625	FN_SemanticPredicate_48	[]	[]	stemOverlap	 1
+P625	FN_SemanticPredicate_979	[]	[Location]	stemOverlap	 2
+P625	FN_SemanticPredicate_264	[Goal]	[Theme]	stemOverlap	 3
+P94	FN_SemanticPredicate_358	[]	[]	stemOverlap	 1
+P452	FN_SemanticPredicate_418	[Activity, Work, Salient_entity]	[Activity, Work, Salient_entity]	stemOverlap	 1
+P1056	FN_SemanticPredicate_539	[]	[]	stemOverlap	 1
+P18	FN_SemanticPredicate_161	[]	[Artifact]	stemOverlap	 1
+P18	FN_SemanticPredicate_679	[]	[]	stemOverlap	 2
+P18	FN_SemanticPredicate_845	[]	[Image]	stemOverlap	 3
+P18	FN_SemanticPredicate_30	[Entity_2, Entities, Entity_1]	[]	stemOverlap	 4
+P18	FN_SemanticPredicate_672	[Percept]	[]	stemOverlap	 5
+P18	FN_SemanticPredicate_300	[]	[Impression]	stemOverlap	 6
+P571	FN_SemanticPredicate_955	[]	[]	stemOverlap	 1
+P571	FN_SemanticPredicate_703	[]	[]	stemOverlap	 2
+P112	FN_SemanticPredicate_948	[]	[]	stemOverlap	 1
+P740	FN_SemanticPredicate_66	[]	[]	stemOverlap	 1
+P740	FN_SemanticPredicate_398	[Proposition]	[]	stemOverlap	 2
+P740	FN_SemanticPredicate_12	[]	[]	stemOverlap	 3
+P121	FN_SemanticPredicate_100	[]	[]	stemOverlap	 1
+P115	FN_SemanticPredicate_584	[]	[Building]	stemOverlap	 1
+P115	FN_SemanticPredicate_522	[]	[]	stemOverlap	 2
+P118	FN_SemanticPredicate_440	[Organization, Members]	[Organization, Members]	stemOverlap	 1
+P118	FN_SemanticPredicate_620	[]	[]	stemOverlap	 2
+P286	FN_SemanticPredicate_394	[]	[Person]	stemOverlap	 1
+P634	FN_SemanticPredicate_887	[]	[]	stemOverlap	 1
+P634	FN_SemanticPredicate_768	[Activity, Governed]	[Leader, Governed, Role]	stemOverlap	 2
+P241	FN_SemanticPredicate_94	[]	[]	stemOverlap	 1
+P241	FN_SemanticPredicate_593	[]	[]	stemOverlap	 2
+P169	FN_SemanticPredicate_768	[Governed, Activity, Leader]	[Leader, Governed, Role]	stemOverlap	 1
+P488	FN_SemanticPredicate_768	[Governed, Activity, Leader]	[Leader, Role]	stemOverlap	 1
+P488	FN_SemanticPredicate_544	[]	[]	stemOverlap	 2
+P1308	FN_SemanticPredicate_330	[]	[]	stemOverlap	 1
+P248	FN_SemanticPredicate_66	[]	[]	stemOverlap	 1
+P248	FN_SemanticPredicate_398	[]	[Speaker]	stemOverlap	 2
+P248	FN_SemanticPredicate_12	[]	[]	stemOverlap	 3
+P304	FN_SemanticPredicate_380	[]	[Communication]	stemOverlap	 1
+P792	FN_SemanticPredicate_667	[]	[Ordinality]	stemOverlap	 1
+P433	FN_SemanticPredicate_736	[]	[]	stemOverlap	 1
+P433	FN_SemanticPredicate_1007	[Text]	[]	stemOverlap	 2
+P433	FN_SemanticPredicate_150	[]	[]	stemOverlap	 3
+P433	FN_SemanticPredicate_0	[]	[]	stemOverlap	 4
+P433	FN_SemanticPredicate_593	[]	[]	stemOverlap	 5
+P478	FN_SemanticPredicate_1007	[Text]	[]	stemOverlap	 1
+P708	FN_SemanticPredicate_732	[]	[]	stemOverlap	 1
+P403	FN_SemanticPredicate_1006	[]	[Source, Theme]	stemOverlap	 1
+P403	FN_SemanticPredicate_960	[Source]	[Source, Theme]	stemOverlap	 2
+P21	FN_SemanticPredicate_361	[Person]	[Person]	stemOverlap	 1
+P569	FN_SemanticPredicate_709	[]	[]	stemOverlap	 1
+P1477	FN_SemanticPredicate_644	[Entity]	[Name, Entity]	stemOverlap	 1
+P570	FN_SemanticPredicate_847	[]	[]	stemOverlap	 1
+P570	FN_SemanticPredicate_796	[Protagonist]	[]	stemOverlap	 2
+P157	FN_SemanticPredicate_348	[Victim, Killer, Instrument]	[Killer]	stemOverlap	 1
+P157	FN_SemanticPredicate_400	[]	[Executioner, Executed]	stemOverlap	 2
+P69	FN_SemanticPredicate_479	[]	[Institution, Subject]	stemOverlap	 1
+P106	FN_SemanticPredicate_27	[]	[Position]	stemOverlap	 1
+P106	FN_SemanticPredicate_859	[]	[]	stemOverlap	 2
+P106	FN_SemanticPredicate_1005	[]	[Dimension, Measurement]	stemOverlap	 3
+P106	FN_SemanticPredicate_504	[]	[]	stemOverlap	 4
+P106	FN_SemanticPredicate_958	[]	[Purpose, Entity]	stemOverlap	 5
+P106	FN_SemanticPredicate_61	[]	[]	stemOverlap	 6
+P106	FN_SemanticPredicate_120	[]	[]	stemOverlap	 7
+P106	FN_SemanticPredicate_761	[Agent]	[Output]	stemOverlap	 8
+P106	FN_SemanticPredicate_530	[]	[]	stemOverlap	 9
+P106	FN_SemanticPredicate_376	[]	[Position]	stemOverlap	 10
+P101	FN_SemanticPredicate_418	[Work]	[]	stemOverlap	 1
+P101	FN_SemanticPredicate_48	[]	[]	stemOverlap	 2
+P101	FN_SemanticPredicate_1005	[Dimension]	[Object]	stemOverlap	 3
+P101	FN_SemanticPredicate_758	[Person]	[]	stemOverlap	 4
+P101	FN_SemanticPredicate_183	[]	[]	stemOverlap	 5
+P101	FN_SemanticPredicate_272	[]	[]	stemOverlap	 6
+P101	FN_SemanticPredicate_809	[Text]	[]	stemOverlap	 7
+P800	FN_SemanticPredicate_27	[]	[]	stemOverlap	 1
+P800	FN_SemanticPredicate_859	[]	[]	stemOverlap	 2
+P800	FN_SemanticPredicate_1005	[]	[Dimension]	stemOverlap	 3
+P800	FN_SemanticPredicate_958	[]	[]	stemOverlap	 4
+P800	FN_SemanticPredicate_61	[]	[]	stemOverlap	 5
+P800	FN_SemanticPredicate_761	[Agent]	[Output]	stemOverlap	 6
+P800	FN_SemanticPredicate_530	[]	[Artifact]	stemOverlap	 7
+P108	FN_SemanticPredicate_27	[]	[Employer]	stemOverlap	 1
+P108	FN_SemanticPredicate_376	[]	[Employer, Task]	stemOverlap	 2
+P102	FN_SemanticPredicate_647	[Aggregate]	[Aggregate, Individuals]	stemOverlap	 1
+P102	FN_SemanticPredicate_281	[]	[]	stemOverlap	 2
+P102	FN_SemanticPredicate_673	[]	[]	stemOverlap	 3
+P140	FN_SemanticPredicate_139	[Expressor]	[]	stemOverlap	 1
+P94	FN_SemanticPredicate_358	[]	[]	stemOverlap	 1
+P109	FN_SemanticPredicate_386	[]	[]	stemOverlap	 1
+P109	FN_SemanticPredicate_984	[Signature, Agreement]	[Signature]	stemOverlap	 2
+P1066	FN_SemanticPredicate_479	[Fact, Student, Teacher]	[Teacher, Subject, Fact]	stemOverlap	 1
+P1066	FN_SemanticPredicate_394	[Person]	[Person]	stemOverlap	 2
+P802	FN_SemanticPredicate_479	[Teacher, Subject, Fact]	[Fact, Student, Teacher]	stemOverlap	 1
+P53	FN_SemanticPredicate_924	[]	[]	stemOverlap	 1
+P53	FN_SemanticPredicate_85	[]	[Container]	stemOverlap	 2
+P53	FN_SemanticPredicate_584	[]	[Building]	stemOverlap	 3
+P97	FN_SemanticPredicate_221	[]	[]	stemOverlap	 1
+P512	FN_SemanticPredicate_436	[Item]	[Rank]	stemOverlap	 1
+P512	FN_SemanticPredicate_1000	[]	[Quantity]	stemOverlap	 2
+P512	FN_SemanticPredicate_53	[]	[]	stemOverlap	 3
+P512	FN_SemanticPredicate_221	[]	[]	stemOverlap	 4
+P734	FN_SemanticPredicate_644	[Entity]	[Name, Entity]	stemOverlap	 1
+P735	FN_SemanticPredicate_644	[Entity]	[Name, Entity]	stemOverlap	 1
+P742	FN_SemanticPredicate_644	[Entity]	[]	stemOverlap	 1
+P1303	FN_SemanticPredicate_949	[]	[Gizmo]	stemOverlap	 1
+P54	FN_SemanticPredicate_647	[Aggregate]	[Individuals, Aggregate]	stemOverlap	 1
+P241	FN_SemanticPredicate_94	[]	[]	stemOverlap	 1
+P241	FN_SemanticPredicate_593	[]	[]	stemOverlap	 2
+P410	FN_SemanticPredicate_436	[]	[Rank, Item]	stemOverlap	 1
+P410	FN_SemanticPredicate_940	[]	[Feature]	stemOverlap	 2
+P410	FN_SemanticPredicate_314	[]	[Rank, Item]	stemOverlap	 3
+P607	FN_SemanticPredicate_185	[]	[Purpose]	stemOverlap	 1
+P607	FN_SemanticPredicate_552	[]	[]	stemOverlap	 2
+P22	FN_SemanticPredicate_22	[]	[Alter, Ego]	stemOverlap	 1
+P22	FN_SemanticPredicate_689	[]	[Child, Mother, Father]	stemOverlap	 2
+P25	FN_SemanticPredicate_22	[Ego]	[Ego, Alter]	stemOverlap	 1
+P25	FN_SemanticPredicate_689	[]	[Child, Mother, Father]	stemOverlap	 2
+P25	FN_SemanticPredicate_200	[]	[]	stemOverlap	 3
+P7	FN_SemanticPredicate_22	[Ego, Alter]	[Ego, Alter]	stemOverlap	 1
+P7	FN_SemanticPredicate_738	[]	[]	stemOverlap	 2
+P9	FN_SemanticPredicate_22	[Alter, Ego]	[Ego, Alter]	stemOverlap	 1
+P26	FN_SemanticPredicate_304	[Partner_2, Partner_1]	[Partner_2, Partner_1, Partners]	stemOverlap	 1
+P26	FN_SemanticPredicate_733	[]	[Partners, Partner_1]	stemOverlap	 2
+P26	FN_SemanticPredicate_519	[]	[]	stemOverlap	 3
+P451	FN_SemanticPredicate_304	[]	[Partner_2, Partner_1]	stemOverlap	 1
+P451	FN_SemanticPredicate_733	[]	[]	stemOverlap	 2
+P40	FN_SemanticPredicate_22	[Ego, Alter]	[Ego, Alter]	stemOverlap	 1
+P40	FN_SemanticPredicate_875	[Age, Person]	[Age, Person]	stemOverlap	 2
+P40	FN_SemanticPredicate_689	[Child, Mother]	[Child, Mother, Father]	stemOverlap	 3
+P40	FN_SemanticPredicate_911	[]	[Speaker, Topic]	stemOverlap	 4
+P40	FN_SemanticPredicate_738	[]	[]	stemOverlap	 5
+P43	FN_SemanticPredicate_22	[Alter, Ego]	[Ego, Alter]	stemOverlap	 1
+P44	FN_SemanticPredicate_22	[Ego, Alter]	[Ego, Alter]	stemOverlap	 1
+P1038	FN_SemanticPredicate_22	[Ego]	[Alter, Ego, Relatives]	stemOverlap	 1
+P105	FN_SemanticPredicate_436	[]	[Rank, Item]	stemOverlap	 1
+P105	FN_SemanticPredicate_940	[]	[]	stemOverlap	 2
+P105	FN_SemanticPredicate_314	[]	[Rank, Item]	stemOverlap	 3
+P459	FN_SemanticPredicate_125	[]	[Purpose]	stemOverlap	 1
+P176	FN_SemanticPredicate_441	[Product]	[Manufacturer, Product]	stemOverlap	 1
+P348	FN_SemanticPredicate_228	[]	[]	stemOverlap	 1
+P94	FN_SemanticPredicate_358	[]	[]	stemOverlap	 1
+P522	FN_SemanticPredicate_737	[Path]	[Path]	stemOverlap	 1
+P516	FN_SemanticPredicate_61	[]	[]	stemOverlap	 1
+P520	FN_SemanticPredicate_358	[]	[Weapon]	stemOverlap	 1
+P828	FN_SemanticPredicate_956	[]	[Cause, Actor]	stemOverlap	 1
+P828	FN_SemanticPredicate_754	[]	[]	stemOverlap	 2
+P828	FN_SemanticPredicate_1008	[Content]	[Content]	stemOverlap	 3
+P924	FN_SemanticPredicate_468	[Affliction]	[Treatment, Affliction]	stemOverlap	 1
+P924	FN_SemanticPredicate_904	[Specialty]	[Specialty]	stemOverlap	 2
+P1050	FN_SemanticPredicate_322	[]	[Ailment, Patient]	stemOverlap	 1
+P135	FN_SemanticPredicate_479	[]	[Institution]	stemOverlap	 1
+P135	FN_SemanticPredicate_647	[Individuals]	[Aggregate, Individuals]	stemOverlap	 2
+P135	FN_SemanticPredicate_61	[]	[]	stemOverlap	 3
+P179	FN_SemanticPredicate_574	[]	[]	stemOverlap	 1
+P275	FN_SemanticPredicate_221	[]	[]	stemOverlap	 1
+P1476	FN_SemanticPredicate_221	[Issuer]	[]	stemOverlap	 1
+P371	FN_SemanticPredicate_647	[Individuals]	[Aggregate, Individuals]	stemOverlap	 1
+P371	FN_SemanticPredicate_93	[]	[Host]	stemOverlap	 2
+P371	FN_SemanticPredicate_924	[]	[Host]	stemOverlap	 3
+P371	FN_SemanticPredicate_673	[]	[]	stemOverlap	 4
+P437	FN_SemanticPredicate_23	[]	[]	stemOverlap	 1
+P447	FN_SemanticPredicate_110	[Figure, Ground]	[]	stemOverlap	 1
+P447	FN_SemanticPredicate_125	[]	[]	stemOverlap	 2
+P449	FN_SemanticPredicate_218	[]	[Nodes, Network]	stemOverlap	 1
+P449	FN_SemanticPredicate_420	[]	[Locale]	stemOverlap	 2
+P453	FN_SemanticPredicate_817	[]	[Role]	stemOverlap	 1
+P528	FN_SemanticPredicate_798	[]	[]	stemOverlap	 1
+P528	FN_SemanticPredicate_628	[]	[]	stemOverlap	 2
+P1476	FN_SemanticPredicate_221	[Issuer]	[]	stemOverlap	 1
+P170	FN_SemanticPredicate_99	[]	[Cognizer]	stemOverlap	 1
+P84	FN_SemanticPredicate_394	[]	[Person]	stemOverlap	 1
+P466	FN_SemanticPredicate_288	[]	[Resident]	stemOverlap	 1
+P186	FN_SemanticPredicate_826	[]	[]	stemOverlap	 1
+P186	FN_SemanticPredicate_164	[Material, Use]	[Material, Use]	stemOverlap	 2
+P186	FN_SemanticPredicate_114	[]	[]	stemOverlap	 3
+P195	FN_SemanticPredicate_647	[Aggregate]	[Aggregate, Individuals]	stemOverlap	 1
+P276	FN_SemanticPredicate_48	[]	[]	stemOverlap	 1
+P276	FN_SemanticPredicate_138	[Defining_event]	[]	stemOverlap	 2
+P50	FN_SemanticPredicate_67	[Text]	[Author]	stemOverlap	 1
+P175	FN_SemanticPredicate_647	[Individuals]	[Aggregate, Individuals]	stemOverlap	 1
+P175	FN_SemanticPredicate_529	[Person]	[Person]	stemOverlap	 2
+P175	FN_SemanticPredicate_440	[]	[]	stemOverlap	 3
+P162	FN_SemanticPredicate_735	[Production, Artist]	[Artist]	stemOverlap	 1
+P162	FN_SemanticPredicate_441	[Product]	[Manufacturer]	stemOverlap	 2
+P264	FN_SemanticPredicate_115	[]	[Label, Medium]	stemOverlap	 1
+P57	FN_SemanticPredicate_768	[Governed]	[Leader, Role]	stemOverlap	 1
+P57	FN_SemanticPredicate_735	[Production, Artist]	[Artist]	stemOverlap	 2
+P162	FN_SemanticPredicate_735	[Production, Artist]	[Artist]	stemOverlap	 1
+P162	FN_SemanticPredicate_441	[Product]	[Manufacturer]	stemOverlap	 2
+P161	FN_SemanticPredicate_529	[]	[Person]	stemOverlap	 1
+P161	FN_SemanticPredicate_517	[]	[]	stemOverlap	 2
+P161	FN_SemanticPredicate_394	[]	[Person]	stemOverlap	 3
+P272	FN_SemanticPredicate_335	[]	[]	stemOverlap	 1
+P1620	FN_SemanticPredicate_274	[Goal]	[Cotheme]	stemOverlap	 1
+P1595	FN_SemanticPredicate_997	[]	[]	stemOverlap	 1
+P1595	FN_SemanticPredicate_934	[Evaluee, Communicator]	[]	stemOverlap	 2
+P1595	FN_SemanticPredicate_96	[]	[]	stemOverlap	 3
+P1595	FN_SemanticPredicate_543	[]	[]	stemOverlap	 4
+P1595	FN_SemanticPredicate_768	[Activity, Leader, Governed]	[]	stemOverlap	 5
+P1595	FN_SemanticPredicate_112	[]	[]	stemOverlap	 6
+P1437	FN_SemanticPredicate_910	[Plea]	[Court, Plea, Accused]	stemOverlap	 1
+P1437	FN_SemanticPredicate_927	[]	[]	stemOverlap	 2
+P1596	FN_SemanticPredicate_183	[]	[Reason]	stemOverlap	 1
+P1594	FN_SemanticPredicate_940	[]	[]	stemOverlap	 1
+P1594	FN_SemanticPredicate_394	[]	[Person]	stemOverlap	 2
+P1593	FN_SemanticPredicate_169	[]	[Defender]	stemOverlap	 1

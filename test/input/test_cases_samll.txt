@@ -1,0 +1,9 @@
+Property ID , Property Label , Frame ID , Frame Label ,P Subject,P Object
+P106,occupation,FN_SemanticPredicate_27,Being_employed,Employee,Position
+P108,employer,FN_SemanticPredicate_27,Being_employed,Employee,Employer
+P108,employer,FN_SemanticPredicate_27,Employing,Employee,Employer
+P1066,student of,FN_SemanticPredicate_479,Education_teaching,Student,Teacher
+P22,father,FN_SemanticPredicate_689,Birth,Offspring,Father
+P157,killed by,FN_SemanticPredicate_348,Killing,Victim,Killer
+P157,killed by,FN_SemanticPredicate_400,Execution,Executed,Executioner
+P69,educated at,FN_SemanticPredicate_479,Education_teaching,Student,Institution
